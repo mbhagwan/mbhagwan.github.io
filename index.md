@@ -7,19 +7,17 @@
 
 ## Completed Courses
 
-[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)
+_[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)_
 
-[Data Visualization in Excel](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-2)
+_[Data Visualization in Excel](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-2)_
 
-[Learn-R](https://github.com/mbhagwan/Learn-R)
+_[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
-[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)
+_[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
 
-[Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)
+_[Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)_
 
-[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)
+_[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
 ## Portfolio
 * _coming soon_
-
-In his beard lived three <span style="color:red">cardinals</span>.
