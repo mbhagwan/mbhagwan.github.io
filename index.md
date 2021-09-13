@@ -1,6 +1,9 @@
 # Certifications | Completed Courses | Portfolio
 
+---
+
 ## Certifications
+* _coming soon_
 
 ## Completed Courses
 
@@ -17,3 +20,4 @@
 [SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)
 
 ## Portfolio
+* _coming soon_
