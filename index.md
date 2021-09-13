@@ -8,6 +8,12 @@
 
 [Excel Worksheet](https://mbhagwan.github.io/Excel.html)
 
+[Learn-R]()
+
+[Python for Data Analysis]()
+
 [Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)
+
+[SQL for Data Analysis]()
 
 ## Portfolio
