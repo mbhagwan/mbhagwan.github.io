@@ -4,9 +4,9 @@
 
 ## Completed Courses
 
-[Excel Fundamentals](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization/tree/main/Course_1)
+[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)
 
-[Excel Worksheet](https://mbhagwan.github.io/Excel.html)
+[Data Visualization in Excel]()
 
 [Learn-R](https://github.com/mbhagwan/Learn-R)
 
