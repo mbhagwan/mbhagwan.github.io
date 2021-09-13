@@ -14,6 +14,6 @@
 
 [Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)
 
-[SQL for Data Analysis]()
+[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)
 
 ## Portfolio
