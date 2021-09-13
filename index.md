@@ -1,4 +1,4 @@
-# Certifications | Completed Courses | Portfolio
+<h1 style="color=blue;">Certifications | Completed Courses | Portfolio</h1>
 
 ---
 
