@@ -21,3 +21,5 @@
 
 ## Portfolio
 * _coming soon_
+
+In his beard lived three <span style="color:red">cardinals</span>.
