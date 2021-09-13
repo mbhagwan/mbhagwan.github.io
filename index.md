@@ -6,7 +6,7 @@
 
 [Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)
 
-[Data Visualization in Excel]()
+[Data Visualization in Excel](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-2)
 
 [Learn-R](https://github.com/mbhagwan/Learn-R)
 
