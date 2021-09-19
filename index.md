@@ -4,6 +4,12 @@
 
 [About](about.md)
 
+[Skills certification](certifications.md)
+
+[Other courses](courses.md)
+
+[Portfolio](portfolio.md)
+
 ## Skills Certifications
 * _coming soon_
 
