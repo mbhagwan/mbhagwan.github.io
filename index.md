@@ -1,8 +1,8 @@
-# Certifications | Completed Courses | Portfolio
+# Skills Certifications | Completed Courses | Portfolio
 
 ---
 
-## Certifications
+## Skills Certifications
 * _coming soon_
 
 ## Completed Courses
