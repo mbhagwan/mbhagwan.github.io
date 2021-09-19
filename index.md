@@ -2,6 +2,8 @@
 
 ---
 
+[About](about.md)
+
 ## Skills Certifications
 * _coming soon_
 
