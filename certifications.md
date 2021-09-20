@@ -20,6 +20,15 @@
 * <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
 * <i>[Grasshopper Coding Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Grasshopper_Coding_Fundamentals.pdf)</i>
 
+## by LinkedIn Learning
+
+* <i>[Excel 2019 Essential Training]()</i>
+* <i>[Excel PivotTables for Beginners]()</i>
+* <i>[Google Drive Essential Training]()</i>
+* <i>[Google Docs Essential Training]()</i>
+* <i>[Google Sheets Essential Training]()</i>
+* <i>[Google Slides Essential Training]()</i>
+
 ## by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
