@@ -2,13 +2,13 @@
 
 ---
 
-[About](about.md)
+## [About](about.md)
 
-[Skills certification](certifications.md)
+## [Skills Certificates](certifications.md)
 
-[Other courses](courses.md)
+## [Other courses](courses.md)
 
-[Portfolio](portfolio.md)
+## [Portfolio](portfolio.md)
 
 ## Skills Certifications
 * _coming soon_
