@@ -6,7 +6,7 @@
 
 ## [Skills Certificates](certifications.md)
 
-## [Other courses](courses.md)
+## [Other Skills Training](courses.md)
 
 ## [Portfolio](portfolio.md)
 
