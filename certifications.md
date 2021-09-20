@@ -1,6 +1,6 @@
 # Certificates
 
-### by Cognitive Class | IBM
+## by Cognitive Class | IBM
 * **Data Science Foundations**
 
   * <i>[Introduction to Data Science](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Science.pdf)</i>
@@ -11,7 +11,7 @@
   * <i>[Data Visualization with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Visualization_with_Python.pdf)</i>
   * <i>[Python 101 for Data Science](https://github.com/mbhagwan/Certifications/blob/main/Python_101_for_Data_Science.pdf)</i>
 
-### by Google
+## by Google
 
 * <i>[Fundamentals of Digital Marketing](https://github.com/mbhagwan/Certifications/blob/main/Fundamentals_of_Digital_Marketing.pdf)</i>
 * <i>[Google Analytics for Beginners](https://github.com/mbhagwan/Certifications/blob/main/Google_Analytics_for_Beginners.pdf)</i>
@@ -20,7 +20,7 @@
 * <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
 * <i>[Grasshopper Coding Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Grasshopper_Coding_Fundamentals.pdf)</i>
 
-### by Saylor Academy
+## by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
 
