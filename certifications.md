@@ -9,7 +9,7 @@
 * Applied Data Science with Python
   * <i>[Data Analytics with Python]()</i>
   * <i>[Data Visualization with Python]()</i>
-  * <i>[Python for Data Science]()</i>
+  * <i>[Python 101 for Data Science]()</i>
 
 ### by Saylor Academy
 
