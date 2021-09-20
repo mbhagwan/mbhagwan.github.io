@@ -2,8 +2,6 @@
 
 ---
 
-![](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/enter.jpg)
-
 ## [About](about.md)
 
 ## [Skills Certificates](certifications.md)
