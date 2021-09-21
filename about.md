@@ -8,12 +8,4 @@
 </ul>
 </h3>
 
-### [About](about.md)
-
-### [Certified IT Skills](certifications.md)
-
-### [Other IT Skills](courses.md)
-
-### [Portfolio](portfolio.md)
-
 ## [View LinkedIn Profile](https://www.linkedin.com/in/mbhagwan)
