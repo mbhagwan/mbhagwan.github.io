@@ -2,7 +2,7 @@
 
 ---
 
-## [About](about.md)
+### [About](about.md)
 
 ## [Certified IT Skills](certifications.md)
 
