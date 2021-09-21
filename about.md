@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-<ul class="nav">
+<ul>
   <li><a href="#">Home</a></li>
   <li><a href="#">About Us</a></li>
   <li><a href="#">Services</a></li>
