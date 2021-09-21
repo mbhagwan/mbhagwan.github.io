@@ -1,4 +1,4 @@
-<link href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/style.css" rel="stylesheet"></link>
+<link href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/style.css" rel="stylesheet">
 
 <ul class="nav">
   <li><a href="#">Home</a></li>
