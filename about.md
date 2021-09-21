@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-<link href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
 <ul class="nav">
