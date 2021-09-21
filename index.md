@@ -1,4 +1,4 @@
-# Skills Certifications | Completed Courses | Portfolio
+# IT Skills | Portfolio
 
 ---
 
