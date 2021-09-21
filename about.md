@@ -1,3 +1,5 @@
+<link href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/style.css" rel="stylesheet"></link>
+
 <ul class="nav">
   <li><a href="#">Home</a></li>
   <li><a href="#">About Us</a></li>
