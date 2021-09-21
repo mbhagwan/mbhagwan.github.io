@@ -1,3 +1,4 @@
+<h3>
 <ul>
   <li><a href="certifications.md">Home</a></li>
   <li><a href="#">Certified IT Skills</a></li>
@@ -5,6 +6,7 @@
   <li><a href="#">Portfolio</a></li>
   <li>About</li>
 </ul>
+</h3>
 
 ### [About](about.md)
 
