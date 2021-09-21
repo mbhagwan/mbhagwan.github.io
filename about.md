@@ -1,9 +1,10 @@
-<div style="color:red;">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
+<ul>
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Certified IT Skills</a></li>
+  <li><a href="#">Other IT Skills</a></li>
+  <li><a href="#">Portfolio</a></li>
+  <li><a href="#">About</a></li>
+</ul>
 
 ## [View LinkedIn Profile](https://www.linkedin.com/in/mbhagwan)
 
