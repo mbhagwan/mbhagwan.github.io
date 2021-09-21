@@ -1,4 +1,4 @@
-# Certificates
+# IT Certificates
 
 ## by Cognitive Class | IBM
 * **Data Science Foundations**
