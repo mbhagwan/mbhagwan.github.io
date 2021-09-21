@@ -4,14 +4,11 @@
 
 ## [About](about.md)
 
-## [Skills Certificates](certifications.md)
+## [Certified IT Skills](certifications.md)
 
-## [Other Skills Training](courses.md)
+## [Other IT Skills](courses.md)
 
 ## [Portfolio](portfolio.md)
-
-## Skills Certifications
-* _coming soon_
 
 ## Completed Courses
 
