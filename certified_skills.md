@@ -2,13 +2,13 @@
 
 ---
 
-[Home](index.md)
-
-[Other IT Skills](other_skills.md)
-
-[Portfolio](portfolio.md)
-
-[About](about.md)
+> [Home](index.md)
+>
+> [Other IT Skills](other_skills.md)
+>
+> [Portfolio](portfolio.md)
+>
+> [About](about.md)
 
 ---
 
