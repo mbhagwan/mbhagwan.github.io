@@ -1,8 +1,6 @@
-# Certified IT Skills
+## Certified IT Skills
 
 [Home](index.md)
-
-[Certified IT Skills](certified_skills.md)
 
 [Other IT Skills](other_skills.md)
 
@@ -10,9 +8,9 @@
 
 [About](about.md)
 
-# IT Certificates
+## IT Certificates
 
-## by Cognitive Class | IBM
+### by Cognitive Class | IBM
 * **Data Science Foundations**
 
   * <i>[Introduction to Data Science](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Science.pdf)</i>
@@ -23,7 +21,7 @@
   * <i>[Data Visualization with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Visualization_with_Python.pdf)</i>
   * <i>[Python 101 for Data Science](https://github.com/mbhagwan/Certifications/blob/main/Python_101_for_Data_Science.pdf)</i>
 
-## by Google
+### by Google
 
 * <i>[Fundamentals of Digital Marketing](https://github.com/mbhagwan/Certifications/blob/main/Fundamentals_of_Digital_Marketing.pdf)</i>
 * <i>[Google Analytics for Beginners](https://github.com/mbhagwan/Certifications/blob/main/Google_Analytics_for_Beginners.pdf)</i>
@@ -32,7 +30,7 @@
 * <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
 * <i>[Grasshopper Coding Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Grasshopper_Coding_Fundamentals.pdf)</i>
 
-## by LinkedIn Learning
+### by LinkedIn Learning
 
 * <i>[Excel 2019 Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Excel_2019_Essential_Training.pdf)</i>
 * <i>[Excel PivotTables for Beginners](https://github.com/mbhagwan/Certifications/blob/main/Excel_PivotTables_for_Beginners.pdf)</i>
@@ -41,6 +39,6 @@
 * <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
 * <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
 
-## by Saylor Academy
+### by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
