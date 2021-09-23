@@ -14,7 +14,7 @@
 
 _[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis)_
   
-_[Data Visualization in Excel](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-2)_
+_[Data Visualization in Excel](https://github.com/mbhagwan/Data-Visualization-in-Excel)_
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
