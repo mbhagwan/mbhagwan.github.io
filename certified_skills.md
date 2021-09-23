@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em;">CERTIFIED IT SKILLS</span>
+<span style="font-family:Papyrus; font-size:3em;">Certified IT Skills</span>
 
 ---
 
