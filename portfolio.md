@@ -1,4 +1,6 @@
-<span style="font-family:Papyrus; font-size:3em;">PORTFOLIO</span>
+<span style="font-family:Papyrus; font-size:3em;">Portfolio</span>
+
+---
 
 [Home](index.md)
 
@@ -8,4 +10,6 @@
 
 [About](about.md)
 
-# Under construction
+---
+
+<span style="font-family:Papyrus; font-size:2em;">Under Construction</span>
