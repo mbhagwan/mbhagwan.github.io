@@ -12,7 +12,7 @@
 
 ---
 
-<span style="color:red">
+<span style="color:red;">
   <a href="https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1">Excel Fundamentals for Data Analysis</a>
 </span>
 
