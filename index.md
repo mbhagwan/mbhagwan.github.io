@@ -12,6 +12,6 @@
 
 ---
 
-<span style="font-family:Papyrus; font-size:1em;">
+<span style="font-family:Papyrus; font-size:2em;">
 Don't wait, the time will never be just right - Napolean Hill
 </span>
