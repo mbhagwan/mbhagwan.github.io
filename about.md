@@ -6,7 +6,5 @@
 
 [Portfolio](portfolio.md)
 
-[About](about.md)
- 
 
 ## [Profile on LinkedIn](https://www.linkedin.com/in/mbhagwan)
