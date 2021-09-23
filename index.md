@@ -2,7 +2,7 @@
 
 ---
 
-<span style="color:red">[Home](index.md)</span>[Home](index.md)
+<span style="color:red">[Home](index.md)</span>
 
 [Certified IT Skills](certified_skills.md)
 
