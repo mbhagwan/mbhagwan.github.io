@@ -10,6 +10,6 @@
 
 <span style="font-family:Papyrus; font-size:3em;">
   
-[Profile on LinkedIn](https://www.linkedin.com/in/mbhagwan)
+  <a href="https://www.linkedin.com/in/mbhagwan">Profile on LinkedIn</a>
   
 </span>
