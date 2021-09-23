@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em;">ABOUT</span>
+<span style="font-family:Papyrus; font-size:3em;">About</span>
 
 ---
 
