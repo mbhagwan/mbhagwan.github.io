@@ -9,3 +9,5 @@
 > [Portfolio](portfolio.md)
 >
 > [About](about.md)
+
+> Don't wait, the time will never be just right - Napolean Hill
