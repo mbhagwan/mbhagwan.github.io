@@ -1,4 +1,6 @@
-<span style="font-family:Papyrus; font-size:3em;">OTHER IT SKILLS</span>
+<span style="font-family:Papyrus; font-size:3em;">Other IT Skills</span>
+
+---
 
 [Home](index.md)
 
@@ -8,7 +10,7 @@
 
 [About](about.md)
 
-# Other IT Skills
+---
 
 _[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)_
 
