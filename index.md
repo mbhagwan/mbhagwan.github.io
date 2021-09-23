@@ -1,8 +1,8 @@
-# Home
+## HOME
 
 ---
 
-<span style="color:red">[Home](index.md)</span>
+[Home]()
 
 [Certified IT Skills](certified_skills.md)
 
