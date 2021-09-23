@@ -8,5 +8,8 @@
 
 [Portfolio](portfolio.md)
 
-
-## [Profile on LinkedIn](https://www.linkedin.com/in/mbhagwan)
+<span style="font-family:Papyrus; font-size:3em;">
+  
+[Profile on LinkedIn](https://www.linkedin.com/in/mbhagwan)
+  
+</span>
