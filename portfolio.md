@@ -4,8 +4,6 @@
 
 [Other IT Skills](other_skills.md)
 
-[Portfolio](portfolio.md)
-
 [About](about.md)
 
 # Under construction
