@@ -2,13 +2,13 @@
 
 ---
 
-[Home](index.md)
-
-[Certified IT Skills](certified_skills.md)
-
-[Other IT Skills](other_skills.md)
-
-[About](about.md)
+> [Home](index.md)
+>
+> [Certified IT Skills](certified_skills.md)
+> 
+> [Other IT Skills](other_skills.md)
+>
+> [About](about.md)
 
 ---
 
