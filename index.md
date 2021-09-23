@@ -1,4 +1,4 @@
-<span style="font-family:Intro; font-size:4em;">HOME</span>
+<span style="font-family:Papyrus; font-size:3em;">HOME</span>
 
 ---
 
