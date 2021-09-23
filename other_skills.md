@@ -12,7 +12,7 @@
 
 ---
 
-_[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-1)_
+_[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis)_
   
 _[Data Visualization in Excel](https://github.com/mbhagwan/Excel-Skills-for-Data-Analytics-and-Visualization-Course-2)_
 
