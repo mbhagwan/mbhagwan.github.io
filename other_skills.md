@@ -1,4 +1,4 @@
-# Other IT Skills
+<span style="font-family:Papyrus; font-size:3em;">OTHER IT SKILLS</span>
 
 [Home](index.md)
 
