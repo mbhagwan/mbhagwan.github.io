@@ -1,5 +1,7 @@
+<center>
 <span style="font-family:Papyrus; font-size:3em;">Home</span>
-
+</center>
+  
 ---
 
 > [Certified IT Skills](certified_skills.md)
