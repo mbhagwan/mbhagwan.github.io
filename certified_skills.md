@@ -33,7 +33,7 @@
 * <i>[Google Tag Manager Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Google_Tag_Manager_Fundamentals.pdf)</i>
 * <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
 * <i>[Grasshopper Coding Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Grasshopper_Coding_Fundamentals.pdf)</i>
-* <i>Google Data Analytics Certificate - course in progress</i>
+* <i>Google Data Analytics Professional Certificate - course in progress</i>
 
 ### by LinkedIn Learning
 
