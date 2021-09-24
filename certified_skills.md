@@ -22,6 +22,8 @@
   * <i>[Data Analysis with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Analysis_with_Python.pdf)</i>
   * <i>[Data Visualization with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Visualization_with_Python.pdf)</i>
   * <i>[Python 101 for Data Science](https://github.com/mbhagwan/Certifications/blob/main/Python_101_for_Data_Science.pdf)</i>
+* **Others**
+  * <i>R 101 - course in progress</i>
 
 ### by Google
 
