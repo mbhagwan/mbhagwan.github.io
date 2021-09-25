@@ -12,7 +12,7 @@
 
 ---
 
-![](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/portfolio_calligraphy.jpeg)
+<meta name="image" property="og:image" content="[https://github.com/mbhagwan/mbhagwan.github.io/blob/main/portfolio_calligraphy.jpeg]">
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
