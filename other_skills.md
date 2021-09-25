@@ -24,4 +24,4 @@ _[Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization
 
 _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
-[Advanced SQL]()
+_[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
