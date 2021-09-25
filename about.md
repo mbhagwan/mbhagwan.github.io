@@ -13,5 +13,5 @@
 ---
 
 <span style="font-family:Papyrus; font-size:2em;">
-  <a href="https://www.linkedin.com/in/mbhagwan">View LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/mbhagwan/">View LinkedIn Profile</a>
 </span>
