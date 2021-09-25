@@ -23,3 +23,5 @@ _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis
 _[Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)_
 
 _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
+
+[Advanced SQL]()
