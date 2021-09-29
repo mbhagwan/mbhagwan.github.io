@@ -7,7 +7,9 @@
 > [Other IT Skills](other_skills.md)
 >
 > [Portfolio](portfolio.md)
->
+> 
+> [Useful Links](links.md)
+> 
 > [About](about.md)
 
 ---
