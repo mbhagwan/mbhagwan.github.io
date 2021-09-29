@@ -13,3 +13,7 @@
 > [About](about.md)
 
 ---
+
+### Data Science
+
+- <i> [30+ Most Valuable GitHub Repositories For Data Science](https://www.theinsaneapp.com/2021/09/best-github-repositories-for-data-science.html) </i>
