@@ -7,7 +7,9 @@
 > [Certified IT Skills](certified_skills.md)
 >
 > [Portfolio](portfolio.md)
->
+> 
+> [Useful Links](links.md)
+> 
 > [About](about.md)
 
 ---
