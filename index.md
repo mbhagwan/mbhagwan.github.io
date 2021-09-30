@@ -11,8 +11,6 @@
 > [Useful Links](links.md)
 > 
 > [About](about.md)
->
-> [Excel](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/Excel.html)
 
 ---
 
