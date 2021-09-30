@@ -51,9 +51,9 @@
 * <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
 * <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
 
-### by NTUC Learning Hub
+### by NTUC LearningHub
 
-* <i>[Digital Marketing & E-commerce Specialist]()</i>
+* <i>[Digital Marketing & E-Commerce Specialist](https://github.com/mbhagwan/Certifications/blob/main/Digital_Marketing_%20%26Ecommerce_Specialist.pdf)</i>
 
 ### by Saylor Academy
 
