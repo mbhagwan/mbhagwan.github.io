@@ -14,15 +14,23 @@
 
 ---
 
-_[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis)_
+### by Coursera | Macquarie University
+
+* **Excel Skills for Business Specialization**
+
+  * <i>[Excel Skills for Business: Essentials]()</i>
+
+  * <i>[Excel Skills for Business: Intermediate I]()</i>
   
-_[Data Visualization in Excel](https://github.com/mbhagwan/Data-Visualization-in-Excel)_
+* **Excel Skills for Data Analytics and Visualization Specialization**
+
+  * <i>[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis)</i>
+  
+  * <i>[Data Visualization in Excel](https://github.com/mbhagwan/Data-Visualization-in-Excel)</i>
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
 _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
-
-_[Data Visualization with Python](https://github.com/mbhagwan/Data-Visualization-with-Python)_
 
 _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
