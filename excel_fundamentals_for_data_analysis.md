@@ -23,6 +23,7 @@ by: Coursera | Macquarie University<br>
 
 <details>
 <summary>Course syllabus</summary>
+
   
 #### Course syllabus:
 
