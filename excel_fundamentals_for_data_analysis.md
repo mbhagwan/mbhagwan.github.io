@@ -22,7 +22,7 @@ by: Coursera | Macquarie University<br>
 
 #### Course syllabus:
 
-<table style="width:100%">
+<table>
     <tr>
         <th style="width:20%">Week</th>
         <th>Syllabus</th>
