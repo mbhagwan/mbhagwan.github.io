@@ -33,23 +33,23 @@ by: Coursera | Macquarie University<br>
     </tr>
     <tr>
         <td>2</td>
-        <td>Clark Kent</td>
-      <td><li>34</li></td>
+        <td>Working with numbers and dates</td>
+      <td><li>Understand how dates work in Excel</li> <li>Apply a range of functions for converting data to different data types</li> <li>Formulate calculations using more advanced date functions</li></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Peter Parker</td>
-        <td>16</td>
+        <td>Defined Names for working more effectively with data</td>
+        <td><li>Understand what Named Ranges are and their advantages</li> <li>Demonstrate a range of methods for creating Named Ranges</li> <li>Modify workbooks to use Named Ranges</li></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Peter Parker</td>
-        <td>16</td>
+        <td>Tables for automating data manipulation</td>
+        <td><li>Understand what tables are and the advantages of using them</li> <li>Know how to convert a range to a table and work effectively with that table</li> <li>Recognise and use structured referencing</li></td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Peter Parker</td>
-        <td>16</td>
+        <td>Logical and lookup functions</td>
+        <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
     </tr>
 </table>
 
