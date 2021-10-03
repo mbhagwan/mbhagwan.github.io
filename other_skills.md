@@ -26,7 +26,7 @@
 
   * <i>[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)</i>
   
-  * <i>[Data Visualization in Excel](https://github.com/mbhagwan/Data-Visualization-in-Excel)</i>
+  * <i>[Data Visualization in Excel](data_visualization_in_excel.md)</i>
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
