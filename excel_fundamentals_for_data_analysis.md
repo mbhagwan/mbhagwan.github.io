@@ -1,6 +1,7 @@
 <hr>
 <details>
 <summary>Weekly Practice Challenges</summary>
+  <br>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghWjIfuP2damNHUc?e=KHhnAZ">Week 1</a></li>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghc41zGdy4Fl9WV_?e=frlxa9">Week 2</a></li>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghlOA41m6W_i6N9s?e=TQZVRf">Week 3</a></li>
