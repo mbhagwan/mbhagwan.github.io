@@ -24,7 +24,7 @@ by: Coursera | Macquarie University<br>
 
 Week | Syllabus | Details
 :----|:---------|:-------
-1 | Cleaning and manipulating text | * Apply a range of text functions to manipulate and restructure data <li>Solve issues of removing and replacing unwanted characters</li> <li>Develop confidence working with advanced formula techniques and nested functions</li>
+1 | Cleaning and manipulating text | * Apply a range of text functions to manipulate and restructure data * Solve issues of removing and replacing unwanted characters * Develop confidence working with advanced formula techniques and nested functions
 2 | Working with numbers and dates | <li>Understand how dates work in Excel</li> <li>Apply a range of functions for converting data to different data types</li> <li>Formulate calculations using more advanced date functions</li>
 3 | Defined Names for working more effectively with data | <li>Understand what Named Ranges are and their advantages</li> <li>Demonstrate a range of methods for creating Named Ranges</li> <li>Modify workbooks to use Named Ranges</li>
 4 | Tables for automating data manipulation | <li>Understand what tables are and the advantages of using them</li> <li>Know how to convert a range to a table and work effectively with that table</li> <li>Recognise and use structured referencing</li>
