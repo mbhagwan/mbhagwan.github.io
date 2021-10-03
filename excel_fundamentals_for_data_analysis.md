@@ -22,19 +22,34 @@ by: Coursera | Macquarie University<br>
 
 <table>
     <tr>
-        <th>No.</th>
-        <th>Name</th>
-        <th>Age</th>
+        <th>Week</th>
+        <th>Syllabus</th>
+        <th>Details</th>
     </tr>
     <tr>
         <td>1</td>
-        <td>Peter Parker</td>
-        <td>16</td>
+        <td>Cleaning and manipulating text</td>
+        <td><li>Apply a range of text functions to manipulate and restructure data</li> <li>Solve issues of removing and replacing unwanted characters</li> <li>Develop confidence working with advanced formula techniques and nested functions</li></td>
     </tr>
     <tr>
         <td>2</td>
         <td>Clark Kent</td>
       <td><li>34</li></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Peter Parker</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Peter Parker</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Peter Parker</td>
+        <td>16</td>
     </tr>
 </table>
 
