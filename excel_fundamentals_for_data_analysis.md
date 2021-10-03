@@ -22,10 +22,7 @@ by: Coursera | Macquarie University<br>
 * Use logical and lookup functions to transform and categorise data.
 
 <details>
-<summary>Course syllabus</summary>
-
-  
-#### Course syllabus:
+<summary>Course syllabus:</summary>
 
 <table border="1">
     <tr>
