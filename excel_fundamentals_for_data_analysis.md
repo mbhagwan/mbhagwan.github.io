@@ -25,7 +25,7 @@ by: Coursera | Macquarie University<br>
 <table>
     <tr>
         <th>Week</th>
-        <th colspan="2">Syllabus</th>
+        <th>Syllabus</th>
         <th>Details</th>
     </tr>
     <tr>
@@ -53,21 +53,4 @@ by: Coursera | Macquarie University<br>
         <td>Logical and lookup functions</td>
         <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
     </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="2">Name</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>57</td>
-  </tr>
 </table>
