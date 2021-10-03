@@ -20,6 +20,8 @@ by: Coursera | Macquarie University<br>
 * Understand the different types of data in Excel and use appropriate functions to work with them.
 * Use logical and lookup functions to transform and categorise data.
 
+#### Course syllabus:
+
 <table>
     <tr>
         <th>Week</th>
