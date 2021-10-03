@@ -33,7 +33,7 @@ by: Coursera | Macquarie University<br>
     <tr>
         <td>1</td>
         <td>Bring Data to life using Conditional Formatting & Custom Number Formatting</td>
-        <td><li>Trend Based Formatting: Heat Maps, Data Bars, Icon Sets</li> <li>Top / Bottom Formats</li> <li>Duplicate Values and Other Rules</li> <li>Deleting and Editing Conditional Formats</li> <li>Using Formulas to create Custom Conditional Formats</li> <li>Custom Number Formats (Simple)</li> <li>Custom Number Formats (More Advanced</li></td>
+        <td><li>Trend Based Formatting: Heat Maps, Data Bars, Icon Sets</li> <li>Top / Bottom Formats</li> <li>Duplicate Values and Other Rules</li> <li>Deleting and Editing Conditional Formats</li> <li>Using Formulas to create Custom Conditional Formats</li> <li>Custom Number Formats (Simple)</li> <li>Custom Number Formats (More Advanced)</li></td>
     </tr>
     <tr>
         <td>2</td>
@@ -43,16 +43,16 @@ by: Coursera | Macquarie University<br>
     <tr>
         <td>3</td>
         <td>Using Specialised Charts</td>
-        <td><li>Understand what Named Ranges are and their advantages</li> <li>Demonstrate a range of methods for creating Named Ranges</li> <li>Modify workbooks to use Named Ranges</li></td>
+      <td><li>Sparklines</li> <li>Sunburst and Treemaps</li> <li>Waterfall Charts</li> <li>Funnel Charts</li> <li>Geospatial Charts</li></td>
     </tr>
     <tr>
         <td>4</td>
         <td>Create an Interactive Dashboard Using Pivot Charts and Slicers</td>
-        <td><li>Understand what tables are and the advantages of using them</li> <li>Know how to convert a range to a table and work effectively with that table</li> <li>Recognise and use structured referencing</li></td>
+        <td><li>Create Pivot Tables</li> <li>Sort, Filter and Group in Pivot Tables</li> <li>Add Custom Fields</li> <li>Create and Customise Pivot Charts and add to dashboard</li> <li>Add Slicers for more Interactive Dashboards</li></td>
     </tr>
     <tr>
         <td>5</td>
         <td>Complete the Dashboard with Creative Visualizations and Dynamic Charts</td>
-        <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
+        <td><li>Embed Custom Graphics</li> <li>Create Infographics</li> <li>Progress Charts</li> <li>Speedometer Charts</li> <li>Dynamic Charts</li></td>
     </tr>
 </table>
