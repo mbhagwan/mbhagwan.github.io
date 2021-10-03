@@ -24,7 +24,7 @@ by: Coursera | Macquarie University<br>
 
 <table>
     <tr>
-        <th style="width:20%">Week</th>
+        <th>Week</th>
         <th>Syllabus</th>
         <th>Details</th>
     </tr>
@@ -55,20 +55,3 @@ by: Coursera | Macquarie University<br>
     </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <th style="width:70%">Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
