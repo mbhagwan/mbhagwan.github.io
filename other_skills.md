@@ -24,7 +24,7 @@
   
 * **Excel Skills for Data Analytics and Visualization Specialization**
 
-  * <i>[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis)</i>
+  * <i>[Excel Fundamentals for Data Analysis](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis/blob/main/course_1.md)</i>
   
   * <i>[Data Visualization in Excel](https://github.com/mbhagwan/Data-Visualization-in-Excel)</i>
 
