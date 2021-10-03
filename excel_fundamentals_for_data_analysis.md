@@ -25,7 +25,7 @@ by: Coursera | Macquarie University<br>
 <table>
     <tr>
         <th>Week</th>
-        <th>Syllabus</th>
+        <th colspan="2">Syllabus</th>
         <th>Details</th>
     </tr>
     <tr>
