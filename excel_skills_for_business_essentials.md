@@ -37,27 +37,27 @@ by: Coursera | Macquarie University<br>
     <tr>
         <td>2</td>
         <td>Performing Calculations</td>
-      <td><li>Understand how dates work in Excel</li> <li>Apply a range of functions for converting data to different data types</li> <li>Formulate calculations using more advanced date functions</li></td>
+      <td><li>Explain the syntax of basic formulas and functions</li> <li>Use formulas and functions to perform simple calculations</li> <li>Describe the difference between relative and absolute cell references</li></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Formatting</td>
-        <td><li>Understand what Named Ranges are and their advantages</li> <li>Demonstrate a range of methods for creating Named Ranges</li> <li>Modify workbooks to use Named Ranges</li></td>
+        <td><li>Give examples of key formatting tools and their uses in Excel</li> <li>Modify spreadsheets with Excel styles and themes</li> <li>Explain the use of number formatting in Excel</li> <li>Format a raw data sheet using Excel formatting tools</li></td>
     </tr>
     <tr>
         <td>4</td>
         <td>Working with Data</td>
-        <td><li>Understand what tables are and the advantages of using them</li> <li>Know how to convert a range to a table and work effectively with that table</li> <li>Recognise and use structured referencing</li></td>
+        <td><li>Manage rows, columns, and worksheets</li> <li>Identify, retrieve and change data in spreadsheets</li> <li>Explain how to operate Conditional Formatting in Excel</li> <li>Use the conditional formatting tool to highlight specific data</li></td>
     </tr>
     <tr>
         <td>5</td>
         <td>Printing</td>
-        <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
+        <td><li>Identify the key printing tools and options in Excel</li> <li>Optimise a spreadsheet for printing</li> <li>Create a spreadsheet for printing with repeating elements</li></td>
     </tr>
     <tr>
         <td>6</td>
         <td>Charts</td>
-        <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
+        <td><li>Describe basic chart types in Excel</li> <li>Produce basic charts in Excel</li> <li>Modify charts in Excel</li></td>
     </tr>
 </table>
 </details>
