@@ -19,7 +19,8 @@ by: Coursera | Macquarie University<br>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgiP18CwGUMM2Z6w2?e=ogJgZl">Week 3</a></li>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgiWE-SEVt6kwRjdc?e=nFoKtx">Week 4</a></li>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgich1RSBVgQly2tQ?e=wMLuJy">Week 5</a></li>
-</details><br>
+</details>
+
 <details>
 <summary>Course Syllabus:</summary>
 <br>
