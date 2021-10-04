@@ -5,7 +5,8 @@ by: Coursera | Macquarie University<br>
 
 ### Course learning objectives
 * Learn the essentials of Microsoft Excel
-* Expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, and create visualizations of data through charts and graphs
+* Expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, 
+and create visualizations of data through charts and graphs
 * Solve a broad range of business problems as you apply the Excel skills and techniques you learn along the way
 * Practice your Excel skills while discovering new and useful productivity features of Excel for a variety of business contexts
 
