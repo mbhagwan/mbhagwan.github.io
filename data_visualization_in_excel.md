@@ -12,7 +12,7 @@ by: Coursera | Macquarie University<br>
 
 <hr>
 <details>
-<summary>Weekly Practice Challenges</summary>
+<summary>Weekly Assessment</summary>
   <br>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgh-EeVYK0o1PiN9M?e=FyW5Mi">Week 1</a></li>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgiFiFhwo3bS0AN-F?e=eO2wpa">Week 2</a></li>
