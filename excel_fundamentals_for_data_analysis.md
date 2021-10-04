@@ -1,15 +1,3 @@
-<hr>
-<details>
-<summary>Weekly Practice Challenges</summary>
-  <br>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghWjIfuP2damNHUc?e=KHhnAZ">Week 1</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghc41zGdy4Fl9WV_?e=frlxa9">Week 2</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghlOA41m6W_i6N9s?e=TQZVRf">Week 3</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghsjaY8c9PhyuaOe?e=HHcbP5">Week 4</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgh23Hg-QqBIaNurq?e=IfeVP8">Week 5</a></li>
-</details>
-<hr>
-
 # Excel Skills for Data Analytics and Visualization Specialization
 
 ## Course 1: Excel Fundamentals for Data Analysis<br>
@@ -21,8 +9,19 @@ by: Coursera | Macquarie University<br>
 * Understand the different types of data in Excel and use appropriate functions to work with them.
 * Use logical and lookup functions to transform and categorise data.
 
+<hr>
 <details>
-<summary>Course syllabus:</summary>
+<summary>Weekly Assessment</summary>
+  <br>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghWjIfuP2damNHUc?e=KHhnAZ">Week 1</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghc41zGdy4Fl9WV_?e=frlxa9">Week 2</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghlOA41m6W_i6N9s?e=TQZVRf">Week 3</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghsjaY8c9PhyuaOe?e=HHcbP5">Week 4</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgh23Hg-QqBIaNurq?e=IfeVP8">Week 5</a></li>
+</details>
+
+<details>
+<summary>Course Syllabus:</summary>
 <br>
 <table border="1">
     <tr>
@@ -56,5 +55,5 @@ by: Coursera | Macquarie University<br>
         <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
     </tr>
 </table>
-
 </details>
+<hr>
