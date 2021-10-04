@@ -4,10 +4,10 @@
 by: Coursera | Macquarie University<br>
 
 ### Course learning objectives
-* Use Excel tools, formulas, and functions to clean and prepare data for analysis.
-* Use Named Ranges and Tables to automate your analysis.
-* Understand the different types of data in Excel and use appropriate functions to work with them.
-* Use logical and lookup functions to transform and categorise data.
+* Learn the essentials of Microsoft Excel
+* Expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, and create visualizations of data through charts and graphs
+* Solve a broad range of business problems as you apply the Excel skills and techniques you learn along the way
+* Practice your Excel skills while discovering new and useful productivity features of Excel for a variety of business contexts
 
 <hr>
 <details>
