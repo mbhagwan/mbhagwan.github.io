@@ -18,7 +18,7 @@
 
 * **Excel Skills for Business Specialization**
 
-  * <i>[Excel Skills for Business: Essentials]()</i>
+  * <i>[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)</i>
 
   * <i>[Excel Skills for Business: Intermediate I]()</i>
   
