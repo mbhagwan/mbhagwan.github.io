@@ -14,11 +14,14 @@ and create visualizations of data through charts and graphs
 <details>
 <summary>Weekly Assessment</summary>
   <br>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghWjIfuP2damNHUc?e=KHhnAZ">Week 1</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghc41zGdy4Fl9WV_?e=frlxa9">Week 2</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghlOA41m6W_i6N9s?e=TQZVRf">Week 3</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghsjaY8c9PhyuaOe?e=HHcbP5">Week 4</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgh23Hg-QqBIaNurq?e=IfeVP8">Week 5</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg07dQKkQdDxv4npq?e=PoqvBf">Week 1</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1ExnBdb9ra0yYkc?e=acLesW">Week 2.1</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1BUape1lOxHwhmS?e=hcngud">Week 2.2</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg02sv2n9UB3bs99o?e=Stdhex">Week 2.3</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg0-Z8UtotBQGbjOU?e=rkY9iD">Week 3</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg0qZF8KAOO0f0Bug?e=0ivgHF">Week 4</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg0mZxOP0ABf1HiN_?e=2Wvbd4">Week 5</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg0yTGHR54W3T1OBW?e=36iKuE">Week 6</a></li>
 </details>
 
 <details>
