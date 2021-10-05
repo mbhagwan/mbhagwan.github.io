@@ -18,18 +18,19 @@
  <summary><i>Microsoft Excel</i></summary>
  
  <h3>by Coursera | Macquarie University</h3>
-
- * <em>Excel Skills for Business Specialization</em>
-
-  * <i>[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)</i>
-
-  * <i>[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)</i>
-  
-* **Excel Skills for Data Analytics and Visualization Specialization**
-
-  * <i>[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)</i>
-  
-  * <i>[Data Visualization in Excel](data_visualization_in_excel.md)</i>
+ 
+ <ul>
+  <li>Excel Skills for Business Specialization
+    <ul>
+      <li>Excel Skills for Business: Essentials</li>
+      <li>Excel Skills for Business: Intermediate I</li>
+    </ul>
+   <li>Excel Skills for Data Analytics and Visualization Specialization
+    <ul>
+     <li>Excel Fundamentals for Data Analysis</li>
+     <li>Data Visualization in Excel</li>
+  </li>
+</ul>
 </details>
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
