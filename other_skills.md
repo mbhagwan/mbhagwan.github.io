@@ -25,10 +25,12 @@
       <li>Excel Skills for Business: Essentials</li>
       <li>Excel Skills for Business: Intermediate I</li>
     </ul>
-   <li>Excel Skills for Data Analytics and Visualization Specialization
+  </li>
+  <li>Excel Skills for Data Analytics and Visualization Specialization
     <ul>
      <li>Excel Fundamentals for Data Analysis</li>
      <li>Data Visualization in Excel</li>
+   </ul>
   </li>
 </ul>
 </details>
