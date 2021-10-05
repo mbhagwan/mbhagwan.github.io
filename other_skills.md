@@ -14,8 +14,6 @@
 
 ---
 
-### by Coursera | Macquarie University
-
 **Excel Skills for Business Specialization**
 * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
 * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
