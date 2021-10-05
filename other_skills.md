@@ -17,7 +17,7 @@
 <details>
  <summary><i>Microsoft Excel</i></summary>
  
-### by Coursera | Macquarie University
+ <h3>by Coursera | Macquarie University</h3>
 
 * **Excel Skills for Business Specialization**
 
