@@ -20,7 +20,7 @@
 
   * <i>[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)</i>
 
-  * <i>[Excel Skills for Business: Intermediate I]()</i>
+  * <i>[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)</i>
   
 * **Excel Skills for Data Analytics and Visualization Specialization**
 
