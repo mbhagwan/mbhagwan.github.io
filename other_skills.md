@@ -20,16 +20,16 @@
  <h3>by Coursera | Macquarie University</h3>
  
  <ul>
-  <li>Excel Skills for Business Specialization
+  <li><b>Excel Skills for Business Specialization</b>
     <ul>
-      <li>Excel Skills for Business: Essentials</li>
-      <li>Excel Skills for Business: Intermediate I</li>
+      <li><i>Excel Skills for Business: Essentials<i></li>
+       <li><i>Excel Skills for Business: Intermediate I</i></li>
     </ul>
   </li>
-  <li>Excel Skills for Data Analytics and Visualization Specialization
+  <li><b>Excel Skills for Data Analytics and Visualization Specialization</b>
     <ul>
-     <li>Excel Fundamentals for Data Analysis</li>
-     <li>Data Visualization in Excel</li>
+     <li><i>Excel Fundamentals for Data Analysis</i></li>
+     <li><i>Data Visualization in Excel</i></li>
    </ul>
   </li>
 </ul>
