@@ -23,7 +23,7 @@
   <li><b>Excel Skills for Business Specialization</b>
     <ul>
      <li><i><a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/excel_skills_for_business_essentials.md">Excel Skills for Business: Essentials</a></i></li>
-      <li><i>Excel Skills for Business: Intermediate I</i></li>
+     <li><i><a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/excel_skills_for_business_intermediate_1.md">Excel Skills for Business: Intermediate I</a></i></li>
     </ul>
   </li>
   <li><b>Excel Skills for Data Analytics and Visualization Specialization</b>
