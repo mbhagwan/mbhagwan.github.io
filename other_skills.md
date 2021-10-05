@@ -14,6 +14,9 @@
 
 ---
 
+<details>
+ <summary><i>Microsoft Excel</i></summary>
+ 
 ### by Coursera | Macquarie University
 
 * **Excel Skills for Business Specialization**
@@ -27,6 +30,7 @@
   * <i>[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)</i>
   
   * <i>[Data Visualization in Excel](data_visualization_in_excel.md)</i>
+</details>
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
