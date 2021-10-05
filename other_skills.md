@@ -30,6 +30,7 @@
     <ul>
      <li><i><a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/excel_fundamentals_for_data_analysis.md">Excel Fundamentals for Data Analysis</a></i></li>
      <li><i><a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/data_visualization_in_excel.md">Data Visualization in Excel</a></i></li>
+     <li><i><a href="data_visualization_in_excel.md">Data Visualization in Excel</a></i></li>
     </ul>
   </li>
 </ul>
