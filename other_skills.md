@@ -46,7 +46,6 @@
 </ul>
 </details>
 -->
-_[Data Visualization in Excel](data_visualization_in_excel.md)_
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
