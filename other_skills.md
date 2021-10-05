@@ -19,7 +19,7 @@
  
  <h3>by Coursera | Macquarie University</h3>
 
-* **Excel Skills for Business Specialization**
+ * <em>Excel Skills for Business Specialization</em>
 
   * <i>[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)</i>
 
