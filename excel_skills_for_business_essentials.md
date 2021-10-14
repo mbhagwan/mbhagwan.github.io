@@ -1,6 +1,6 @@
 # Excel Skills for Business Specialization
 
-## Course 1: Excel Skills for Business: Essentials<br>
+## Course 1 of 4: Excel Skills for Business: Essentials<br>
 by: Coursera | Macquarie University<br>
 
 ### Course learning objectives
