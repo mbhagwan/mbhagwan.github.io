@@ -1,6 +1,6 @@
 # Excel Skills for Data Analytics and Visualization Specialization
 
-## Course 1: Excel Fundamentals for Data Analysis<br>
+## Course 1 of 3: Excel Fundamentals for Data Analysis<br>
 by: Coursera | Macquarie University<br>
 
 ### Course learning objectives
