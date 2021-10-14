@@ -40,12 +40,12 @@
 * <i>[Google Tag Manager Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Google_Tag_Manager_Fundamentals.pdf)</i>
 * <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
 * <i>[Grasshopper Coding Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Grasshopper_Coding_Fundamentals.pdf)</i>
-* <i>Google Data Analytics Professional Certificate - course in progress</i>
 
 ### by LinkedIn Learning
-
+<!--
 * <i>[Excel 2019 Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Excel_2019_Essential_Training.pdf)</i>
 * <i>[Excel PivotTables for Beginners](https://github.com/mbhagwan/Certifications/blob/main/Excel_PivotTables_for_Beginners.pdf)</i>
+-->
 * <i>[Google Drive Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Drive_Essential_Training.pdf)</i>
 * <i>[Google Docs Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Docs_Essential_Training.pdf)</i>
 * <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
