@@ -1,6 +1,6 @@
 # Excel Skills for Business Specialization
 
-## Course 2: Excel Skills for Business: Intermediate I<br>
+## Course 2 of 4: Excel Skills for Business: Intermediate I<br>
 by: Coursera | Macquarie University<br>
 
 ### Course learning objectives
