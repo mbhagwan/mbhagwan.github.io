@@ -30,7 +30,7 @@
 
 * **Others**
   
-  * <i>R 101 - course in progress</i>
+  * <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
 
 ### by Google
 
