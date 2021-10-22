@@ -17,6 +17,7 @@
 ##### Excel Skills for Business Specialization
 * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
 * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
+* _[Excel Skills for Business: Intermediate 2](excel_skills_for_business_intermediate_2.md)_
 
 ##### Excel Skills for Data Analytics and Visualization Specialization
 * _[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)_
