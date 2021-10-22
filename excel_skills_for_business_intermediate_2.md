@@ -13,13 +13,12 @@ by: Coursera | Macquarie University<br>
 <details>
 <summary>Weekly Assessment</summary>
   <br>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1VkovoloCPplsxX?e=Y72K0e">Week 1.1</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1Ny8vdBjASm-vqP?e=R2dgQ6">Week 1.2</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1esdmoHKPU70VWA?e=6Zikr6">Week 2</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1bdK7FopRrSViP7?e=poWg2e">Week 3</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1g3TsYE_bbrOlSI?e=wbBQH1">Week 4</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1KeWLCP_7YyJtAH?e=nNLgzM">Week 5</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkg1QPqFucxPP6KXZ4?e=lLDffb">Week 6</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWyWpsx4h_7Rv3Lw?e=owIpgL">Week 1</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWsvA91kH7kngG1C?e=GgXgbp">Week 2</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWfTr1My985K9lCe?e=x5odlj">Week 3</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWkoQfq00WimnIyS?e=e11gUj">Week 4</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWoa6qLhYhJrb_kw?e=7g9NME">Week 5</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkhWgzBwsO-d8DOSBl?e=EcoQTJ">Week 6</a></li>
 </details>
 
 <details>
