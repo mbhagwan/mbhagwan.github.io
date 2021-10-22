@@ -58,7 +58,7 @@
 
 ### by NTUC LearningHub
 
-* <i>[Digital Marketing & E-Commerce Specialist](https://github.com/mbhagwan/Certifications/blob/main/Digital_Marketing_%20%26Ecommerce_Specialist.pdf)</i>
+* <i>[Digital Marketing & E-Commerce Specialist](https://github.com/mbhagwan/Certifications/blob/main/Digital_Marketing_and_Ecommerce_Specialist_Cert_and_Transcripts.pdf)</i>
 
 ### by Saylor Academy
 
