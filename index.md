@@ -16,6 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-Don't wait, the time will never be just right - Napolean Hill
+Continuous improvement is better than delayed perfection - Mark Twain
 </span>
 </center>
