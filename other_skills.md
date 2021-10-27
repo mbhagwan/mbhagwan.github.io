@@ -55,7 +55,6 @@ _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
 
-Hello World!
 ### Microsoft Excel
 
 * **Excel Skills for Business Specialization**
