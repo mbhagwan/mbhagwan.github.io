@@ -62,7 +62,7 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
   * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
   * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
   * _[Excel Skills for Business: Intermediate II](excel_skills_for_business_intermediate_2.md)_
-  * _[Excel Skills for Business: Advanced - in progress](excel_skills_for_business_advanced.md)_
+  * _[Excel Skills for Business: Advanced - course in progress](excel_skills_for_business_advanced.md)_
 
 * **Excel Skills for Data Analytics and Visualization Specialization**
 
