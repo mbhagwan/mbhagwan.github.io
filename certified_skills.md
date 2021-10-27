@@ -67,7 +67,7 @@
 
 ### Data Analytics
 
-* <i>IBM Data Analytics with Excel and R Specialization - in progress</i>
+* <i>IBM Data Analytics with Excel and R Specialization - course in progress</i>
 
 ### Data Science | Python
 
@@ -110,4 +110,4 @@
 
 ### Unix Shell
 
-* <i>Unix Essential Training - in progress</i>
+* <i>Unix Essential Training - course in progress</i>
