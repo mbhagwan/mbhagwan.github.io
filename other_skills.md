@@ -13,7 +13,7 @@
 > [About](about.md)
 
 ---
-
+<!--
 ##### Excel Skills for Business Specialization
 * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
 * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
@@ -23,7 +23,7 @@
 * _[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)_
 * _[Data Visualization in Excel](data_visualization_in_excel.md)_
 
-<!--
+************
 <details>
  <summary><i>Microsoft Excel</i></summary>
  
@@ -44,7 +44,7 @@
   </li>
 </ul>
 </details>
--->
+************
 
 _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
@@ -53,7 +53,7 @@ _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis
 _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
-
+-->
 
 ### Microsoft Excel
 
@@ -70,15 +70,15 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
 ### Python
 
-_[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
+* _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
 
 ### R Language
 
-_[Learn-R](https://github.com/mbhagwan/Learn-R)_
+* _[Learn-R](https://github.com/mbhagwan/Learn-R)_
 
 ### SQL
 
-_[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
+* _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
-_[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
+* _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
