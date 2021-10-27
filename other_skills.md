@@ -54,7 +54,7 @@ _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
-<!--
+
 ### Microsoft Excel
 
 * **Excel Skills for Business Specialization**
@@ -62,4 +62,23 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
   * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
   * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
   * _[Excel Skills for Business: Intermediate II](excel_skills_for_business_intermediate_2.md)_
--->
+
+* **Excel Skills for Data Analytics and Visualization Specialization**
+
+  * _[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)_
+  * _[Data Visualization in Excel](data_visualization_in_excel.md)_
+
+### Python
+
+_[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
+
+### R Language
+
+_[Learn-R](https://github.com/mbhagwan/Learn-R)_
+
+### SQL
+
+_[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
+
+_[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
+
