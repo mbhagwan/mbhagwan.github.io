@@ -103,3 +103,7 @@
 ### R Language
 
 * <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
+
+### Unix Shell
+
+* <i>Unix Essential Training - in progress</i>
