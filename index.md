@@ -16,8 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-<blockquote>
-Continuous improvement is better than delayed perfection - Mark Twain
-</blockquote>
+<q>Continuous improvement is better than delayed perfection - Mark Twain</q>
 </span>
 </center>
