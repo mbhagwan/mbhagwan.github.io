@@ -111,3 +111,7 @@
 ### Unix Shell
 
 * <i>Unix Essential Training - course in progress</i>
+
+<hr>
+
+[Other IT Skills](other_skills.md)
