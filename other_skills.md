@@ -83,3 +83,6 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
 * _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
+<hr>
+
+[Certified IT Skills](certified_skills.md)
