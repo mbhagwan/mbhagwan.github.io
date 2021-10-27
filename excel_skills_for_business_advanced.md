@@ -12,6 +12,7 @@ by: Coursera | Macquarie University<br>
 <hr>
 <details>
 <summary>Weekly Assessment</summary>
+<!--
   <br>
   <li><a href="">Week 1</a></li>
   <li><a href="">Week 2</a></li>
@@ -19,6 +20,7 @@ by: Coursera | Macquarie University<br>
   <li><a href="">Week 4</a></li>
   <li><a href="">Week 5</a></li>
   <li><a href="">Week 6</a></li>
+-->
 </details>
 
 <details>
