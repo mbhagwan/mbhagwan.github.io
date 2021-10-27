@@ -63,3 +63,44 @@
 ### by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
+<!--
+Hello World!
+### Data Science | Python
+
+* <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
+
+* **Data Science Foundations**
+
+  * <i>[Introduction to Data Science](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Science.pdf)</i>
+  * <i>[Data Science Methodology](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Methodology.pdf)</i>
+  * <i>[Data Science Tools](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Tools.pdf)</i>
+
+* **Applied Data Science with Python**
+  
+  * <i>[Data Analysis with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Analysis_with_Python.pdf)</i>
+  * <i>[Data Visualization with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Visualization_with_Python.pdf)</i>
+  * <i>[Python 101 for Data Science](https://github.com/mbhagwan/Certifications/blob/main/Python_101_for_Data_Science.pdf)</i>
+
+### Digital Marketing | Ecommerce
+
+* <i>[Digital Marketing & E-Commerce Specialist](https://github.com/mbhagwan/Certifications/blob/main/Digital_Marketing_and_Ecommerce_Specialist_Cert_and_Transcripts.pdf)</i>
+* <i>[Fundamentals of Digital Marketing](https://github.com/mbhagwan/Certifications/blob/main/Fundamentals_of_Digital_Marketing.pdf)</i>
+
+### Google Analytics | Data Studio | Tag Manager
+
+* <i>[Google Analytics for Beginners](https://github.com/mbhagwan/Certifications/blob/main/Google_Analytics_for_Beginners.pdf)</i>
+* <i>[Advanced Google Analytics](https://github.com/mbhagwan/Certifications/blob/main/Advanced_Google_%20Analytics.pdf)</i>
+* <i>[Introduction to Data Studio](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Studio.pdf)</i>
+* <i>[Google Tag Manager Fundamentals](https://github.com/mbhagwan/Certifications/blob/main/Google_Tag_Manager_Fundamentals.pdf)</i>
+
+### Google Docs
+
+* <i>[Google Drive Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Drive_Essential_Training.pdf)</i>
+* <i>[Google Docs Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Docs_Essential_Training.pdf)</i>
+* <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
+* <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
+
+### R Language
+
+* <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
+-->
