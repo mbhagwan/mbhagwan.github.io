@@ -63,7 +63,7 @@
 ### by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
-<!--
+
 Hello World!
 ### Data Science | Python
 
@@ -103,4 +103,3 @@ Hello World!
 ### R Language
 
 * <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
--->
