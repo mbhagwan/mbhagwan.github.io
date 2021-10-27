@@ -13,7 +13,7 @@
 > [About](about.md)
 
 ---
-
+<!--
 ### by Cognitive Class | IBM
 
 * **Data Science Foundations**
@@ -63,8 +63,8 @@
 ### by Saylor Academy
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
+-->
 
-Hello World!
 ### Data Science | Python
 
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
