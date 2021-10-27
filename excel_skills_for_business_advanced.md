@@ -12,6 +12,7 @@ by: Coursera | Macquarie University<br>
 <hr>
 <details>
 <summary>Weekly Assessment</summary>
+  <li><i>course in progress</i></li>
 <!--
   <br>
   <li><a href="">Week 1</a></li>
