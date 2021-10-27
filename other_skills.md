@@ -53,3 +53,13 @@ _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis
 _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
+
+<!--
+Hello World!
+### Microsoft Excel
+
+* **Excel Skills for Business Specialization**
+ * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
+ * _[Excel Skills for Business: Intermediate I](excel_skills_for_business_intermediate_1.md)_
+ * _[Excel Skills for Business: Intermediate II](excel_skills_for_business_intermediate_2.md)_
+-->
