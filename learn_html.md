@@ -1,6 +1,8 @@
+<header>
 <h1>Learn HTML</h1>
 by <a href="https://www.codecademy.com/learn/learn-html" target="_blank">Codecademy</a>
-
+</header>
+ 
 <h3>Overview:</h3>
 <ul>
  <li>Learn all the common HTML tags used to structure HTML pages.</li>
