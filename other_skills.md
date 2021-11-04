@@ -69,6 +69,10 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
   * _[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)_
   * _[Data Visualization in Excel](data_visualization_in_excel.md)_
 
+### HTML
+
+* _[Learn HTML](https://www.codecademy.com/learn/learn-html)
+
 ### Python
 
 * _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
