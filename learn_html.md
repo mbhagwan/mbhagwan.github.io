@@ -9,7 +9,7 @@ by <a href="https://www.codecademy.com/learn/learn-html" target="_blank">Codecad
 
 <h4>Course Syllabus:</h4>
 
-<table>
+<table border="1">
  <tr>
   <th>Lessons</th>
   <th>Content</th>
