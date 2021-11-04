@@ -71,7 +71,7 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
 ### HTML
 
-* _[Learn HTML](https://www.codecademy.com/learn/learn-html)
+* _[Learn HTML](https://www.codecademy.com/learn/learn-html)_
 
 ### Python
 
