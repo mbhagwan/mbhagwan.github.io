@@ -1,13 +1,34 @@
-# Learn HTML
-by [Codecademy](https://www.codecademy.com/learn/learn-html)
+<h1>Learn HTML</h1>
+by <a href="https://www.codecademy.com/learn/learn-html" target="_blank">Codecademy</a>
 
-**Overview:** Learn all the common HTML tags used to structure HTML pages. Create HTML tables to present tabular data efficiently.
+<h3>Overview:</h3>
+<ul>
+ <li>Learn all the common HTML tags used to structure HTML pages.</li>
+ <li>Create HTML tables to present tabular data efficiently.</li>
+ </ul>
 
-**Course Syllabus:**
+<h4>Course Syllabus:</h4>
 
-**Lesson** | **Content**
-:----------|:-------
- 1     | Elements and Structure
- 2     | Tables
- 3     | Forms
- 4     | Semantic HTML
+<table>
+ <tr>
+  <th>Lessons</th>
+  <th>Content</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Elements and Structure</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Tables</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Forms</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>Semantic HTML</td>
+ </tr>
+</table>
+ 
