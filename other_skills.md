@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em;">Other IT Skills</span>
+<span style="font-family:Papyrus; font-size:3em; color:FireBrick">Other IT Skills</span>
 
 ---
 
@@ -55,7 +55,7 @@ _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 -->
 
-<h4 style='color:blue;'><i>Completed the following courses:</i></h4>
+<h4 style='color:Salmon;'><i>Completed the following courses:</i></h4>
 
 ### Microsoft Excel
 
