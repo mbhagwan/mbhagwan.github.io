@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em;">Portfolio</span>
+<span style="font-family:Papyrus; font-size:3em; color:FireBrick;">Portfolio</span>
 
 ---
 
