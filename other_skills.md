@@ -55,6 +55,8 @@ _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 -->
 
+<h4><i>Completed the following courses:</i></h4>
+
 ### Microsoft Excel
 
 * **Excel Skills for Business Specialization**
