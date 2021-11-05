@@ -55,7 +55,7 @@ _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
 _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 -->
 
-<h5 style='color:Salmon;'><i>Completed the following courses:</i></h5>
+<h5 style='color:FireBrick;'><i>Completed the following courses:</i></h5>
 
 ### Microsoft Excel
 
