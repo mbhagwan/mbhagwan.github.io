@@ -65,6 +65,8 @@
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
 -->
 
+<h4><i>Completed the following courses with certification:</i></h4>
+
 ### Data Analytics
 
 * <i>IBM Data Analytics with Excel and R Specialization - course in progress</i>
