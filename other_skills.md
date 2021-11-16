@@ -76,6 +76,10 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 * _[Learn HTML](learn_html.md)_
 * _[Learn CSS](learn_css.md)_
 
+### Java
+
+* _[Learn Java](learn_java.md)_
+
 ### Python
 
 * _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
