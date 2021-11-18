@@ -1,6 +1,8 @@
 <h1>Unix Essential Training</h1>
 by <a href="https://www.linkedin.com/learning/unix-essential-training">Linkedin Learning</a>
 <hr>
+
+<img src="https://github.com/mbhagwan/Certifications/blob/main/unix_essential_training.jpg" />
  
 <h3>Overview:</h3>
 <ul>
@@ -39,4 +41,3 @@ by <a href="https://www.linkedin.com/learning/unix-essential-training">Linkedin 
   <td>Configure Your Working Environment</td>
  </tr>
 </table>
-<img src=" " />
