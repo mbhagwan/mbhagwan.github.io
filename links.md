@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:FireBrick;">Useful Links</span>
+<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links</span>
 
 ---
 
