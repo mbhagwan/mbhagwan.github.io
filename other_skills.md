@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:FireBrick">Other IT Skills</span>
+<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Other IT Skills</span>
 
 ---
 
