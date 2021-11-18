@@ -1,5 +1,5 @@
 <h1>Unix Essential Training</h1>
-by <a href="https://www.codecademy.com/learn/learn-css" target="_blank">Codecademy</a>
+by <a href="https://www.linkedin.com/learning/unix-essential-training">Linkedin Learning</a>
 <hr>
  
 <h3>Overview:</h3>
