@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:FireBrick;">Certified IT Skills</span>
+<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>
 
 ---
 
@@ -65,7 +65,7 @@
 * <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
 -->
 
-<h5 style='color:FireBrick;'><i>Completed the following courses with certification:</i></h5>
+<h5 style='color:SlateGray;'><i>Completed the following courses with certification:</i></h5>
 
 ### Data Analytics
 
