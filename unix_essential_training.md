@@ -3,6 +3,7 @@ by <a href="https://www.linkedin.com/learning/unix-essential-training">Linkedin 
 <hr>
 
 <img src="https://github.com/mbhagwan/Certifications/blob/main/unix_essential_training.jpg" />
+![](https://github.com/mbhagwan/Certifications/blob/main/unix_essential_training.jpg)
  
 <h3>Overview:</h3>
 <ul>
