@@ -15,7 +15,7 @@ by <a href="https://learn.saylor.org/course/view.php?id=439">Saylor Academy</a>
 
 <table border="1">
  <tr>
-  <th>Lessons</th>
+  <th>Unit</th>
   <th>Content</th>
  </tr>
  <tr>
