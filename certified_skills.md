@@ -73,7 +73,7 @@
 
 ### Data Science | Python
 
-* <i>[Introduction to Python](certified_docs/introduction_to_python.jpg)</i>
+* <i>[Introduction to Python](certified_docs/introduction_to_python.md)</i>
 
 * **Data Science Foundations**
 
