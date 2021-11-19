@@ -112,7 +112,7 @@
 
 ### Unix Shell
 
-* <i>[Unix Essential Training](/mbhagwan/mbhagwan.github.io/unix.html)</i>
+* <i>[Unix Essential Training](mbhagwan/mbhagwan.github.io/unix.html)</i>
 
 <hr>
 
