@@ -112,7 +112,7 @@
 
 ### Unix Shell
 
-* <i>[Unix Essential Training](unix_essential_skills.md)</i>
+* <i>[Unix Essential Training](unix_essential_training.md)</i>
 
 <hr>
 
