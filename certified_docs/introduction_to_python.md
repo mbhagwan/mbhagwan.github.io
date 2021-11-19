@@ -4,7 +4,7 @@ by <a href="https://learn.saylor.org/course/view.php?id=439">Saylor Academy</a>
 
 <!-- ![Certificate of Completion](unix_essential_training.jpg) -->
 
-![Certificate of Completion](/images/introduction_to_python.jpg)
+![Certificate of Achievement](/images/introduction_to_python.jpg)
  
 <h3>Overview:</h3>
 <ul>
