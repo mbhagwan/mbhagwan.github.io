@@ -73,7 +73,7 @@
 
 ### Data Science | Python
 
-* <i>[Introduction to Python](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Python.pdf)</i>
+* <i>[Introduction to Python](certified_docs/introduction_to_python.jpg)</i>
 
 * **Data Science Foundations**
 
