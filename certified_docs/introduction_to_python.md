@@ -20,42 +20,42 @@ by <a href="https://learn.saylor.org/course/view.php?id=439">Saylor Academy</a>
  </tr>
  <tr>
   <td>1</td>
-  <td>Introduction to Unix</td>
+  <td>Introduction to Python 3</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Files and Directories</td>
+  <td>Operators</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Ownership and Permissions</td>
+  <td>Input and Flow Control Statements</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Commands and Processes</td>
+  <td>Data Structures I - Lists and Strings</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Directing Input and Output</td>
+  <td>Functions</td>
  </tr>
  <tr>
   <td>6</td>
-  <td></td>
+  <td>Basic Data Structures II - Tuples, Sets and Dictionaries</td>
  </tr>
   <tr>
   <td>7</td>
-  <td></td>
+  <td>File Handling</td>
  </tr>
   <tr>
   <td>8</td>
-  <td></td>
+  <td>Regular Expressions</td>
  </tr>
   <tr>
   <td>9</td>
-  <td></td>
+  <td>Exception Handling</td>
  </tr>
   <tr>
   <td>10</td>
-  <td></td>
+  <td>Object-Oriented Programming</td>
  </tr>
 </table>
