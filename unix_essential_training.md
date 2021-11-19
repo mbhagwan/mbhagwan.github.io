@@ -2,7 +2,7 @@
 by <a href="https://www.linkedin.com/learning/unix-essential-training">Linkedin Learning</a>
 <hr>
 
-<img src="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/docs/assets/images/unix_essential_training.jpg">
+![](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/docs/assets/images/unix_essential_training.jpg)
  
 <h3>Overview:</h3>
 <ul>
