@@ -106,6 +106,10 @@
 * <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
 * <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
 
+### Microsoft PowerPoint
+
+* <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
+
 ### R Language
 
 * <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
