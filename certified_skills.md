@@ -109,6 +109,7 @@
 ### Microsoft PowerPoint
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
+* <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
 
 ### R Language
 
