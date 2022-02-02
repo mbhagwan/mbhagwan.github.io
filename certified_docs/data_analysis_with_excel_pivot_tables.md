@@ -1,5 +1,5 @@
 <h1>Data Analysis with Excel Pivot Tables</h1>
-by <a href="<h1>PowerPoint Essential Training</h1>
+
 by <a href="https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/">Udemy</a>
 <hr>
 
