@@ -5,7 +5,7 @@ by <a href="https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/"
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/powerpoint_essential_training.jpg)
+![Certificate of Achievement](/images/data_analysis_with_excel_pivot_tables.jpg)
  
 <h3>Overview:</h3>
 <ul>
