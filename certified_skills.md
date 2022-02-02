@@ -106,6 +106,10 @@
 * <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
 * <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
 
+### Microsoft Excel
+
+* <i>[Data Analysis with Excel Pivot Tables](/certified_docs/data_analysis_with_excel_pivot_tables.md)</i>
+
 ### Microsoft PowerPoint
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
