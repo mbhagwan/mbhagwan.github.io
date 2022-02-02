@@ -8,50 +8,38 @@ by <a href="https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/"
  
 <h3>Overview:</h3>
 <ul>
- <li>Quickly create, edit, and share professional-looking presentations.</li>
+ <li>Master Excel pivots & learn data analysis with advanced Excel case studies.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
 
 <table border="1">
  <tr>
-  <th>Unit</th>
+  <th>Section</th>
   <th>Content</th>
  </tr>
  <tr>
   <td>1</td>
-  <td>Get Started Quickly</td>
+  <td>Excel Pivot Table 101</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Work with Slides</td>
+  <td>Formatting Data with Pivot Tables</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Images and Shapes</td>
+  <td>Sorting, Filtering & Grouping Data with Pivot Tables</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Add Diagrams and Charts</td>
+  <td>Enriching Data with Pivot Table Calculated Values & Fields</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Add Video, Audio, and Animation to Slides</td>
+  <td>Visualizing Data with Excel Pivot Charts</td>
  </tr>
  <tr>
   <td>6</td>
-  <td>Collaborate and Prepare</td>
- </tr>
-  <tr>
-  <td>7</td>
-  <td>Deliver the Presentation</td>
- </tr>
-  <tr>
-  <td>8</td>
-  <td>Reuse the Presentation</td>
- </tr>
-  <tr>
-  <td>9</td>
-  <td>PowerPoint Challenges</td>
+  <td>Excel Pivot Table Case Studies</td>
  </tr>
 </table>
