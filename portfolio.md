@@ -13,11 +13,13 @@
 > [About](about.md)
 
 ---
-<details open>
+
 ### Microsoft Excel
+<details>
 <summary>
 * **Data Analysis with Excel Pivot Tables - Case Studies**
  </summary>
+ 
   * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiB8zOGm4VhDtC4ZK?e=iAmhvk)_
   * _[Analyzing San Francisco Salary Data](https://1drv.ms/x/s!AjU6_8hHCMjkiCPjiBuDxwnCBOZQ?e=aHSZ2S)_
   * _[Exploring Shark Attack Records](https://1drv.ms/x/s!AjU6_8hHCMjkiCGEHGyEwIH75ug1?e=HgK38B)_
@@ -26,4 +28,5 @@
   * _[Exploring San Diego Burrito Ratings](https://1drv.ms/x/s!AjU6_8hHCMjkiCVMZyqZGvn9bpdb?e=Kfz9YS)_
   * _[Tracking Daily Weather Conditions](https://1drv.ms/x/s!AjU6_8hHCMjkiCLun2O0llBKzB31?e=wMcxov)_
   * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiCbBkeWpnapR8DWR?e=yMn6ff)_
+ 
 </details>
