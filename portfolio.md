@@ -23,7 +23,7 @@
   * _[Analyzing San Francisco Salary Data](https://1drv.ms/u/s!AjU6_8hHCMjkiBLFRJOIGTFwe2h_?e=Yf3jlO)_
   * _[Exploring Shark Attack Records](https://1drv.ms/x/s!AjU6_8hHCMjkiAiB1ELfRDFq9yQY?e=lcJUCb)_
   * _[Analyzing Stock Market Data](https://1drv.ms/x/s!AjU6_8hHCMjkiAmb1qxQX3g8X2nF?e=MPHu4V)_
-  * _[Analyzing Major League Baseball Teams](excel_skills_for_business_essentials.md)_
-  * _[Exploring San Diego Burrito Ratings](excel_skills_for_business_essentials.md)_
-  * _[Tracking Daily Weather Conditions](excel_skills_for_business_essentials.md)_
-  * _[Analyzing Spartan Race Facebook Posts](excel_skills_for_business_essentials.md)_
+  * _[Analyzing Major League Baseball Teams](https://1drv.ms/x/s!AjU6_8hHCMjkiAfjIZnhRd87IIyB?e=I2Z7xt)_
+  * _[Exploring San Diego Burrito Ratings](https://1drv.ms/x/s!AjU6_8hHCMjkiAwEiASxq55YaQBo?e=Nua2J9)_
+  * _[Tracking Daily Weather Conditions](https://1drv.ms/x/s!AjU6_8hHCMjkiAtiKI1HAiTSGxK3?e=yWXEqL)_
+  * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiA09gUfbZwIhS8EL?e=K5PmKg)_
