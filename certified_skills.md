@@ -67,10 +67,6 @@
 
 <h5 style='color:SlateGray;'><i>Completed the following courses with certification:</i></h5>
 
-### Data Analytics
-
-* <i>IBM Data Analytics with Excel and R Specialization - course in progress</i>
-
 ### Data Science | Python
 
 * <i>[Introduction to Python](/certified_docs/introduction_to_python.md)</i>
