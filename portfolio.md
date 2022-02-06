@@ -13,9 +13,7 @@
 > [About](about.md)
 
 ---
-<!--
-<span style="font-family:Papyrus; font-size:2em;">Under Construction</span>
--->
+
 ### Microsoft Excel
 
 * **Data Analysis with Excel Pivot Tables - Case Studies**
