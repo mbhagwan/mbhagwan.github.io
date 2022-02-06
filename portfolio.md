@@ -19,4 +19,11 @@
 
 * **Data Analysis with Excel Pivot Tables - Case Studies**
 
-  * _[Excel Skills for Business: Essentials](excel_skills_for_business_essentials.md)_
+  * _[Analyzing US Voter Demographics (2012)](excel_skills_for_business_essentials.md)_
+  * _[Analyzing San Francisco Salary Data](excel_skills_for_business_essentials.md)_
+  * _[Exploring Shark Attack Records](excel_skills_for_business_essentials.md)_
+  * _[Analyzing Stock Market Data](excel_skills_for_business_essentials.md)_
+  * _[Analyzing Major League Baseball Teams](excel_skills_for_business_essentials.md)_
+  * _[Exploring San Diego Burrito Ratings](excel_skills_for_business_essentials.md)_
+  * _[Tracking Daily Weather Conditions](excel_skills_for_business_essentials.md)_
+  * _[Analyzing Spartan Race Facebook Posts](excel_skills_for_business_essentials.md)_
