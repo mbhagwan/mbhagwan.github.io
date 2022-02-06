@@ -19,7 +19,7 @@
 
 * **Data Analysis with Excel Pivot Tables - Case Studies**
 
-  * _[Analyzing US Voter Demographics (2012)](excel_skills_for_business_essentials.md)_
+  * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiAbPZ-CnSFurHYPT?e=wDLpM6)_
   * _[Analyzing San Francisco Salary Data](excel_skills_for_business_essentials.md)_
   * _[Exploring Shark Attack Records](excel_skills_for_business_essentials.md)_
   * _[Analyzing Stock Market Data](excel_skills_for_business_essentials.md)_
