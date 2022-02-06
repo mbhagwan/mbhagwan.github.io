@@ -13,7 +13,7 @@
 > [About](about.md)
 
 ---
-
+<!--
 ### Microsoft Excel
 <details>
 <summary>
@@ -30,3 +30,4 @@
   * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiCbBkeWpnapR8DWR?e=yMn6ff)_
  
 </details>
+-->
