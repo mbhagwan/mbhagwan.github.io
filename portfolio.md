@@ -20,7 +20,7 @@
 * **Data Analysis with Excel Pivot Tables - Case Studies**
 
   * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiAbPZ-CnSFurHYPT?e=wDLpM6)_
-  * _[Analyzing San Francisco Salary Data](https://1drv.ms/u/s!AjU6_8hHCMjkiBLFRJOIGTFwe2h_?e=Yf3jlO)_
+  * _[Analyzing San Francisco Salary Data](https://1drv.ms/x/s!AjU6_8hHCMjkiAqcm8Duigl5aZQO?e=OyGAuO)_
   * _[Exploring Shark Attack Records](https://1drv.ms/x/s!AjU6_8hHCMjkiAiB1ELfRDFq9yQY?e=lcJUCb)_
   * _[Analyzing Stock Market Data](https://1drv.ms/x/s!AjU6_8hHCMjkiAmb1qxQX3g8X2nF?e=MPHu4V)_
   * _[Analyzing Major League Baseball Teams](https://1drv.ms/x/s!AjU6_8hHCMjkiAfjIZnhRd87IIyB?e=I2Z7xt)_
