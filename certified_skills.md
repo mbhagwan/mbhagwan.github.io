@@ -74,8 +74,8 @@
 * **Data Science Foundations**
 
   * <i>[Introduction to Data Science](certified_docs/introduction_to_data_science.md)</i>
-  * <i>[Data Science Methodology](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Methodology.pdf)</i>
-  * <i>[Data Science Tools](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Tools.pdf)</i>
+  * <i>[Data Science Methodology](certified_docs/data_science_methodology.md)</i>
+  * <i>[Data Science Tools](certified_docs/data_science_tools.md)</i>
 
 * **Applied Data Science with Python**
 
