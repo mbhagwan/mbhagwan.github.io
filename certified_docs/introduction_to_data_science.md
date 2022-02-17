@@ -1,8 +1,8 @@
-![Certificate of Achievement](/images/introduction_to_python.jpg)
+![Certificate of Achievement](/images/introduction_to_data_science.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Introduction to fundamental programming concepts by way of the Python 3 programming language. </li>
+ <li>Find out what data science is today and what it means to work in data science.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -14,42 +14,22 @@
  </tr>
  <tr>
   <td>1</td>
-  <td>Introduction to Python 3</td>
+  <td>Defining Data Science</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Operators</td>
+  <td>What do data science people do?</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Input and Flow Control Statements</td>
+  <td>Data Science in Business</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Data Structures I - Lists and Strings</td>
+  <td>Use Cases for Data Science</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Functions</td>
- </tr>
- <tr>
-  <td>6</td>
-  <td>Basic Data Structures II - Tuples, Sets and Dictionaries</td>
- </tr>
-  <tr>
-  <td>7</td>
-  <td>File Handling</td>
- </tr>
-  <tr>
-  <td>8</td>
-  <td>Regular Expressions</td>
- </tr>
-  <tr>
-  <td>9</td>
-  <td>Exception Handling</td>
- </tr>
-  <tr>
-  <td>10</td>
-  <td>Object-Oriented Programming</td>
+  <td>Data Science People</td>
  </tr>
 </table>
