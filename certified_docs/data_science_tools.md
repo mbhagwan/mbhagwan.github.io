@@ -1,5 +1,5 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Data Science Tools</h1>
+by <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2">Cognitive Class</a>
 <hr>
 
 ![Certificate of Achievement](/images/data_science_tools.jpg)
@@ -36,10 +36,12 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
   <td>5</td>
   <td>Jupyter Notebooks and JupyterLab</td>
  </tr>
+ <tr>
   <td>6</td>
   <td>RStudio IDE</td>
  </tr>
- <td>7</td>
+ <tr>
+  <td>7</td>
   <td>Watson Studio</td>
  </tr>
 </table>
