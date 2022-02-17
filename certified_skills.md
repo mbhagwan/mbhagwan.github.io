@@ -79,9 +79,9 @@
 
 * **Applied Data Science with Python**
 
-  * <i>[Python 101 for Data Science](https://github.com/mbhagwan/Certifications/blob/main/Python_101_for_Data_Science.pdf)</i>
-  * <i>[Data Analysis with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Analysis_with_Python.pdf)</i>
-  * <i>[Data Visualization with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Visualization_with_Python.pdf)</i>
+  * <i>[Python 101 for Data Science](certified_docs/python_101_for_data_science)</i>
+  * <i>[Data Analysis with Python](certified_docs/data_analysis_with_python)</i>
+  * <i>[Data Visualization with Python](certified_docs/data_visualization_with_python)</i>
 
 ### Digital Marketing | Ecommerce
 
