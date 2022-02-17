@@ -1,12 +1,14 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Data Science Methodology</h1>
+by <a href="https://cognitiveclass.ai/courses/data-science-methodology-2">Cognitive Class</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/data_science_methodology.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>The major steps involved in tackling a data science problem.</li>
+ <li>The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.</li>
+ <li>How data scientists think!</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -18,22 +20,22 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
  </tr>
  <tr>
   <td>1</td>
-  <td>Defining Data Science</td>
+  <td>From Problem to Approach</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>What do data science people do?</td>
+  <td>From Requirements to Collection</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Data Science in Business</td>
+  <td>From Understanding to Preparation</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Use Cases for Data Science</td>
+  <td>From Modeling to Evaluation</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Data Science People</td>
+  <td>From Deployment to Feedback</td>
  </tr>
 </table>
