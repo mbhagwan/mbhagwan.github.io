@@ -21,6 +21,7 @@
   * <i>[Introduction to Data Science](https://github.com/mbhagwan/Certifications/blob/main/Introduction_to_Data_Science.pdf)</i>
   * <i>[Data Science Tools](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Tools.pdf)</i>
   * <i>[Data Science Methodology](https://github.com/mbhagwan/Certifications/blob/main/Data_Science_Methodology.pdf)</i>
+
 * **Applied Data Science with Python**
   
   * <i>[Data Analysis with Python](https://github.com/mbhagwan/Certifications/blob/main/Data_Analysis_with_Python.pdf)</i>
