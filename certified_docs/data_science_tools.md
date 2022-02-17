@@ -18,7 +18,7 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
  </tr>
  <tr>
   <td>1</td>
-  <td>Langauges of Data Science</td>
+  <td>Languages of Data Science</td>
  </tr>
  <tr>
   <td>2</td>
