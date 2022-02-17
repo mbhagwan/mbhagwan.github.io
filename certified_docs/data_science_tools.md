@@ -3,7 +3,7 @@ by <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-too
 <hr>
 
 ![Certificate of Achievement](/images/data_science_tools.jpg)
- 
+
 <h3>Overview:</h3>
 <ul>
  <li>Learn about Data Science tools like Jupyter Notebooks, RStudio IDE, and Watson Studio. Learn what each tool is used for, what programming languages they can execute, their features and limitations and how data scientists use these tools today.</li>
