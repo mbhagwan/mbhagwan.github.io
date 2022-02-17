@@ -1,3 +1,7 @@
+<h1>Introduction to Data Science</h1>
+by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<hr>
+
 ![Certificate of Achievement](/images/introduction_to_data_science.jpg)
  
 <h3>Overview:</h3>
