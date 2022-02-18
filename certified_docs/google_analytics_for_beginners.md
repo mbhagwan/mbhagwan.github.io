@@ -1,12 +1,14 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Google Analytics for Beginners</h1>
+by <a href="https://analytics.google.com/analytics/academy/course/6">Google</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/google_analytics_for_beginners.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>Create an account, implement tracking code, and set up data filters.</li>
+ <li>Navigate the Google Analytics interface and reports, and set up dashboards and shortcuts.</li>
+ <li>Analyze basic Audience, Acquisition, and Behaviour reports, and set up goals and campaign tracking.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -18,22 +20,18 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
  </tr>
  <tr>
   <td>1</td>
-  <td>Defining Data Science</td>
+  <td>Introducing Google Analytics</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>What do data science people do?</td>
+  <td>The Google Analytics Interface</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Data Science in Business</td>
+  <td>Basic Reports</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Use Cases for Data Science</td>
- </tr>
- <tr>
-  <td>5</td>
-  <td>Data Science People</td>
+  <td>Basic Campaign and Conversion Tracking</td>
  </tr>
 </table>
