@@ -1,8 +1,8 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Advanced Google Analytics</h1>
+by <a href="https://analytics.google.com/analytics/academy/course/7">Google</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/advanced_google_analytics.jpg)
  
 <h3>Overview:</h3>
 <ul>
