@@ -6,7 +6,9 @@ by <a href="https://analytics.google.com/analytics/academy/course/7">Google</a>
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>Learn how data gets collected and processed into readable reports.</li>
+ <li>Use configurations like Custom Dimensions, Custom Metrics, and Event Tracking to collect data that's specific to your business.</li>
+ <li>Learn advanced analysis techniques using segmentation, channel reports, audience reports, and custom reports, as well as marketing strategies like remarketing and Dynamic Remarketing.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -18,22 +20,18 @@ by <a href="https://analytics.google.com/analytics/academy/course/7">Google</a>
  </tr>
  <tr>
   <td>1</td>
-  <td>Defining Data Science</td>
+  <td>Data Collection and Processing</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>What do data science people do?</td>
+  <td>Setting Up Data Collection and Configuration</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Data Science in Business</td>
+  <td>Advanced Analysis Tools and Techniques</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Use Cases for Data Science</td>
- </tr>
- <tr>
-  <td>5</td>
-  <td>Data Science People</td>
+  <td>Advanced Marketing Tools</td>
  </tr>
 </table>
