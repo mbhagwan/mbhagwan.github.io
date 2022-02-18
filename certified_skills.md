@@ -86,7 +86,7 @@
 ### Digital Marketing | Ecommerce
 
 * <i>[Digital Marketing & E-Commerce Specialist](certified_docs/digital_marketing_and_ecommerce_specialist.md)</i>
-* <i>[Fundamentals of Digital Marketing](https://github.com/mbhagwan/Certifications/blob/main/Fundamentals_of_Digital_Marketing.pdf)</i>
+* <i>[Fundamentals of Digital Marketing](certified_docs/fundamentals_of_digital_marketing.md)</i>
 
 ### Google Analytics | Data Studio | Tag Manager
 
