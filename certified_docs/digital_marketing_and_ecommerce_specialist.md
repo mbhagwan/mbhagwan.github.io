@@ -1,39 +1,19 @@
 <h1>Digital Marketing and Ecommerce Specialist</h1>
-by NTUC Learning Hub
+by <a href="https://www.ntuclearninghub.com/digital-marketing-and-e-commerce-specialist">NTUC Learning Hub</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/digital_marketing_and_ecommerce_specialist_cert_0001.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>Learn to set up and manage an ecommerce store.</li>
+ <li>Learn to set up and manage online marketplace stores on Amazon and Alibaba.</li>
+ <li>Develop and implement a digital marketing campaign to build awareness using various digital platforms and social media.</li>
 </ul>
 
-<h4>Course Syllabus:</h4>
+<h4>Course Transcipts:</h4>
 
-<table border="1">
- <tr>
-  <th>Unit</th>
-  <th>Content</th>
- </tr>
- <tr>
-  <td>1</td>
-  <td>Defining Data Science</td>
- </tr>
- <tr>
-  <td>2</td>
-  <td>What do data science people do?</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>Data Science in Business</td>
- </tr>
- <tr>
-  <td>4</td>
-  <td>Use Cases for Data Science</td>
- </tr>
- <tr>
-  <td>5</td>
-  <td>Data Science People</td>
- </tr>
-</table>
+
+![Certificate of Achievement](/images/digital_marketing_and_ecommerce_specialist_cert_0002.jpg)
+
+![Certificate of Achievement](/images/digital_marketing_and_ecommerce_specialist_cert_0003.jpg)
