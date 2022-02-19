@@ -1,12 +1,14 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Introduction to Data Studio</h1>
+by <a href="https://analytics.google.com/analytics/academy/course/10">Google</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/introduction_to_data_studio.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>Learn how to visualize data online to gain insights.</li>
+ <li>Connect your data, create impactful reports, and collaborate with teammates.</li>
+ <li>Gain the knowledge and tools you need to design compelling reports to share with different stakeholders.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -18,19 +20,19 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
  </tr>
  <tr>
   <td>1</td>
-  <td>Defining Data Science</td>
+  <td>Welcome to Data Studio</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>What do data science people do?</td>
+  <td>Navigate Data Studio</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Data Science in Business</td>
+  <td>Build your first report</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Use Cases for Data Science</td>
+  <td>Format and Design Reports</td>
  </tr>
  <tr>
   <td>5</td>
