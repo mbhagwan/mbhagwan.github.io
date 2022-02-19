@@ -74,11 +74,11 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 ### HTML | CSS
 
 * _[Learn HTML](other_skills_docs/learn_html.md)_
-* _[Learn CSS](learn_css.md)_
+* _[Learn CSS](other_skills_docs/learn_css.md)_
 
 ### Java
 
-* _[Learn Java](learn_java.md)_
+* _[Learn Java](other_skills_docs/learn_java.md)_
 
 ### Python
 
