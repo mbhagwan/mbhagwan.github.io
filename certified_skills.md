@@ -97,10 +97,10 @@
 
 ### Google Docs
 
-* <i>[Google Drive Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Drive_Essential_Training.pdf)</i>
-* <i>[Google Docs Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Docs_Essential_Training.pdf)</i>
-* <i>[Google Sheets Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Sheets_Essential_Training.pdf)</i>
-* <i>[Google Slides Essential Training](https://github.com/mbhagwan/Certifications/blob/main/Google_Slides_Essential_Training.pdf)</i>
+* <i>[Google Drive Essential Training](certified_docs/google_drive_essential_training.md)</i>
+* <i>[Google Docs Essential Training](certified_docs/google_docs_essential_training.md)</i>
+* <i>[Google Sheets Essential Training](certified_docs/google_sheets_essential_training.md)</i>
+* <i>[Google Slides Essential Training](certified_docs/google_slides_essential_training.md)</i>
 
 ### Microsoft Excel
 
