@@ -92,7 +92,7 @@
 
 * <i>[Google Analytics for Beginners](certified_docs/google_analytics_for_beginners.md)</i>
 * <i>[Advanced Google Analytics](certified_docs/advanced_google_analytics.md)</i>
-* <i>[Google Tag Manager Fundamentals](certified_docs/google_tag_manager.md)</i>
+* <i>[Google Tag Manager Fundamentals](certified_docs/google_tag_manager_fundamentals.md)</i>
 * <i>[Introduction to Data Studio](certified_docs/introduction_to_data_studio.md)</i>
 
 ### Google Docs
