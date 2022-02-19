@@ -1,12 +1,12 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Google Tag Manager Fundamentals</h1>
+by <a href="https://analytics.google.com/analytics/academy/course/5">Google</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/google_tag_manager_fundamentals.jpg)
  
 <h3>Overview:</h3>
 <ul>
- <li>Find out what data science is today and what it means to work in data science.</li>
+ <li>Learn how Google Tag Manager can simplify the tag implementation and management process for marketers, analysts, and developers.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -18,22 +18,18 @@ by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class<
  </tr>
  <tr>
   <td>1</td>
-  <td>Defining Data Science</td>
+  <td>Starting out with Google Tag Manager</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>What do data science people do?</td>
+  <td>Setting up Google Tag Manager</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Data Science in Business</td>
+  <td>Collecting data using the Data Layer, variables, and events</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Use Cases for Data Science</td>
- </tr>
- <tr>
-  <td>5</td>
-  <td>Data Science People</td>
+  <td>Using additional tags for marketing and remarketing</td>
  </tr>
 </table>
