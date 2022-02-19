@@ -34,8 +34,4 @@ by <a href="https://analytics.google.com/analytics/academy/course/10">Google</a>
   <td>4</td>
   <td>Format and Design Reports</td>
  </tr>
- <tr>
-  <td>5</td>
-  <td>Data Science People</td>
- </tr>
 </table>
