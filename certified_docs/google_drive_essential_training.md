@@ -1,8 +1,8 @@
-<h1>Introduction to Data Science</h1>
-by <a href="https://cognitiveclass.ai/courses/data-science-101">Cognitive Class</a>
+<h1>Google Drive Essential Training</h1>
+by <a href="https://www.linkedin.com/learning/google-drive-essential-training-2021">LinkedIn</a>
 <hr>
 
-![Certificate of Achievement](/images/introduction_to_data_science.jpg)
+![Certificate of Achievement](/images/google_drive_essential_training.jpg)
  
 <h3>Overview:</h3>
 <ul>
