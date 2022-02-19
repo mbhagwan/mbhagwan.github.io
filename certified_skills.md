@@ -113,7 +113,7 @@
 
 ### R Language
 
-* <i>[R 101](https://github.com/mbhagwan/Certifications/blob/main/R_101.pdf)</i>
+* <i>[R for Data Science](certified_docs/R_101.md)</i>
 
 ### Unix Shell
 
