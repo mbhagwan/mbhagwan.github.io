@@ -82,17 +82,17 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
 ### Python
 
-* _[Python for Data Analysis](https://github.com/mbhagwan/Python-for-Data-Analysis)_
+* _[Python for Data Analysis](other_skills_docs/python_for_data_analysis.md)_
 
 ### R Language
 
-* _[Learn-R](https://github.com/mbhagwan/Learn-R)_
+* _[Learn-R](other_skills_docs/learn_R.md)_
 
 ### SQL
 
-* _[SQL for Data Analysis](https://github.com/mbhagwan/SQL-for-Data-Analysis)_
+* _[SQL for Data Analysis](other_skills_docs/sql_for_data_analysis.md)_
 
-* _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
+* _[Advanced SQL](other_skills_docs/advanced_sql.md)_
 
 <hr>
 
