@@ -27,3 +27,5 @@
   * _[Tracking Daily Weather Conditions](https://1drv.ms/x/s!AjU6_8hHCMjkiCLun2O0llBKzB31?e=wMcxov)_
   * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiCbBkeWpnapR8DWR?e=yMn6ff)_
  
+* **Data Analysis Essentials Using Excel - Case Studies**
+  * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
