@@ -20,26 +20,38 @@ by <a href="https://www.udemy.com/course/business-data-analysis-excel/">Udemy</a
  </tr>
  <tr>
   <td>1</td>
-  <td>Excel Pivot Table 101</td>
+  <td>Introduction</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Formatting Data with Pivot Tables</td>
+  <td>Excel Foundations</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Sorting, Filtering & Grouping Data with Pivot Tables</td>
+  <td>Excel Formulas & Functions</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Enriching Data with Pivot Table Calculated Values & Fields</td>
+  <td>Text, Times, and Dates Data Formats</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Visualizing Data with Excel Pivot Charts</td>
+  <td>Introduction to Statistics in Excel</td>
  </tr>
  <tr>
   <td>6</td>
-  <td>Excel Pivot Table Case Studies</td>
+  <td>Handling Data in Excel</td>
+ </tr>
+ <tr>
+  <td>7</td>
+  <td>Pivot Tables</td>
+ </tr>
+ <tr>
+  <td>8</td>
+  <td>Introduction to Charts in Excel</td>
+ </tr>
+ <tr>
+  <td>9</td>
+  <td>Case Studies</td>
  </tr>
 </table>
