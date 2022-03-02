@@ -1,10 +1,10 @@
-<h1>Data Analysis with Excel Pivot Tables</h1>
-by <a href="https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/">Udemy</a>
+<h1>Data Analysis Essentials Using Excel</h1>
+by <a href="https://www.udemy.com/course/business-data-analysis-excel/">Udemy</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/data_analysis_with_excel_pivot_tables.jpg)
+![Certificate of Achievement](/images/data_analysis_essentials_using_excel.jpg)
  
 <h3>Overview:</h3>
 <ul>
