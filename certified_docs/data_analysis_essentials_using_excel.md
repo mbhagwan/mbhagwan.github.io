@@ -8,7 +8,7 @@ by <a href="https://www.udemy.com/course/business-data-analysis-excel/">Udemy</a
  
 <h3>Overview:</h3>
 <ul>
- <li>Master Excel pivots & learn data analysis with advanced Excel case studies.</li>
+ <li>Learn to apply the important concepts and techniques of data analysis using Excel</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
