@@ -16,6 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-<q>Continuous improvement is better than delayed perfection - Mark Twain</q>
+<q>"What we fear of doing most is usually what we most need to do" - Ralph Waldo Emerson</q>
 </span>
 </center>
