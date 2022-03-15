@@ -1,7 +1,7 @@
 # Excel Skills for Business Specialization
 
 ## Course 2 of 4: Excel Skills for Business: Intermediate I<br>
-by: Coursera | Macquarie University<br>
+by: <a href="https://www.coursera.org/learn/excel-intermediate-1" target="_blank">Coursera | Macquarie University</a>
 
 ### Course learning objectives
 * Manage large datasets efficiently
