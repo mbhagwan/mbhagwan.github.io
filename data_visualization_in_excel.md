@@ -1,7 +1,7 @@
 # Excel Skills for Data Analytics and Visualization Specialization
 
 ## Course 2 of 3: Data Visualization in Excel<br>
-by: Coursera | Macquarie University<br>
+by: <a href="https://www.coursera.org/learn/excel-data-visualization" target="_blank">Coursera | Macquarie University</a>
 
 ### Course learning objectives
 * Bring data to life using conditional formatting & custom number formatting
