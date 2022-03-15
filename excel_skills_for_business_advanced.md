@@ -1,7 +1,7 @@
 # Excel Skills for Business Specialization
 
 ## Course 4 of 4: Excel Skills for Business: Advanced<br>
-by: Coursera | Macquarie University<br>
+by: <a href="https://www.coursera.org/learn/excel-advanced" target="_blank">Coursera | Macquarie University</a>
 
 ### Course learning objectives
 * Design and structure spreadsheets for scalability and longevity
