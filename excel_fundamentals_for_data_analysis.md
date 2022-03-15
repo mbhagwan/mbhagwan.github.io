@@ -10,7 +10,7 @@ by: Coursera | Macquarie University<br>
 * Use logical and lookup functions to transform and categorise data.
 
 <hr>
-<details>
+<details open>
 <summary>Weekly Assessment</summary>
   <br>
   <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1Upxwig7e4v-66M?e=RKambX">Week 1</a></li>
