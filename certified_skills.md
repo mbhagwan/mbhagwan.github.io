@@ -106,6 +106,7 @@
 
 * <i>[Data Analysis with Excel Pivot Tables](/certified_docs/data_analysis_with_excel_pivot_tables.md)</i>
 * <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
+* <i>[Advanced Excel - Top Excel Tips & Formulas](/certified_docs/data_analysis_essentials_using_excel.md)</i>
 
 ### Microsoft PowerPoint
 
