@@ -1,8 +1,8 @@
 # Excel Skills for Business Specialization
 
 ## Course 1 of 4: Excel Skills for Business: Essentials<br>
-by: Coursera | Macquarie University<br>
-
+by: <a href="https://www.coursera.org/learn/excel-essentials" target="_blank">Coursera | Macquarie University</a>
+<br>
 ### Course learning objectives
 * Learn the essentials of Microsoft Excel
 * Expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, 
