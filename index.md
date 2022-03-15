@@ -16,6 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-<q>"What we fear of doing most is usually what we most need to do" - Ralph Waldo Emerson</q>
+<q>What we fear of doing most is usually what we most need to do - Ralph Waldo Emerson</q>
 </span>
 </center>
