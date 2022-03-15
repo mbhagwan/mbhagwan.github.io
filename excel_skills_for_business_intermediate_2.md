@@ -1,7 +1,7 @@
 # Excel Skills for Business Specialization
 
 ## Course 3 of 4: Excel Skills for Business: Intermediate II<br>
-by:
+by: <a href="https://www.coursera.org/learn/excel-intermediate-2" target="_blank">Coursera | Macquarie University</a>
 
 ### Course learning objectives
 * Check for and prevent errors in spreadsheets
