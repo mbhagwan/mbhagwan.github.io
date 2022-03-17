@@ -30,7 +30,10 @@
   * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
   * _[Survey Data Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDcUSN-JNlXvxlbm?e=VIHkkM)_
 
-### MS Excel Power Query
+### MS Excel Power Tools
 
-* **Excel Power Query Beginner to Advanced (including M)**
+* **Course: Excel Power Tools for Data Analysis**
+  * _[Get and Transform (Power Query)]()_
+
+* **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
