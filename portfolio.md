@@ -33,7 +33,7 @@
 ### MS Excel Power Tools
 
 * **Course: Excel Power Tools for Data Analysis**
-  * _[Get and Transform (Power Query)]()_
+  * _[Get and Transform (Power Query)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
 
 * **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
