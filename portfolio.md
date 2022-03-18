@@ -32,7 +32,7 @@
 
 ### MS Excel Power Tools
 
-* **Course: Excel Power Tools for Data Analysis**
+* **Cours: Excel Power Tools for Data Analysis**
   * _[Get and Transform (Power Query)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
 
 * **Course: Excel Power Query Beginner to Advanced (including M)**
