@@ -35,6 +35,7 @@
 * **Course: Excel Power Tools for Data Analysis**
   * _[Get and Transform (Power Query - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
   * _[Get and Transform (Power Query - Part 2)](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
+  * _[Visualising Data with Power BI](https://1drv.ms/u/s!AjU6_8hHCMjkiEQR_5rUf1hMcBjU?e=Y66rG1)_
 
 * **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
