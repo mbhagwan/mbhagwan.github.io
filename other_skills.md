@@ -70,6 +70,7 @@ _[Advanced SQL](https://github.com/mbhagwan/Advanced-PostgreSQL)_
 
   * _[Excel Fundamentals for Data Analysis](excel_fundamentals_for_data_analysis.md)_
   * _[Data Visualization in Excel](data_visualization_in_excel.md)_
+  * _[Excel Power Tools for Data Analysis](excel_power_tools_for_data_analysis.md)_
 
 ### HTML | CSS
 
