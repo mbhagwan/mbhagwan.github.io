@@ -31,29 +31,25 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
     </tr>
     <tr>
         <td>1</td>
-        <td>Cleaning and manipulating text</td>
-        <td><li>Apply a range of text functions to manipulate and restructure data</li> <li>Solve issues of removing and replacing unwanted characters</li> <li>Develop confidence working with advanced formula techniques and nested functions</li></td>
+        <td>Get and Transform (Power Query)</td>
+        <td><li>Know how to create queries to import data from different sources</li> <li>Understand the different types of query relationships</li> <li>Create queries to merge and append data</li></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Working with numbers and dates</td>
-      <td><li>Understand how dates work in Excel</li> <li>Apply a range of functions for converting data to different data types</li> <li>Formulate calculations using more advanced date functions</li></td>
+        <td>Transforming data in the Query Editor</td>
+      <td><li>Use a range of tools to clean and transform data</li> <li>Understand how to pivot, unpivot, and group data</li> <li>Modify query steps using the M language</li></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Defined Names for working more effectively with data</td>
-        <td><li>Understand what Named Ranges are and their advantages</li> <li>Demonstrate a range of methods for creating Named Ranges</li> <li>Modify workbooks to use Named Ranges</li></td>
+        <td>Power Pivot</td>
+        <td><li>Know how to import data into the data model</li> <li>Understand relationships and how to create them</li> <li>Visualise data using PowerPivot and Cube Functions</li> <li>Create measures using DAX</li></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Tables for automating data manipulation</td>
-        <td><li>Understand what tables are and the advantages of using them</li> <li>Know how to convert a range to a table and work effectively with that table</li> <li>Recognise and use structured referencing</li></td>
+        <td>An Introduction to Power BI</td>
+        <td><li>Know how to create a Power BI Data Model</li> <li>Create an interactive report using a range of visualisations</li> <li>Use DAX to create tables, calculated columns and measures</li> <li>Understand options for sharing Power BI Reports</li></td>
     </tr>
-    <tr>
-        <td>5</td>
-        <td>Logical and lookup functions</td>
-        <td><li>Apply logical functions to correct or transform data</li> <li>Employ a range of logical functions to automate performing different operations under different circumstances</li> <li>Understand how lookup functions can be used to categorise data</li> <li>Solve a variety of problems using lookup functions to match data from different sources</li></td>
-    </tr>
+    
 </table>
 </details>
 <hr>
