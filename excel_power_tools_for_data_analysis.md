@@ -37,4 +37,3 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
         <td><li>Know how to create a Power BI Data Model</li> <li>Create an interactive report using a range of visualisations</li> <li>Use DAX to create tables, calculated columns and measures</li> <li>Understand options for sharing Power BI Reports</li></td>
     </tr>
 </table>
-<hr>
