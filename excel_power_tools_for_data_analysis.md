@@ -8,21 +8,7 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
 * Transform and clean data efficiently using the Query Editor
 * Understand the Data Model and DAX
 * Create and share visualisations using Power BI
-
 <hr>
-<details open>
-<summary>Weekly Assessment</summary>
-  <br>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1Upxwig7e4v-66M?e=RKambX">Week 1</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1SnOmqH1P1vdxSQ?e=fxeQUl">Week 2</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1KKJLS9fw7M0c4y?e=5qfc9l">Week 3</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1EvG9zXOZ0em7bQ?e=y9vEIy">Week 4</a></li>
-  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkh1P-JRj8-F1lV07M?e=hxgzg1">Week 5</a></li>
-</details>
-
-<details>
-<summary>Course Syllabus:</summary>
-<br>
 <table border="1">
     <tr>
         <th>Week</th>
@@ -49,7 +35,5 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
         <td>An Introduction to Power BI</td>
         <td><li>Know how to create a Power BI Data Model</li> <li>Create an interactive report using a range of visualisations</li> <li>Use DAX to create tables, calculated columns and measures</li> <li>Understand options for sharing Power BI Reports</li></td>
     </tr>
-    
 </table>
-</details>
 <hr>
