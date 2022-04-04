@@ -4,10 +4,10 @@
 by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">Coursera | Macquarie University</a>
 
 ### Course learning objectives
-* Use Excel tools, formulas, and functions to clean and prepare data for analysis.
-* Use Named Ranges and Tables to automate your analysis.
-* Understand the different types of data in Excel and use appropriate functions to work with them.
-* Use logical and lookup functions to transform and categorise data.
+* Understand how Get and Transform (Power Query) can fetch and combine data from a wide range of sources
+* Transform and clean data efficiently using the Query Editor
+* Understand the Data Model and DAX
+* Create and share visualisations using Power BI
 
 <hr>
 <details open>
