@@ -9,6 +9,8 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
 * Understand the Data Model and DAX
 * Create and share visualisations using Power BI
 <hr>
+
+### Course Syllabus:
 <table border="1">
     <tr>
         <th>Week</th>
