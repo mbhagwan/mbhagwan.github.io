@@ -8,9 +8,8 @@ by: <a href="https://www.coursera.org/learn/excel-power-tools" target="_blank">C
 * Transform and clean data efficiently using the Query Editor
 * Understand the Data Model and DAX
 * Create and share visualisations using Power BI
-<hr>
 
-### Course Syllabus:
+#### Course Syllabus:
 <table border="1">
     <tr>
         <th>Week</th>
