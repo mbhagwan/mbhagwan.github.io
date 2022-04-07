@@ -28,7 +28,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>2</td>
-  <td>***POWER QUERY ESSENTIALS***</td>
+  <td><b>***POWER QUERY ESSENTIALS***</b></td>
  </tr>
  <tr>
   <td>3</td>
@@ -67,7 +67,47 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
   <td>PROJECT - Report on HR Data</td>
  </tr>
  <tr>
-  <td>4</td>
-  <td>Important Power Query Tips & Tricks</td>
+  <td>12</td>
+  <td>Merge Options - Join Kind Options Explained</td>
  </tr>
-</table>
+ <tr>
+  <td>13</td>
+  <td>When to Use Power Pivot & Load to Data Model</td>
+ </tr>
+ <tr>
+  <td>14</td>
+  <td><b>***POWER QUERY ADVANCED TO PRO***</b></td>
+ </tr>
+ <tr>
+  <td>15</td>
+  <td>Solving Complex Data Analysis Problems with Merge</td>
+ </tr>
+ <tr>
+  <td>16</td>
+  <td>Advanced Problem Solving using the Power Query Interface</td>
+ </tr>
+ <tr>
+  <td>17</td>
+  <td>PROJECT - Create a Modern Excel Dashboard with Power Query & Pivot Tables</td>
+ </tr>
+ <tr>
+  <td>18</td>
+  <td>Understanding M Formula Language (Let, Lists, Records, & Improving Performance</td>
+ </tr>
+ <tr>
+  <td>19</td>
+  <td>Working with Lists & Table Functions</td>
+ </tr>
+ <tr>
+  <td>20</td>
+  <td>Creating & Invoking Custom Functions</td>
+ </tr>
+ <tr>
+  <td>21</td>
+  <td>Flexible Importing of Data with the Help of M Functions</td>
+ </tr>
+ <tr>
+  <td>22</td>
+  <td>PROJECT - Power Query and Power BI</td>
+ </tr>
+ </table>
