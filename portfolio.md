@@ -30,7 +30,7 @@
   * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
   * _[Survey Data Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDcUSN-JNlXvxlbm?e=VIHkkM)_
 
-### MS Excel Power Tools
+### Microsoft Power Query, Power Pivot, and Power BI
 
 * **Course: Excel Power Tools for Data Analysis**
   * _[Get and Transform (Power Query - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
@@ -40,3 +40,4 @@
 * **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
   * _[Create a Modern Excel Dashboard with Power Query & Pivot Tables](https://1drv.ms/x/s!AjU6_8hHCMjkiEbl5pn7K3IHv7qQ?e=U66sTV)_
+  * _[Create a Fully Interactive Customer Sales Report in Power BI]()_
