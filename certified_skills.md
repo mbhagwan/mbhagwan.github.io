@@ -108,6 +108,10 @@
 * <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
 * <i>[Advanced Excel - Top Excel Tips & Formulas](/certified_docs/advanced_excel_top_tips_and_formulas.md)</i>
 
+### Microsoft Power Query, Power Pivot, and Power BI
+
+* <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_begginer_to_advanced.md)</i>
+
 ### Microsoft PowerPoint
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
