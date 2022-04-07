@@ -8,11 +8,11 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  
 <h3>Overview:</h3>
 <ul>
- <li>Be a Confident & Advanced MS Excel user</li>
- <li>Learn new techniques and formulas to tackle tasks faster and better in Excel</li>
- <li>Reduce complexity of your spreadsheets</li>
- <li>Solve complex problems in Excel</li>
- <li>Apply the right tools for a given task instead of going to your go-to tools and making them work for every situation</li>
+ <li>Master Power Query in Excel (& Power BI)</li>
+ <li>Automate the process of Importing, Cleaning, and Combining data from Multiple Sources</li>
+ <li>Learn Power Query M language and create your own M Functionns</li>
+ <li>Create Modern Excel Dashboards with Power Query and Excel's Data Model</li>
+ <li>Apply new concepts to real-life examples and solve complex data analysis challenges</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
