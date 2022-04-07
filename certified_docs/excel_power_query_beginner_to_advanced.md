@@ -64,7 +64,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>11</td>
-  <td>PROJECT - Report on HR Data</td>
+  <td><b>PROJECT</b> - Report on HR Data</td>
  </tr>
  <tr>
   <td>12</td>
@@ -88,7 +88,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>17</td>
-  <td>PROJECT - Create a Modern Excel Dashboard with Power Query & Pivot Tables</td>
+  <td><b>PROJECT</b> - Create a Modern Excel Dashboard with Power Query & Pivot Tables</td>
  </tr>
  <tr>
   <td>18</td>
@@ -108,6 +108,6 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>22</td>
-  <td>PROJECT - Power Query and Power BI</td>
+  <td><b>PROJECT</b> - Power Query and Power BI</td>
  </tr>
  </table>
