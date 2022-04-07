@@ -96,7 +96,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>19</td>
-  <td>Working with Lists & Table Functions</td>
+  <td>Working with List & Table Functions</td>
  </tr>
  <tr>
   <td>20</td>
