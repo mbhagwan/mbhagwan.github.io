@@ -92,7 +92,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>18</td>
-  <td>Understanding M Formula Language (Let, Lists, Records, & Improving Performance</td>
+  <td>Understanding M Formula Language (Let, Lists, Records, & Improving Performance)</td>
  </tr>
  <tr>
   <td>19</td>
