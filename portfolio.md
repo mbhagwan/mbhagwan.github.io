@@ -40,4 +40,4 @@
 * **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
   * _[Create a Modern Excel Dashboard with Power Query & Pivot Tables](https://1drv.ms/x/s!AjU6_8hHCMjkiEbl5pn7K3IHv7qQ?e=U66sTV)_
-  * _[Create an Interactive Customer Sales Report in Power BI]()_
+  * _[Create an Interactive Customer Sales Report in Power BI](https://1drv.ms/b/s!AjU6_8hHCMjkiEgJn-AFg8An05Mf?e=DeQ0rL)_
