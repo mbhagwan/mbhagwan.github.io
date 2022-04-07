@@ -4,7 +4,7 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/excel_power_query_beginner_to_advanced.jpg)
+![Certificate of Achievement](/images/excel_power_query_beginner_to_advanced.jpeg)
  
 <h3>Overview:</h3>
 <ul>
