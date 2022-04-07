@@ -24,18 +24,50 @@ by <a href="https://nlbsg.udemy.com/course/master-excel-power-query/">Udemy</a>
  </tr>
  <tr>
   <td>1</td>
-  <td>Introduction & Scope</td>
+  <td>Introduction</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Top 10 Excel Tips to Save You Time</td>
+  <td>***POWER QUERY ESSENTIALS***</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Top 10 Excel Formulas for Quick & Dynamic Analysis</td>
+  <td>The Power of Power Query</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Formula Combinations for Real Cases</td>
+  <td>Important Power Query Tips & Tricks</td>
+ </tr>
+ <tr>
+  <td>5</td>
+  <td>Helpful Power Query Transformations</td>
+ </tr>
+ <tr>
+  <td>6</td>
+  <td>Powerful Power Query Transformations</td>
+ </tr>
+ <tr>
+  <td>7</td>
+  <td>Date & Time Transformations</td>
+ </tr>
+ <tr>
+  <td>8</td>
+  <td>Custom Column & Basic M Manipulation</td>
+ </tr>
+ <tr>
+  <td>9</td>
+  <td>Power Query Online Data Sources (Online)</td>
+ </tr>
+ <tr>
+  <td>10</td>
+  <td>Combining / Appending Data</td>
+ </tr>
+ <tr>
+  <td>11</td>
+  <td>PROJECT - Report on HR Data</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>Important Power Query Tips & Tricks</td>
  </tr>
 </table>
