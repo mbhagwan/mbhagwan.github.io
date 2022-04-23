@@ -1,5 +1,5 @@
 <h1>Microsoft Power BI Desktop for Business Intelligence</h1>
-by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a>
+by <a href="https://nlbsg.udemy.com/course-dashboard-redirect/?course_id=1570206">Udemy</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
