@@ -30,7 +30,7 @@
   * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
   * _[Survey Data Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDcUSN-JNlXvxlbm?e=VIHkkM)_
 
-### Microsoft Power Query, Power Pivot, and Power BI
+### Microsoft Power Query, Power Pivot, Power BI & DAX Expressions
 
 * **Course: Excel Power Tools for Data Analysis**
   * _[Get and Transform (Power Query - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
