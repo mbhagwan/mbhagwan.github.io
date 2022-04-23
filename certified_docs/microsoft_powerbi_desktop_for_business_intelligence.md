@@ -4,7 +4,7 @@ by <a href="https://nlbsg.udemy.com/course-dashboard-redirect/?course_id=1570206
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/advanced_excel_tips_formulas.jpg)
+![Certificate of Achievement](/images/microsoft_powerbi_desktop_for_business_intelligence.jpeg)
  
 <h3>Overview:</h3>
 <ul>
