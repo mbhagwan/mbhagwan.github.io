@@ -43,4 +43,4 @@
   * _[Project: Create an Interactive Customer Sales Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTgwOTUzMTMtOTEzYy00NzIyLWJhMjUtNDkxZmZhMWNjZDRhIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
 * **Course: Microsoft Power BI Desktop for Business Intelligence**
-* _[Project: Design and deliver an end-to-end business intelligence solution]()_
+  * _[Project: Design and deliver an end-to-end business intelligence solution]()_
