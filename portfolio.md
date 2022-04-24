@@ -36,7 +36,7 @@
   * _[Get and Transform (Power Query - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
   * _[Get and Transform (Power Query - Part 2)](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
   * _[Visualising Data with Power BI](https://1drv.ms/b/s!AjU6_8hHCMjkiEXigLCyCRmEIVwY?e=Glu54Z)_
-  * _[Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNThjMDdjNDYtMmVhOS00YzVkLTlkNzItMDRjMTJmYWY2MGJmIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)_
+  * _[Project: Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
 * **Course: Excel Power Query Beginner to Advanced (including M)**
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
