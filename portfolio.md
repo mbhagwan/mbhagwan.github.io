@@ -33,8 +33,8 @@
 ### Microsoft Power Query, Power Pivot, Power BI & DAX Expressions
 
 * **Course: Excel Power Tools for Data Analysis**
-  * _[Get and Transform (Power Query - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
-  * _[Get and Transform (Power Query - Part 2)](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
+  * _[Get and Transform (Power Query Practice Challenge - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
+  * _[Get and Transform (Power Query Practice Challenge - Part 2)](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
   * _[Project: Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
 * **Course: Excel Power Query Beginner to Advanced (including M)**
