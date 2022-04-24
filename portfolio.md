@@ -41,3 +41,6 @@
   * _[Data Analysis Project - Report on HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
   * _[Create a Modern Excel Dashboard with Power Query & Pivot Tables](https://1drv.ms/x/s!AjU6_8hHCMjkiEbl5pn7K3IHv7qQ?e=U66sTV)_
   * _[Project: Create an Interactive Customer Sales Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTgwOTUzMTMtOTEzYy00NzIyLWJhMjUtNDkxZmZhMWNjZDRhIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+
+* **Course: Microsoft Power BI Desktop for Business Intelligence**
+* _[Project: Design and deliver an end-to-end business intelligence solution]()_
