@@ -21,6 +21,6 @@
 ### Power BI
 
 - <i> [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax/) </i>
-- <i> [Row Context in DAX]() </i>
+- <i> [Row Context in DAX](https://www.sqlbi.com/articles/row-context-in-dax/) </i>
 - <i> [Filter Context in DAX](https://www.sqlbi.com/articles/filter-context-in-dax/) </i>
 - <i> [Evaluation Contexts in DAX](https://endjin.com/blog/2022/01/evaluation-contexts-in-dax-filter-and-row-contexts) </i>
