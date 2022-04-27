@@ -43,4 +43,5 @@
   * _[Project: Create an Interactive Customer Sales Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTgwOTUzMTMtOTEzYy00NzIyLWJhMjUtNDkxZmZhMWNjZDRhIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
 * **Course: Microsoft Power BI Desktop for Business Intelligence**
-  * _[Project: Design and deliver an end-to-end business intelligence solution](https://app.powerbi.com/view?r=eyJrIjoiNTk5YzNhZjktNGM0Ni00OTVjLWFmMTEtODQ3OWIwM2MzYzcyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Project: Design and deliver an end-to-end business intelligence solution for Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiNTk5YzNhZjktNGM0Ni00OTVjLWFmMTEtODQ3OWIwM2MzYzcyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Project: Design and deliver an end-to-end BI solution for Maven Market](https://app.powerbi.com/view?r=eyJrIjoiOTE2ODk3ZGItMDZiMy00YzM0LWE4ZGYtMWFiZDcxMTZjYzhlIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)_
