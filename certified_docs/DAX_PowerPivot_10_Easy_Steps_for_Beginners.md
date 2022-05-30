@@ -1,10 +1,10 @@
-<h1>Advanced Excel - Top Excel Tips and Formulas</h1>
+<h1>DAX Power Pivot - 10 Easy Steps for Beginners</h1>
 by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/advanced_excel_tips_formulas.jpg)
+![Certificate of Achievement](/images/DAX Power Pivot - 10 Easy Steps for Beginners.jpg)
  
 <h3>Overview:</h3>
 <ul>
