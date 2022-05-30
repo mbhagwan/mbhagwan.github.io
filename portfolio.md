@@ -45,3 +45,7 @@
 * **Course: Microsoft Power BI Desktop for Business Intelligence**
   * _[Project: Design and deliver an end-to-end BI solution for Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiNTk5YzNhZjktNGM0Ni00OTVjLWFmMTEtODQ3OWIwM2MzYzcyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
   * _[Project: Design and deliver an end-to-end BI solution for Maven Market](https://app.powerbi.com/view?r=eyJrIjoiNWQ0MzAxNDktNGI2ZS00MmM1LTk3ZmYtODg3NjE4ZTJkYmU2IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+
+* **Course PL-300: Microsoft Power BI Data Analyst**
+  * _[Module: Create a data-driven story with Power BI reports](https://app.powerbi.com/view?r=eyJrIjoiMGVjZGU1YTAtZDJmNi00ZDhhLTlhYmQtYmUzNjlhOWNiOGQ4IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Module: Create dashboards in Power BI](https://app.powerbi.com/groups/me/dashboards/b907b23a-1c85-4db8-af83-1673400d3d35?ctid=358e498a-5233-49eb-ab75-570b45da840f&pbi_source=linkShare)_
