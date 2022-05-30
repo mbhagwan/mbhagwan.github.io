@@ -111,6 +111,7 @@
 ### Microsoft Power Query, Power Pivot, Power BI & DAX
 
 * <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_begginer_to_advanced.md)</i>
+* <i>[DAX Power Pivot - 10 Easy Steps for Beginners](/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md)</i>
 * <i>[Microsoft Power BI Desktop for Business Intelligence](/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md)</i>
 
 ### Microsoft PowerPoint
