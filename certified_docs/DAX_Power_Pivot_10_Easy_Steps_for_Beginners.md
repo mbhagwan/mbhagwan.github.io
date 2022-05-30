@@ -20,7 +20,7 @@ by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a
  </tr>
  <tr>
   <td>1</td>
-  <td>Introduction to Course</td>
+  <td>Introduction</td>
  </tr>
  <tr>
   <td>2</td>
