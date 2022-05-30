@@ -1,1 +1,37 @@
+<h1>DAX Power Pivot - 10 Easy Steps for Beginners</h1>
+by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a>
+<hr>
 
+<!-- ![Certificate of Completion]() -->
+
+![Certificate of Achievement](/images/advanced_excel_tips_formulas.jpg)
+ 
+<h3>Overview:</h3>
+<ul>
+ <li>Learn how to build DAX functions in PowerPivot</li>
+</ul>
+
+<h4>Course Syllabus:</h4>
+
+<table border="1">
+ <tr>
+  <th>Section</th>
+  <th>Content</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Introduction & Scope</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Top 10 Excel Tips to Save You Time</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Top 10 Excel Formulas for Quick & Dynamic Analysis</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>Formula Combinations for Real Cases</td>
+ </tr>
+</table>
