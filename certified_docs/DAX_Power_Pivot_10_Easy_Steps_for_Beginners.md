@@ -20,18 +20,50 @@ by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a
  </tr>
  <tr>
   <td>1</td>
-  <td>Introduction & Scope</td>
+  <td>Introduction to Course</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Top 10 Excel Tips to Save You Time</td>
+  <td>Creating the Data Model</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Top 10 Excel Formulas for Quick & Dynamic Analysis</td>
+  <td>Creating Pivot Tables & Relationships</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Formula Combinations for Real Cases</td>
+  <td>Adding Excel Data to the Data Model</td>
+ </tr>
+ <tr>
+  <td>5</td>
+  <td>Creating a Hierarchy</td>
+ </tr>
+ <tr>
+  <td>6</td>
+  <td>Calculated Columns & Measures</td>
+ </tr>
+ <tr>
+  <td>7</td>
+  <td>Measures in Excel</td>
+ </tr>
+ <tr>
+  <td>8</td>
+  <td>RELATED() & RELATEDTABLE()</td>
+ </tr>
+ <tr>
+  <td>9</td>
+  <td>COUNT() & DISTINCTCOUNT()</td>
+ </tr>
+ <tr>
+  <td>10</td>
+  <td>CALCULATE()</td>
+ </tr>
+ <tr>
+  <td>11</td>
+  <td>CALCULATE() with ALL()</td>
+ </tr>
+ <tr>
+  <td>12</td>
+  <td>Creating an Excel Calendar Table</td>
  </tr>
 </table>
