@@ -4,7 +4,7 @@ by <a href="https://www.udemy.com/course/advanced-excel-tips-formulas/">Udemy</a
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/advanced_excel_tips_formulas.jpg)
+![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
  
 <h3>Overview:</h3>
 <ul>
