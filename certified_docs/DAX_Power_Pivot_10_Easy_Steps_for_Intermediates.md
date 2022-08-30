@@ -24,46 +24,46 @@ by <a href="https://nlbsg.udemy.com/course/dax-power-pivot-data-modelling-in-exc
  </tr>
  <tr>
   <td>2</td>
-  <td>Creating the Data Model</td>
+  <td>Creating the Data Model with Power Query</td>
  </tr>
  <tr>
   <td>3</td>
-  <td>Creating Pivot Tables & Relationships</td>
+  <td>Basic DAX Iterators</td>
  </tr>
  <tr>
   <td>4</td>
-  <td>Adding Excel Data to the Data Model</td>
+  <td>Multiple Tables & CALCULATE()</td>
  </tr>
  <tr>
   <td>5</td>
-  <td>Creating a Hierarchy</td>
+  <td>Context Transitions & Measures</td>
  </tr>
  <tr>
   <td>6</td>
-  <td>Calculated Columns & Measures</td>
+  <td>VALUES() & SUMX()</td>
  </tr>
  <tr>
   <td>7</td>
-  <td>Measures in Excel</td>
+  <td>ALL(), ALLEXCEPT() & ALLSELECTED()</td>
  </tr>
  <tr>
   <td>8</td>
-  <td>RELATED() & RELATEDTABLE()</td>
+  <td>IF(), VALUES() & HASONEVALUE()</td>
  </tr>
  <tr>
   <td>9</td>
-  <td>COUNT() & DISTINCTCOUNT()</td>
+  <td>Disconnected Tables (Parameter Tables)</td>
  </tr>
  <tr>
   <td>10</td>
-  <td>CALCULATE()</td>
+  <td>Thresholds & Banding</td>
  </tr>
  <tr>
   <td>11</td>
-  <td>CALCULATE() with ALL()</td>
+  <td>Key Performance Indicators</td>
  </tr>
  <tr>
   <td>12</td>
-  <td>Creating an Excel Calendar Table</td>
+  <td>Introduction to CUBE Formulas</td>
  </tr>
 </table>
