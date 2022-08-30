@@ -1,5 +1,5 @@
 <h1>DAX Power Pivot - 10 Easy Steps for Intermediates</h1>
-by <a href="https://nlbsg.udemy.com/course/dax-power-pivot-data-modelling-in-excel-2016-and-exercises/learn/lecture/6571560">Udemy</a>
+by <a href="https://nlbsg.udemy.com/course/dax-power-pivot-10-easy-steps-for-intermediates/learn/lecture/9117994?start=0#overview">Udemy</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
