@@ -4,7 +4,7 @@ by <a href="https://nlbsg.udemy.com/course/dax-power-pivot-data-modelling-in-exc
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
+![Certificate of Achievement](/images/DAX Power Pivot 10 Easy Steps for Intermediates.jpeg)
  
 <h3>Overview:</h3>
 <ul>
