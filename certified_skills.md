@@ -67,9 +67,10 @@
 
 <h5 style='color:SlateGray;'><i>Completed the following courses with certification:</i></h5>
 
-### Data Science | Python
+### Data Science | Python | Pandas
 
 * <i>[Introduction to Python](/certified_docs/introduction_to_python.md)</i>
+* <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
 
 * **Data Science Foundations**
 
