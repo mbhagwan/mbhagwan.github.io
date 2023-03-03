@@ -103,7 +103,7 @@
 * <i>[Google Sheets Essential Training](certified_docs/google_sheets_essential_training.md)</i>
 * <i>[Google Slides Essential Training](certified_docs/google_slides_essential_training.md)</i>
 
-### Microsoft Excel
+### MS Excel
 
 * <i>[Data Analysis with Excel Pivot Tables](/certified_docs/data_analysis_with_excel_pivot_tables.md)</i>
 * <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
@@ -126,7 +126,7 @@
 ### MS PowerQuery
 * <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_beginner_to_advanced.md)</i>
 * 
-### Microsoft PowerPoint
+### MS PowerPoint
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
 * <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
