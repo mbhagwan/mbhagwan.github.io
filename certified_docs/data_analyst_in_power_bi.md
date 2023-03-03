@@ -15,7 +15,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 
 <table border="1">
  <tr>
-  <th>Section</th>
+  <th>Course</th>
   <th>Content</th>
  </tr>
  <tr>
