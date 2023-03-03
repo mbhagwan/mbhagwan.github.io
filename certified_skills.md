@@ -109,16 +109,10 @@
 * <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
 * <i>[Advanced Excel - Top Excel Tips & Formulas](/certified_docs/advanced_excel_top_tips_and_formulas.md)</i>
 
-### Microsoft Power Query, Power Pivot, Power BI & DAX
-
-* <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_beginner_to_advanced.md)</i>
-* <i>[DAX Power Pivot - 10 Easy Steps for Beginners](/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md)</i>
-* <i>[DAX Power Pivot - 10 Easy Steps for Intermediates](/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md)</i>
-* <i>[Microsoft Power BI Desktop for Business Intelligence](/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md)</i>
-
 ### MS Power BI
 
 * <i>[Microsoft Power BI Desktop for Business Intelligence](/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md)</i>
+* <i>[Data Analyst in Power BI](/certified_docs/data_analyst_in_power_bi.md)</i>
 
 ### MS PowerPivot & DAX
 
