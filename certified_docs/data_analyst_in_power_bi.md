@@ -8,7 +8,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  
 <h3>Overview:</h3>
 <ul>
- <li>Analyze data quickly and easily with Python's powerful pandas library</li>
+ <li>Learn how to master Power BI—one of the world’s most popular business intelligence tools—in this interactive learning path, co-created with Microsoft to pass the official PL-300 Data Analyst with Power BI exam. </li>
 </ul>
 
 <h4>Course Syllabus:</h4>
