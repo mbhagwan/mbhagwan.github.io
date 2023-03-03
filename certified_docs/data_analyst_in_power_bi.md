@@ -4,7 +4,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/"Data Analyst in Power BI.jpg")
+![Certificate of Achievement](/images/data_analyst_in_power_bi.jpg)
  
 <h3>Overview:</h3>
 <ul>
