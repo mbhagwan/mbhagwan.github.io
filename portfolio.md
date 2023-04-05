@@ -15,7 +15,7 @@
 ---
 ## **Links to Data Analysis Projects**
 
-* **Data Analysis Projects using Excel, Power Query and Excel Pivot Tables**
+* **Data Analysis using Excel, Power Query and Excel Pivot Tables**
   * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiB8zOGm4VhDtC4ZK?e=iAmhvk)_
   * _[Analyzing San Francisco Salary Data](https://1drv.ms/x/s!AjU6_8hHCMjkiCPjiBuDxwnCBOZQ?e=aHSZ2S)_
   * _[Exploring Shark Attack Records](https://1drv.ms/x/s!AjU6_8hHCMjkiCGEHGyEwIH75ug1?e=HgK38B)_
@@ -29,7 +29,7 @@
   * _[Analyse Cosmetics Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
   * _[Analyse Bikes and Accessories Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
 
-* **Data Analysis Projects using Power BI, Power Pivot, DAX**
+* **Data Analysis using Power BI, Power Pivot, DAX**
 
    * _[Project: Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
