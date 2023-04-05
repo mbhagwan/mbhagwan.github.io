@@ -15,7 +15,7 @@
 ---
 ## **Links to Data Analysis Projects**
 
-* **Data Analysis Projects using Excel and Excel Pivot Tables**
+* **Data Analysis Projects using Excel, Power Query and Excel Pivot Tables**
   * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiB8zOGm4VhDtC4ZK?e=iAmhvk)_
   * _[Analyzing San Francisco Salary Data](https://1drv.ms/x/s!AjU6_8hHCMjkiCPjiBuDxwnCBOZQ?e=aHSZ2S)_
   * _[Exploring Shark Attack Records](https://1drv.ms/x/s!AjU6_8hHCMjkiCGEHGyEwIH75ug1?e=HgK38B)_
@@ -26,12 +26,12 @@
   * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiCbBkeWpnapR8DWR?e=yMn6ff)_
   * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
   * _[Airbnb Survey Data Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDcUSN-JNlXvxlbm?e=VIHkkM)_
+  * _[Analyse Cosmetics Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
+  * _[Analyse Bikes and Accessories Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
 
 * **Data Analysis Projects using Power BI, Power Pivot, DAX**
 
-  * _[Get and Transform (Power Query Practice Challenge - Part 1)](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
-  * _[Get and Transform (Power Query Practice Challenge - Part 2)](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
-  * _[Project: Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+   * _[Project: Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
   * _[Project: Analyse HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
   
