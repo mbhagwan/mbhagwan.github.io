@@ -35,8 +35,6 @@
 
   * _[Project: Analyse HR Data](https://1drv.ms/x/s!AjU6_8hHCMjkiD1zVwfV1QeKJwVT?e=vfhnyE)_
   
-  * _[Project: Create a Modern Excel Dashboard with Power Query & Pivot Tables](https://1drv.ms/x/s!AjU6_8hHCMjkiEbl5pn7K3IHv7qQ?e=U66sTV)_
-  
   * _[Project: Create an Interactive Customer Sales Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTgwOTUzMTMtOTEzYy00NzIyLWJhMjUtNDkxZmZhMWNjZDRhIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
   * _[Project: Design and deliver an end-to-end BI solution for Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiNTk5YzNhZjktNGM0Ni00OTVjLWFmMTEtODQ3OWIwM2MzYzcyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
