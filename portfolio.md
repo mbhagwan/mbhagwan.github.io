@@ -42,3 +42,6 @@
   * _[Project: Design and deliver an end-to-end BI solution for Maven Market](https://app.powerbi.com/view?r=eyJrIjoiNWQ0MzAxNDktNGI2ZS00MmM1LTk3ZmYtODg3NjE4ZTJkYmU2IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
   * _[Project: Create a data-driven story with Power BI reports](https://app.powerbi.com/view?r=eyJrIjoiMGVjZGU1YTAtZDJmNi00ZDhhLTlhYmQtYmUzNjlhOWNiOGQ4IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+
+* **Hacker Statistics with Python**
+  * _[Use simulated repeated measurements to compute probabilities](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/projects/Case%20Study%20-%20Hacker%20Statistics.ipynb)_
