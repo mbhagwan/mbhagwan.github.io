@@ -17,7 +17,7 @@
 
 -->
 
-<h5 style='color:SlateGray;'><i>Completed the following courses:</i></h5>
+<h5 style='color:SlateGray;'><i>Completed the following free courses:</i></h5>
 
 ### Microsoft Excel
 
