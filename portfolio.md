@@ -26,8 +26,8 @@
   * _[Analyzing Spartan Race Facebook Posts](https://1drv.ms/x/s!AjU6_8hHCMjkiCbBkeWpnapR8DWR?e=yMn6ff)_
   * _[Cryptocurrency Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDUQYHvdpdOk-W6T?e=Oedfxw)_
   * _[Airbnb Survey Data Case Study](https://1drv.ms/x/s!AjU6_8hHCMjkiDcUSN-JNlXvxlbm?e=VIHkkM)_
-  * _[Analyse Cosmetics Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
-  * _[Analyse Bikes and Accessories Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
+  * _[Analyzing Cosmetics Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiEAnLsupTLpwHvi9?e=7IMvtw)_
+  * _[Analyzing Bikes and Accessories Sales Data](https://1drv.ms/x/s!AjU6_8hHCMjkiELbYzIZhkjBJTXV?e=QD0u6t)_
 
 * **Data Analysis using Power BI, Power Pivot, DAX**
 
