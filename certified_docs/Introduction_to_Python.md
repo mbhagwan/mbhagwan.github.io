@@ -4,7 +4,7 @@ by <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">d
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/introduction_to_python.jpg)
+![Certificate of Achievement](/images/introduction_to_python_datacamp.jpg)
 
 <h3>Overview:</h3>
 <ul>
