@@ -16,6 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-  <p><q>“Persistence guarantees that results are inevitable.”</p>
+  <p><q>Persistence guarantees that results are inevitable.</p>
 </span>
 </center>
