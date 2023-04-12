@@ -16,10 +16,10 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 
 <h4>Chapter 1 : Selecting Data</h4>
 
-<table border=1 width=800>
+<table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
@@ -40,7 +40,7 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 <table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
@@ -65,7 +65,7 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 <table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
@@ -86,7 +86,7 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 <table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
