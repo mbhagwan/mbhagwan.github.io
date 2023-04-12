@@ -4,8 +4,8 @@ by <a href="https://learn.saylor.org/course/view.php?id=439">Saylor Academy</a>
 
 <!-- ![Certificate of Completion](unix_essential_training.jpg) -->
 
-![Certificate of Achievement](/images/introduction_to_python.jpg)
- 
+![Certificate of Achievement](/images/introduction_to_python_saylor.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Introduction to fundamental programming concepts by way of the Python 3 programming language. </li>
