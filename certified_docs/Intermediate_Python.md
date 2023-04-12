@@ -114,3 +114,26 @@ by <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">d
   <td>Loop Data Structures, Part 2</td>
  </tr>
 </table>
+
+<h4>Chapter 5 : Case Study - Hacker Statistics</h4>
+<ul>
+<li>Apply all the concepts you've learned in this course. You'll use hacker statistics to calculate your chances of winning a bet.</li>
+</ul>
+<table border="1">
+ <tr>
+  <th>Section</th>
+  <th width=300>Content</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Random Numbers</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Random Walk</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Distribution</td>
+ </tr>
+</table>
