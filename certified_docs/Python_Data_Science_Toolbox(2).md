@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-2"
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/python_data_science_toolbox_2.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Continue to build your modern Data Science skills by learning about iterators and list comprehensions.</li>
