@@ -1,5 +1,5 @@
 <h1>Introduction to SQL</h1>
-by <a href="https://app.datacamp.com/learn/courses/introduction-to-sql">datacamp</a>
+by <a href="https://www.datacamp.com/courses/introduction-to-sql">datacamp</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
