@@ -1,5 +1,5 @@
 <h1>Introduction to SQL</h1>
-by <a href="https://nlbsg.udemy.com/course/dax-power-pivot-data-modelling-in-excel-2016-and-exercises/learn/lecture/6571560">Udemy</a>
+by <a href="https://app.datacamp.com/learn/courses/introduction-to-sql">datacamp</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
