@@ -49,6 +49,7 @@
 * <i>[Introduction to Python for Data Science](/certified_docs/Introduction_to_Python.md)</i>
 * <i>[Intermediate Python for Data Science](/certified_docs/Intermediate_Python.md)</i>
 * <i>[Python Data Science Toolbox (Part 1)](/certified_docs/Python_Data_Science_Toolbox(1).md)</i>
+* <i>[Python Data Science Toolbox (Part 2)](/certified_docs/Python_Data_Science_Toolbox(2).md)</i>
 * <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
 
 ### Digital Marketing | Ecommerce
