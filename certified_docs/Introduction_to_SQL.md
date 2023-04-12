@@ -16,7 +16,7 @@ by <a href="https://www.datacamp.com/courses/introduction-to-sql">datacamp</a>
 <table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
@@ -37,7 +37,7 @@ by <a href="https://www.datacamp.com/courses/introduction-to-sql">datacamp</a>
 <table border="1">
  <tr>
   <th>Section</th>
-  <th>Content</th>
+  <th width=200>Content</th>
  </tr>
  <tr>
   <td>1</td>
