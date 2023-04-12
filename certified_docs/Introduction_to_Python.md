@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">d
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/introduction_to_python.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses</li>
