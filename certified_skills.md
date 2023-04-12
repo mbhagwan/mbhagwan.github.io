@@ -52,6 +52,11 @@
 * <i>[Python Data Science Toolbox (Part 2)](/certified_docs/Python_Data_Science_Toolbox(2).md)</i>
 * <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
 
+### Structured Query Language (SQL)
+
+* <i>[Introduction to SQL](/certified_docs/Introduction_to_SQL.md)</i>
+* <i>[Intermediate SQL](/certified_docs/Intermediate_SQL.md)</i>
+
 ### Digital Marketing | Ecommerce
 
 * <i>[Digital Marketing & E-Commerce Specialist](certified_docs/digital_marketing_and_ecommerce_specialist.md)</i>
