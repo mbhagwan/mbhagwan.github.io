@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">About</span>
+<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Index</span>
 
 ---
 
@@ -15,5 +15,5 @@
 ---
 
 <span style="font-family:Papyrus; font-size:2em;">
-  <a href="https://www.linkedin.com/in/mbhagwan/">Visit my LinkedIn profile</a>
+  <a href="https://www.linkedin.com/in/mbhagwan/">LinkedIn profile</a>
 </span>
