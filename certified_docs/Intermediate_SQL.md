@@ -16,7 +16,7 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 
 <h4>Chapter 1 : Selecting Data</h4>
 
-<table border="1">
+<table border=1 width=800>
  <tr>
   <th>Section</th>
   <th>Content</th>
