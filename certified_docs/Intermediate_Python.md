@@ -1,5 +1,5 @@
 <h1>Intermediate Python</h1>
-by <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">datacamp</a>
+by <a href="https://www.datacamp.com/courses/intermediate-python">datacamp</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
