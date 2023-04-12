@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/introduction-to-sql">datacamp</a>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/introduction_to_SQL.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Learn how to create and query relational databases using SQL</li>
