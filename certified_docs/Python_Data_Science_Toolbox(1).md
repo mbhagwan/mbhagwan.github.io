@@ -1,5 +1,5 @@
 <h1>Python Data Science Toolbox (Part 1)</h1>
-by <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">datacamp</a>
+by <a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-1">datacamp</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
