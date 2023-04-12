@@ -16,6 +16,6 @@
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
-  <p><q>What we fear of doing most is usually what we most need to do</q> - Ralph Waldo Emerson</p>
+  <p><q>“Persistence guarantees that results are inevitable.”</p>
 </span>
 </center>
