@@ -46,7 +46,7 @@
 
 ### Python | Matplotlib | NumPy | Pandas
 
-* <i>[Introduction to Python](/certified_docs/introduction_to_python.md)</i>
+* <i>[Introduction to Python for Data Science](/certified_docs/Introduction_to_Python.md)</i>
 * <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
 
 ### Digital Marketing | Ecommerce
