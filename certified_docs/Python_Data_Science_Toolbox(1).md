@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-1"
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/python_data_science_toolbox_1.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Learn the art of writing your own functions in Python, as well as key concepts like scoping and error handling.</li>
