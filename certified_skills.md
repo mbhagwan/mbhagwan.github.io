@@ -44,7 +44,7 @@
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
 * <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
 
-### Python | Pandas
+### Python | Matplotlib | NumPy | Pandas
 
 * <i>[Introduction to Python](/certified_docs/introduction_to_python.md)</i>
 * <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
