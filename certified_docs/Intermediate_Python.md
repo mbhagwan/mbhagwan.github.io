@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/intermediate-python">datacamp</a>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/intermediate_python.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>Level up your data science skills by creating visualizations using Matplotlib and manipulating DataFrames with pandas.</li>
