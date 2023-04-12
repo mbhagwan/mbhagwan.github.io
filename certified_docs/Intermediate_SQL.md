@@ -4,8 +4,8 @@ by <a href="https://www.datacamp.com/courses/intermediate-sql">datacamp</a>
 
 <!-- ![Certificate of Completion]() -->
 
-![Certificate of Achievement](/images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg)
- 
+![Certificate of Achievement](/images/intermediate_SQL.jpg)
+
 <h3>Overview:</h3>
 <ul>
  <li>How to filter and compare data</li>
