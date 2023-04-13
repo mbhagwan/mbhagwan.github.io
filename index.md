@@ -9,9 +9,7 @@
 > [Portfolio](portfolio.md)
 >
 > [Useful Links](links.md)
-<!---
-> [About](about.md)
---->
+
 ---
 
 <center>
