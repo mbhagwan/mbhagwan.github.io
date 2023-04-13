@@ -34,9 +34,11 @@
   * _[Data Visualization in Excel](data_visualization_in_excel.md)_
   * _[Excel Power Tools for Data Analysis](excel_power_tools_for_data_analysis.md)_
 
+<!---
 ### Python
 
 * _[Python for Data Analysis](other_skills_docs/python_for_data_analysis.md)_
+--->
 
 ### R Language
 
