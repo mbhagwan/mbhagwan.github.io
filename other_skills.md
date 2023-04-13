@@ -9,13 +9,8 @@
 > [Portfolio](portfolio.md)
 > 
 > [Useful Links](links.md)
-<!---
-> [About](about.md)
---->
----
-<!--
 
--->
+---
 
 <h5 style='color:SlateGray;'><i>Completed the following free courses:</i></h5>
 
