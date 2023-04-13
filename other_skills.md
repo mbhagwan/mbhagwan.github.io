@@ -38,11 +38,11 @@
 ### Python
 
 * _[Python for Data Analysis](other_skills_docs/python_for_data_analysis.md)_
---->
 
 ### R Language
 
 * _[Learn-R](other_skills_docs/learn_R.md)_
+--->
 
 ### SQL
 
@@ -55,9 +55,11 @@
 * _[Learn HTML](other_skills_docs/learn_html.md)_
 * _[Learn CSS](other_skills_docs/learn_css.md)_
 
+<!---
 ### Java
 
 * _[Learn Java](other_skills_docs/learn_java.md)_
+--->
 <hr>
 
 [Certified IT Skills](certified_skills.md)
