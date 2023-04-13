@@ -2,7 +2,7 @@
 
 ---
 
-> [LinkedIn profile]("https://www.linkedin.com/in/mbhagwan")
+> [LinkedIn profile](https://www.linkedin.com/in/mbhagwan)
 > 
 > [Certified IT Skills](certified_skills.md)
 >
