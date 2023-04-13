@@ -9,10 +9,10 @@
 > [Other IT Skills](other_skills.md)
 > 
 > [Portfolio](portfolio.md)
-<!---
-> [About](about.md)
---->
+
 ---
+
+<h5 style='color=SlateGray;'><i>The following is a list of useful reference links:</i></h5>
 
 ### Data Science
 
