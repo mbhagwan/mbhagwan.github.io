@@ -2,7 +2,7 @@
 
 ---
 
-> [Home](index.md)
+> [Index](index.md)
 >
 > [Certified IT Skills](certified_skills.md)
 > 
