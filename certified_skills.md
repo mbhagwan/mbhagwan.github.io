@@ -90,9 +90,11 @@
   * <i>[Data Analysis with Python](certified_docs/data_analysis_with_python)</i>
   * <i>[Data Visualization with Python](certified_docs/data_visualization_with_python)</i>
 
+<!---
 ### R Language
 
 * <i>[R for Data Science](certified_docs/R_101.md)</i>
+--->
 
 ### Unix Shell
 
