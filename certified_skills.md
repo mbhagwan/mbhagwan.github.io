@@ -2,7 +2,7 @@
 
 ---
 
-> [Home](index.md)
+> [Index](index.md)
 >
 > [Other IT Skills](other_skills.md)
 >
