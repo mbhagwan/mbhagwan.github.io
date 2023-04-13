@@ -9,11 +9,10 @@
 > [Other IT Skills](other_skills.md)
 > 
 > [Useful Links](links.md)
-> 
-> [About](about.md)
 
 ---
-## **Links to Data Analysis Projects**
+
+<h5 style='color:SlateGray;'><i>Completed the following projects:</i></h5>
 
 * **Data Analysis using Excel, Power Query and Excel Pivot Tables**
   * _[Analyzing US Voter Demographics (2012)](https://1drv.ms/x/s!AjU6_8hHCMjkiB8zOGm4VhDtC4ZK?e=iAmhvk)_
