@@ -16,7 +16,7 @@
 
 * **Python**
 
-  * _[Extract, Transform, and Load using Python]()_
+  * _[Extract, Transform, and Load Data using Python]()_
  
   * _[Webscraping in Python]()_
 
