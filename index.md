@@ -8,7 +8,7 @@
 >
 > [Other IT Skills](other_skills.md)
 >
-> [LinkedIn:](https://www.linkedin.com/in/mbhagwan)
+> [LinkedIn profile](https://www.linkedin.com/in/mbhagwan)
 > 
 > [Useful Links](links.md)
 
