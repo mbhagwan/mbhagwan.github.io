@@ -2,14 +2,14 @@
 
 ---
 
-> [LinkedIn profile](https://www.linkedin.com/in/mbhagwan)
-> 
+> [Projects](portfolio.md)
+>
 > [Certified IT Skills](certified_skills.md)
 >
 > [Other IT Skills](other_skills.md)
 >
-> [Portfolio](portfolio.md)
->
+> [LinkedIn:](https://www.linkedin.com/in/mbhagwan)
+> 
 > [Useful Links](links.md)
 
 ---
