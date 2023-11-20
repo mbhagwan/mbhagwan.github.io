@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Portfolio</span>
+<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Projects</span>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-<h5 style='color:SlateGray;'><i>Completed the following projects:</i></h5>
+<h5 style='color:SlateGray;'><i>List of projects:</i></h5>
 
 * **Python**
 
