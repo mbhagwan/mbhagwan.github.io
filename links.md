@@ -12,7 +12,7 @@
 
 ---
 
-<h5 style='color:SlateGray;'><i>The following is a list of useful reference links:</i></h5>
+<h5 style='color:SlateGray;'><i>A list of useful reference links:</i></h5>
 
 ### Data Science
 
