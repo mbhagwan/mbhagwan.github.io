@@ -16,7 +16,7 @@
 
 * **Python**
 
-  * _[Extract, Transform, and Load Data using Python](https://github.com/mbhagwan/portfolio/blob/main/etl-using-python/etl_code.ipynb)_
+  * _[Extract, Transform, and Load Data using Python](https://github.com/mbhagwan/portfolio/tree/main)_
  
   * _[Webscraping in Python]()_
  
