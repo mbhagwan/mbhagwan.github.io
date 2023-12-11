@@ -16,7 +16,7 @@
 
 * **Python**
 
-  * _[Extract, Transform, and Load Data using Python](https://github.com/mbhagwan/portfolio/tree/main)_
+  * _[Extract, Transform, and Load Data using Python]()_
  
   * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main)_
  
@@ -25,7 +25,7 @@
 
 * **Data Analysis using Power BI, DAX, Power Query, and Power Pivot**
 
-  * _[Data Analysis and Visualization with Power BI](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-and-viz)_
+  * _[Data Analysis and Visualization with Power BI](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-and-viz/power-bi)_
 
   * _[Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
   
