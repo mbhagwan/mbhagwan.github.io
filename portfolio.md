@@ -17,10 +17,12 @@
 * **Python**
 
   * _[Extract, Transform, and Load Data using Python](https://github.com/mbhagwan/portfolio/tree/main/etl-using-python)_
- 
-  * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
+    
+  * _[Python Exploratory Data Analysis](https://github.com/mbhagwan/portfolio/tree/main/python-exploratory-data-analysis)_
  
   * _[Use simulated repeated measurements to compute probabilities](https://github.com/mbhagwan/mbhagwan.github.io/blob/main/projects/Case%20Study%20-%20Hacker%20Statistics.ipynb)_
+ 
+  * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
 
 
 * **Data Analysis using Power BI, DAX, Power Query, and Power Pivot**
