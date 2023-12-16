@@ -31,4 +31,4 @@
 
   * _[Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
-  * _[Create a data-driven story with Power BI reports](https://app.powerbi.com/view?r=eyJrIjoiMGVjZGU1YTAtZDJmNi00ZDhhLTlhYmQtYmUzNjlhOWNiOGQ4IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Create a Data-driven Story with Power BI reports](https://app.powerbi.com/view?r=eyJrIjoiMGVjZGU1YTAtZDJmNi00ZDhhLTlhYmQtYmUzNjlhOWNiOGQ4IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
