@@ -25,7 +25,7 @@
   * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
 
 
-* **Data Analysis using Power BI, DAX, Power Query, and Power Pivot**
+* **Power BI | DAX | Power Query | Power Pivot**
 
   * _[Data Analysis and Visualization with Power BI](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-and-visualization)_
 
