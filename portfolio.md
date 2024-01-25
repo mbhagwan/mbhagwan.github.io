@@ -16,13 +16,12 @@
 
 * **Python**
 
-  * _[Extract, Transform, and Load Data using Python](https://github.com/mbhagwan/portfolio/tree/main/etl-using-python)_
-    
-  * _[Python Exploratory Data Analysis](https://github.com/mbhagwan/portfolio/tree/main/python-exploratory-data-analysis)_
- 
-  * _[Simulated Repeated Measurements to Compute Probabilities](https://github.com/mbhagwan/portfolio/blob/main/simulated-repeated-measurements-to-compute-probabilities.ipynb)_
- 
-  * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
+  * _[Python: Extract-Transform-Load](https://github.com/mbhagwan/portfolio/tree/main/python-extract-transform-load)_
+  * _[Python: Investigating Netflix Movies](https://github.com/mbhagwan/portfolio/tree/main/python-investigating-netflix-movies)_
+  * _[Python: Analyzing NYC Public School Test Scores](https://github.com/mbhagwan/portfolio/tree/main/python-nyc-public-school-test-scores)_
+  * _[Python: Webscraping with Beautiful Soup](https://github.com/mbhagwan/portfolio/tree/main/python-webscraping-with-beautifulsoup)_
+  * _[Python: Computing Probabilities](https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb)_
+
 
 
 * **Power BI / DAX / Power Query / Power Pivot**
