@@ -35,4 +35,4 @@
 
 * **SQL**
 
-  * _[Data Analysis in SQL](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-in-sql)_
+  * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
