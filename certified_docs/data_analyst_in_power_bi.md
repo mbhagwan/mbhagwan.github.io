@@ -21,12 +21,12 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <th>Course No.</th>
   <th>Course Title</th>
-  <th>Certificate</th>
+  <th>Statement of Accomplishment</th>
  </tr>
  <tr>
   <td>1</td>
   <td>Introduction to Power BI</td>
-  <td><a href=https://www.datacamp.com/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e?raw=1>View</a></td>
+  <td><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e>View</a></td>
  </tr>
  <tr>
   <td>2</td>
