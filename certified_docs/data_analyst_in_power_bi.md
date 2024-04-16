@@ -31,6 +31,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <td>2</td>
   <td>Introduction to DAX in Power BI</td>
+  <td><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/c1ca17c8ce39bb11ac2fdced83ea54840ade85af>View</a></td>
  </tr>
  <tr>
   <td>3</td>
