@@ -21,6 +21,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <th>Course No.</th>
   <th>Course Title</th>
+  <th>Certificate</th>
  </tr>
  <tr>
   <td>1</td>
