@@ -8,8 +8,8 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  
 <h3>Overview:</h3>
 <ul>
- <li><p style="text-align:justify">This interactive learning path, developed in collaboration with Microsoft, offers a comprehensive guide to mastering Power BI. Delve into essential skills such as data importing, cleaning, manipulation, and visualization within Power BI through practical exercises. Discover key functionalities including data modeling, DAX, Power Query, and more while learning data analysis best practices.</p></li>
- <li>This <u>Data Analyst in Power BI Career Track</u> consists of <i>18 courses</i>.</li>
+ <li><p style="text-align:justify">Master Power BI in this interactive learning path of 18 individual courses, co-created with Microsoft to pass the official PL-300 Data Analyst with Power BI exam.</p></li>
+ <li><p style="text-align:justify">Learn how to import, clean, manipulate, and visualize data in Power BI. Discover key functionalities including data modeling, DAX, Power Query, and more while learning data analysis best practices.</p></li>
 </ul>
 
 <h4>Syllabus:</h4>
