@@ -15,7 +15,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
   data analysis best practices.</li>
 </ul>
 
-<h4>Syllabus:</h4>
+<h4>Data Analyst in Power BI Learning Path:</h4>
 
 <table border="1">
  <tr>
