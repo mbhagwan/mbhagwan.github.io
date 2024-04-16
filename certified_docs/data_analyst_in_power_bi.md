@@ -9,6 +9,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 <h3>Overview:</h3>
 <ul>
  <li>Learn how to master Power BI—one of the world’s most popular business intelligence tools—in this interactive learning path, co-created with Microsoft to pass the official PL-300 Data Analyst with Power BI exam. </li>
+ <li>This Career Track consists of 18 courses.</li>
 </ul>
 
 <h4>Course Syllabus:</h4>
@@ -16,7 +17,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 <table border="1">
  <tr>
   <th>Course</th>
-  <th>Content</th>
+  <th>Course title</th>
  </tr>
  <tr>
   <td>1</td>
