@@ -21,17 +21,14 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <th>Module</th>
   <th>Module Name</th>
-  <th>Statement of Accomplishment</th>
  </tr>
  <tr>
   <td>1</td>
   <td>Introduction to Power BI</td>
-  <td align="center"><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e target="_blank">View</a></td>
  </tr>
  <tr>
   <td>2</td>
   <td>Introduction to DAX in Power BI</td>
-  <td align="center"><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/c1ca17c8ce39bb11ac2fdced83ea54840ade85af target="_blank">View</a></td>
  </tr>
  <tr>
   <td>3</td>
