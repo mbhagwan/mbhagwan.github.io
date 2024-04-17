@@ -1,5 +1,5 @@
 <h1>Data Analyst in Power BI</h1>
-by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">DataCamp</a>
+by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</a>
 <hr>
 
 <!-- ![Certificate of Completion]() -->
