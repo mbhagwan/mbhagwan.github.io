@@ -8,7 +8,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  
 <h3>Overview:</h3>
 <ul>
- <li>This Data Analyst in Power BI Career Track, consisting of 18 modules, is co-created with Microsoft<br>
+ <li>The Data Analyst in Power BI Career Track, consisting of 18 modules, is co-created with Microsoft<br>
   to pass the official PL-300 Data Analyst with Power BI Certification exam.</li>
  <li>Learn how to import, clean, manipulate, and visualize data in Power BI.</li>
  <li>Discover key functionalities including data modeling, DAX, Power Query, and more while learning<br> 
@@ -26,7 +26,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <td>1</td>
   <td>Introduction to Power BI</td>
-  <td><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e target="_blank">View</a></td>
+  <td><p align="center"><a href=https://www.datacamp.com/completed/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e target="_blank">View</a></p></td>
  </tr>
  <tr>
   <td>2</td>
