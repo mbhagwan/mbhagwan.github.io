@@ -23,7 +23,6 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
   <th rowspan="2">Module Name</th>
   <th rowspan="2">Statement of Accomplishment</th>
  </tr>
- 
  <tr>
   <td>1</td>
   <td>Introduction to Power BI</td>
