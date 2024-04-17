@@ -24,7 +24,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  </tr>
  <tr>
   <td>1</td>
-  <td>[Introduction to Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/186c9f46486560aec518ca0e7c4c83624d07380e)</td>
+  <td>Introduction to Power BI</td>
  </tr>
  <tr>
   <td>2</td>
