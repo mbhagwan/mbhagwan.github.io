@@ -21,7 +21,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
  <tr>
   <th>Course No.</th>
   <th>Course Title</th>
-  <th>Statement of Accomplishment</th>
+  <th rowspan="2">Statement of Accomplishment</th>
  </tr>
  <tr>
   <td>1</td>
