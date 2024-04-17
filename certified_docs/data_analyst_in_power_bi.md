@@ -19,9 +19,9 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 
 <table border="1">
  <tr>
-  <th rowspan="2">Module</th>
-  <th rowspan="2">Module Name</th>
-  <th rowspan="2">Statement of<br>Accomplishment</th>
+  <th rowspan="0">Module</th>
+  <th rowspan="0">Module Name</th>
+  <th rowspan="0">Statement of<br>Accomplishment</th>
  </tr>
  
  <tr>
