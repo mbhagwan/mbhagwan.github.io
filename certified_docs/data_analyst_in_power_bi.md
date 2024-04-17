@@ -18,10 +18,10 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
 <h4>Data Analyst in Power BI Learning Path:</h4>
 
 <table border="1">
- <tr>
-  <th>Course No.</th>
-  <th>Course Title</th>
-  <th rowspan="2">Statement of Accomplishment</th>
+ <tr rowspan="2">
+  <th>Module</th>
+  <th>Module Name</th>
+  <th>Statement of Accomplishment</th>
  </tr>
  <tr>
   <td>1</td>
