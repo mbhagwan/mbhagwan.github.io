@@ -15,7 +15,7 @@ by <a href="https://www.datacamp.com/tracks/data-analyst-in-power-bi">datacamp</
   data analysis best practices.</li>
 </ul>
 
-<h4>Data Analyst in Power BI Career Track:</h4>
+<h4>Course Length: 18 modules</h4>
 
 <table border="1">
  <tr>
