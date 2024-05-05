@@ -6,7 +6,7 @@
 >
 > [Other IT Skills](other_skills.md)
 >
-> [Portfolio](portfolio.md)
+> [Case Studies](portfolio.md)
 > 
 > [Useful Links](links.md)
 
