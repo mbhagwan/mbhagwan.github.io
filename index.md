@@ -2,7 +2,7 @@
 
 ---
 
-> [Projects](portfolio.md)
+> [Case Studies](portfolio.md)
 >
 > [Certified IT Skills](certified_skills.md)
 >
