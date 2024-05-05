@@ -6,7 +6,7 @@
 > 
 > [Certified IT Skills](certified_skills.md)
 >
-> [Portfolio](portfolio.md)
+> [Case Studies](portfolio.md)
 > 
 > [Useful Links](links.md)
 
