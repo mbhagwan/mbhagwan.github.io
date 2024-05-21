@@ -112,12 +112,11 @@ certificate</i></a>
 <li>
  Google Slides Essential Training <a href="certified_docs/google_slides_essential_training.md"><i>view certificate</i></a>
 </li>
-* <i>[Google Drive Essential Training](certified_docs/google_drive_essential_training.md)</i>
-* <i>[Google Docs Essential Training](certified_docs/google_docs_essential_training.md)</i>
-* <i>[Google Sheets Essential Training](certified_docs/google_sheets_essential_training.md)</i>
-* <i>[Google Slides Essential Training](certified_docs/google_slides_essential_training.md)</i>
 
-### Unix Shell
+<h3>Unix Shell</h3>
+<li>
+ Unix Essential Training <a href="unix_essential_training.md"><i>view certificate</i></a>
+</li>
 
 * <i>[Unix Essential Training](unix_essential_training.md)</i>
 
