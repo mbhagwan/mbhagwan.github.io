@@ -85,10 +85,19 @@ certificate</i></a>
  Fundamentals of Digital Marketing <a href="certified_docs/fundamentals_of_digital_marketing.md"><i>view certificate</i></a>
 </li>
 
-* <i>[Digital Marketing & E-Commerce Specialist](certified_docs/digital_marketing_and_ecommerce_specialist.md)</i>
-* <i>[Fundamentals of Digital Marketing](certified_docs/fundamentals_of_digital_marketing.md)</i>
-
-### Google Analytics | Tag Manager | Data Studio
+<h3>Google Analytics | Tag Manager | Data Studio</h3>
+<li>
+ Advanced Google Analytics <a href="certified_docs/advanced_google_analytics.md"><i>view certificate</i></a>
+</li>
+<li>
+ Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
+</li>
+<li>
+ Google Tag Manager Fundamentals <a href="certified_docs/google_tag_manager_fundamentals.md"><i>view certificate</i></a>
+</li>
+<li>
+ Introduction to Data Studio <a href="certified_docs/introduction_to_data_studio.md"><i>view certificate</i></a>
+</li>
 
 * <i>[Google Analytics for Beginners](certified_docs/google_analytics_for_beginners.md)</i>
 * <i>[Advanced Google Analytics](certified_docs/advanced_google_analytics.md)</i>
