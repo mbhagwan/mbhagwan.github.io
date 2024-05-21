@@ -17,7 +17,7 @@
 ### MS Power BI
 
 * <!--<i>[Data Analyst in Power BI](/certified_docs/data_analyst_in_power_bi.md)</i>-->
-* Data Analyst in Power BI <i>[/<Show credential/>](https://www.datacamp.com/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028)</i>
+* <h6>Data Analyst in Power BI</h6> <i>[Show credential](https://www.datacamp.com/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028)</i>
 * <i>[Microsoft Power BI Desktop for Business Intelligence](/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md)</i>
 
 ### MS PowerPivot & DAX
