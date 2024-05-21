@@ -15,7 +15,7 @@
 
 <h5 style='color:SlateGray;'><i>Completed the following courses with certification:</i></h5>
 
-<span style="font-family:Papyrus; font-size:6em;">Microsoft Power BI</span>
+<h3>Microsoft Power BI</h3>
 
 * <!--<i>[Data Analyst in Power BI](/certified_docs/data_analyst_in_power_bi.md)</i>-->
 * DataCamp Career Track: Data Analyst in Power BI <i>[view credential](https://www.datacamp.com/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028)</i>
