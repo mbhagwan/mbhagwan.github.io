@@ -1,5 +1,5 @@
 <!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>-->
-<span style="font-family:Arial">IT Skills</span>
+<span style="font-family:Arial; font-size:8em;">IT Skills</span>
 <span style="font-family:Bodini">IT Skills</span>
 
 ---
