@@ -16,7 +16,7 @@
 <h3>Microsoft Power BI</h3>
 
 * <!--<i>[Data Analyst in Power BI](/certified_docs/data_analyst_in_power_bi.md)</i>-->
-* DataCamp Career Track: Data Analyst in Power BI <a style="text-decoration:none" href="https://www.datacamp.com/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view credential</i></a>
+* DataCamp Career Track: Data Analyst in Power BI <a href="https://www.datacamp.com/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view credential</i></a>
 * <i>[Microsoft Power BI Desktop for Business Intelligence](/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md)</i>
 
 ### MS PowerPivot & DAX
