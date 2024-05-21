@@ -28,7 +28,7 @@
  accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
 </li>
 
-<h3>SQL</h3>
+<h3>Structured Query Language (SQL)</h3>
 <li>
  SQL Fundamentals <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view credential</i></a>
 </li>
@@ -63,19 +63,6 @@
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
 * <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
-
-### Python | Matplotlib | NumPy | Pandas
-
-* <i>[Introduction to Python for Data Science](/certified_docs/Introduction_to_Python.md)</i>
-* <i>[Intermediate Python for Data Science](/certified_docs/Intermediate_Python.md)</i>
-* <i>[Python Data Science Toolbox (Part 1)](/certified_docs/Python_Data_Science_Toolbox-1.md)</i>
-* <i>[Python Data Science Toolbox (Part 2)](/certified_docs/Python_Data_Science_Toolbox-2.md)</i>
-* <i>[Data Analysis with Pandas and Python](/certified_docs/Data_analysis_with_pandas_and_python.md)</i>
-
-### Structured Query Language (SQL)
-
-* <i>[Introduction to SQL](/certified_docs/Introduction_to_SQL.md)</i>
-* <i>[Intermediate SQL](/certified_docs/Intermediate_SQL.md)</i>
 
 ### Digital Marketing | Ecommerce
 
