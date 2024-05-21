@@ -48,16 +48,26 @@
  DAX Power Pivot - Beginners <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md"><i>view certificate</i></a>
 </li>
 <li>
- DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view certificate</i></a>
+ DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view 
+ certificate</i></a>
 </li>
 
 <h3>Power Query</h3>
 <li>
- Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"><i>view certificate</i></a>
+ Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"> 
+ <i>view certificate</i></a>
 </li>
-* <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_beginner_to_advanced.md)</i>
 
-### MS Excel
+<h3>Excel</h3>
+<li>
+ Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
+</li>
+<li>
+ Advanced Excel - Top Excel Tips & Formulas <a href="/certified_docs/advanced_excel_top_tips_and_formulas.md"><i>view certificate</i></a>
+</li>
+<li>
+ Data Analysis with Excel Pivot Tables <a href="/certified_docs/data_analysis_with_excel_pivot_tables.md"><i>view certificate</i></a>
+</li>
 
 * <i>[Data Analysis with Excel Pivot Tables](/certified_docs/data_analysis_with_excel_pivot_tables.md)</i>
 * <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
