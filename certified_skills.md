@@ -45,11 +45,11 @@ href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i
 
 <h3>Data Analysis Expressions (DAX) | Power Pivot</h3>
 <li>
- DAX Power Pivot - Beginners <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md"><i>view certificate</i></a>
-</li>
-<li>
  DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view 
 certificate</i></a>
+</li>
+<li>
+ DAX Power Pivot - Beginners <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md"><i>view certificate</i></a>
 </li>
 
 <h3>Power Query</h3>
@@ -60,13 +60,13 @@ certificate</i></a>
 
 <h3>Excel</h3>
 <li>
- Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
-</li>
-<li>
  Advanced Excel - Top Excel Tips & Formulas <a href="/certified_docs/advanced_excel_top_tips_and_formulas.md"><i>view certificate</i></a>
 </li>
 <li>
  Data Analysis with Excel Pivot Tables <a href="/certified_docs/data_analysis_with_excel_pivot_tables.md"><i>view certificate</i></a>
+</li>
+<li>
+ Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
 </li>
 
 ### MS PowerPoint
