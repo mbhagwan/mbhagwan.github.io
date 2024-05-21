@@ -69,7 +69,13 @@ certificate</i></a>
  Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
 </li>
 
-### MS PowerPoint
+<h3>PowerPoint</h3>
+<li>
+ PowerPoint: Designing Better Slides <a href="/certified_docs/powerpoint_design_better_slides.md"><i>view certificate</i></a>
+</li>
+<li>
+ Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
+</li>
 
 * <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
 * <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
