@@ -99,14 +99,19 @@ certificate</i></a>
  Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
 </li>
 
-
-* <i>[Google Analytics for Beginners](certified_docs/google_analytics_for_beginners.md)</i>
-* <i>[Advanced Google Analytics](certified_docs/advanced_google_analytics.md)</i>
-* <i>[Google Tag Manager Fundamentals](certified_docs/google_tag_manager_fundamentals.md)</i>
-* <i>[Introduction to Data Studio](certified_docs/introduction_to_data_studio.md)</i>
-
-### Google Docs
-
+<h3>Google Docs</h3>
+<li>
+ Google Drive Essential Training <a href="certified_docs/google_drive_essential_training.md"><i>view certificate</i></a>
+</li>
+<li>
+ Google Docs Essential Training <a href="certified_docs/google_docs_essential_training.md"><i>view certificate</i></a>
+</li>
+<li>
+ Google Sheets Essential Training <a href="certified_docs/google_sheets_essential_training.md"><i>view certificate</i></a>
+</li>
+<li>
+ Google Slides Essential Training <a href="certified_docs/google_slides_essential_training.md"><i>view certificate</i></a>
+</li>
 * <i>[Google Drive Essential Training](certified_docs/google_drive_essential_training.md)</i>
 * <i>[Google Docs Essential Training](certified_docs/google_docs_essential_training.md)</i>
 * <i>[Google Sheets Essential Training](certified_docs/google_sheets_essential_training.md)</i>
