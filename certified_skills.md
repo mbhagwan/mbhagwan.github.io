@@ -20,6 +20,11 @@
  Python Fundamentals <a href="https://www.datacamp.com/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
 </li>
 
+<h3>Statistics</h3>
+<li>
+ Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view credential</i></a>
+</li>
+
 <h3>Microsoft Power BI</h3>
 <li>
  Data Analyst in Power BI <a href="https://www.datacamp.com/statement-of 
