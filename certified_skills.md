@@ -90,14 +90,15 @@ certificate</i></a>
  Advanced Google Analytics <a href="certified_docs/advanced_google_analytics.md"><i>view certificate</i></a>
 </li>
 <li>
- Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
+ Introduction to Data Studio <a href="certified_docs/introduction_to_data_studio.md"><i>view certificate</i></a>
 </li>
 <li>
  Google Tag Manager Fundamentals <a href="certified_docs/google_tag_manager_fundamentals.md"><i>view certificate</i></a>
 </li>
 <li>
- Introduction to Data Studio <a href="certified_docs/introduction_to_data_studio.md"><i>view certificate</i></a>
+ Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
 </li>
+
 
 * <i>[Google Analytics for Beginners](certified_docs/google_analytics_for_beginners.md)</i>
 * <i>[Advanced Google Analytics](certified_docs/advanced_google_analytics.md)</i>
