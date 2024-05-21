@@ -118,8 +118,6 @@ certificate</i></a>
  Unix Essential Training <a href="unix_essential_training.md"><i>view certificate</i></a>
 </li>
 
-* <i>[Unix Essential Training](unix_essential_training.md)</i>
-
 <hr>
 
 [Other IT Skills](other_skills.md)
