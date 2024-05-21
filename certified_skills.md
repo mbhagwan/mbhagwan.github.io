@@ -14,7 +14,7 @@
 ---
 <h3>Python</h3>
 <li>
- Data Analyst with Python <a href="https://www.datacamp.com/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential<i></a>
+ Data Analyst with Python <a href="https://www.datacamp.com/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
 </li>
 
 <h3>Microsoft Power BI</h3>
