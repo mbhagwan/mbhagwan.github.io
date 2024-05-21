@@ -43,11 +43,12 @@
  href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i>view certificate</i></a>
 </li>
 
-
 <h3>PowerPivot | Data Analysis Expressions (DAX)</h3>
 <li>
- DAX Power Pivot - Beginners
- DAX Power Pivot - Intermediate
+ DAX Power Pivot - Beginners <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md"><i>view certificate</i></a>
+</li>
+<li>
+ DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view certificate</i></a>
 </li>
 
 * <i>[DAX Power Pivot - 10 Easy Steps for Beginners](/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.md)</i>
