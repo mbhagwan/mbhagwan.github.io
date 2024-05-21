@@ -77,7 +77,13 @@ certificate</i></a>
  Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
 </li>
 
-### Digital Marketing | Ecommerce
+<h3>Digital Marketing | E-commerce</h3>
+<li>
+ Digital Marketing & E-commerce Specialist <a href="certified_docs/digital_marketing_and_ecommerce_specialist.md"><i>view certificate</i></a>
+</li>
+<li>
+ Fundamentals of Digital Marketing <a href="certified_docs/fundamentals_of_digital_marketing.md"><i>view certificate</i></a>
+</li>
 
 * <i>[Digital Marketing & E-Commerce Specialist](certified_docs/digital_marketing_and_ecommerce_specialist.md)</i>
 * <i>[Fundamentals of Digital Marketing](certified_docs/fundamentals_of_digital_marketing.md)</i>
