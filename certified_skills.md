@@ -51,8 +51,10 @@
  DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view certificate</i></a>
 </li>
 
-### MS PowerQuery
-
+<h3>Power Query</h3>
+<li>
+ Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"><i>view certificate</i></a>
+</li>
 * <i>[Excel Power Query Beginner to Advanced (including M)](/certified_docs/excel_power_query_beginner_to_advanced.md)</i>
 
 ### MS Excel
