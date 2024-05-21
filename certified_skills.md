@@ -83,26 +83,6 @@
 * <i>[Google Sheets Essential Training](certified_docs/google_sheets_essential_training.md)</i>
 * <i>[Google Slides Essential Training](certified_docs/google_slides_essential_training.md)</i>
 
-### Data Science
-
-* **Data Science Foundations**
-
-  * <i>[Introduction to Data Science](certified_docs/introduction_to_data_science.md)</i>
-  * <i>[Data Science Methodology](certified_docs/data_science_methodology.md)</i>
-  * <i>[Data Science Tools](certified_docs/data_science_tools.md)</i>
-
-* **Applied Data Science with Python**
-
-  * <i>[Python 101 for Data Science](certified_docs/python_101_for_data_science)</i>
-  * <i>[Data Analysis with Python](certified_docs/data_analysis_with_python)</i>
-  * <i>[Data Visualization with Python](certified_docs/data_visualization_with_python)</i>
-
-<!---
-### R Language
-
-* <i>[R for Data Science](certified_docs/R_101.md)</i>
---->
-
 ### Unix Shell
 
 * <i>[Unix Essential Training](unix_essential_training.md)</i>
