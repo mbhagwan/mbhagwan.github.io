@@ -22,7 +22,7 @@
 
 <h3>Statistics</h3>
 <li>
- Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view credential</i></a>
+ Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
 </li>
 
 <h3>Microsoft Power BI</h3>
