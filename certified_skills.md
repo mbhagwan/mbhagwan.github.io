@@ -1,4 +1,9 @@
 <!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>-->
+<style>
+ h3 {
+  color: green;
+ }
+</style>
 <h2>IT Skills</h2>
 
 ---
@@ -76,9 +81,6 @@ certificate</i></a>
 <li>
  Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
 </li>
-
-* <i>[PowerPoint Essential Training](/certified_docs/powerpoint_essential_training.md)</i>
-* <i>[PowerPoint: Designing Better Slides](/certified_docs/powerpoint_design_better_slides.md)</i>
 
 ### Digital Marketing | Ecommerce
 
