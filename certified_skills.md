@@ -15,17 +15,17 @@
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <li>
  Data Analyst with Python <a href="https://www.datacamp.com/statement-of- 
- accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
+accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
 </li>
 <li>
  Python Fundamentals <a href="https://www.datacamp.com/statement-of- 
- accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
+accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
 </li>
 
 <h3>Statistics</h3>
 <li>
  Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
+accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
 </li>
 
 <h3>Structured Query Language (SQL)</h3>
@@ -36,11 +36,11 @@
 <h3>Microsoft Power BI</h3>
 <li>
  Data Analyst in Power BI <a href="https://www.datacamp.com/statement-of 
- accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view credential</i></a>
+accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view credential</i></a>
 </li>
 <li>
  Microsoft Power BI Desktop for Business Intelligence <a 
- href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i>view certificate</i></a>
+href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i>view certificate</i></a>
 </li>
 
 <h3>Data Analysis Expressions (DAX) | Power Pivot</h3>
@@ -49,13 +49,13 @@
 </li>
 <li>
  DAX Power Pivot - Intermediate <a href="/certified_docs/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.md"><i>view 
- certificate</i></a>
+certificate</i></a>
 </li>
 
 <h3>Power Query</h3>
 <li>
  Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"> 
- <i>view certificate</i></a>
+<i>view certificate</i></a>
 </li>
 
 <h3>Excel</h3>
@@ -68,10 +68,6 @@
 <li>
  Data Analysis with Excel Pivot Tables <a href="/certified_docs/data_analysis_with_excel_pivot_tables.md"><i>view certificate</i></a>
 </li>
-
-* <i>[Data Analysis with Excel Pivot Tables](/certified_docs/data_analysis_with_excel_pivot_tables.md)</i>
-* <i>[Data Analysis Essentials Using Excel](/certified_docs/data_analysis_essentials_using_excel.md)</i>
-* <i>[Advanced Excel - Top Excel Tips & Formulas](/certified_docs/advanced_excel_top_tips_and_formulas.md)</i>
 
 ### MS PowerPoint
 
