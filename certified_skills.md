@@ -1,6 +1,6 @@
 <!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>-->
 <h2>IT Skills</h2>
-<p style="color:yellow;">IT Skills</p>
+<p style="font-size: 4em;">IT Skills</p>
 
 ---
 
