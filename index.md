@@ -4,7 +4,7 @@
 
 > [Case Studies](portfolio.md)
 >
-> [Certified IT Skills](certified_skills.md)
+> [IT Skills](certified_skills.md)
 >
 > [Other IT Skills](other_skills.md)
 >
