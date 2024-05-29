@@ -12,6 +12,11 @@
 > [Useful Links](links.md)
 
 ---
+<h3>Data Engineering</h3>
+<li>
+ Junior Data Engineer Bootcamp <a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/images/jde-certificate-of-completion.jpeg"><i>view certificate</i></a>
+</li>
+
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <li>
  Data Analyst with Python <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
