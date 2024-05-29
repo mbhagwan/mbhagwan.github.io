@@ -88,18 +88,18 @@ certificate</i></a>
  Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
 </li>
 
+<h3>Statistics</h3>
+<li>
+ Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of- 
+accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
+</li>
+
 <h3>PowerPoint</h3>
 <li>
  PowerPoint: Designing Better Slides <a href="/certified_docs/powerpoint_design_better_slides.md"><i>view certificate</i></a>
 </li>
 <li>
  Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
-</li>
-
-<h3>Statistics</h3>
-<li>
- Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of- 
-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
 </li>
 
 <h3>Digital Marketing | E-commerce</h3>
