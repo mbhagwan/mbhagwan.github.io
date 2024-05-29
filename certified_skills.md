@@ -27,12 +27,6 @@ accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credentia
  SQL Fundamentals <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view credential</i></a>
 </li>
 
-<h3>Statistics</h3>
-<li>
- Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of- 
-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
-</li>
-
 <h3>Microsoft Power BI</h3>
 <li>
  Data Analyst in Power BI <a href="https://www.datacamp.com/statement-of 
@@ -63,14 +57,6 @@ certificate</i></a>
  Introduction to Tableau <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/987bd48bb3961b8738a51465860577e1c12b8183"><i>view credential</i></a>
 </li>
 
-
-
-<h3>Power Query</h3>
-<li>
- Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"> 
-<i>view certificate</i></a>
-</li>
-
 <h3>Excel</h3>
 <li>
  Advanced Excel - Top Excel Tips & Formulas <a href="/certified_docs/advanced_excel_top_tips_and_formulas.md"><i>view certificate</i></a>
@@ -82,20 +68,10 @@ certificate</i></a>
  Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
 </li>
 
-<h3>PowerPoint</h3>
+<h3>Power Query</h3>
 <li>
- PowerPoint: Designing Better Slides <a href="/certified_docs/powerpoint_design_better_slides.md"><i>view certificate</i></a>
-</li>
-<li>
- Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
-</li>
-
-<h3>Digital Marketing | E-commerce</h3>
-<li>
- Digital Marketing & E-commerce Specialist <a href="certified_docs/digital_marketing_and_ecommerce_specialist.md"><i>view certificate</i></a>
-</li>
-<li>
- Fundamentals of Digital Marketing <a href="certified_docs/fundamentals_of_digital_marketing.md"><i>view certificate</i></a>
+ Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"> 
+<i>view certificate</i></a>
 </li>
 
 <h3>Google Analytics | Tag Manager | Data Studio</h3>
@@ -110,6 +86,28 @@ certificate</i></a>
 </li>
 <li>
  Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
+</li>
+
+<h3>PowerPoint</h3>
+<li>
+ PowerPoint: Designing Better Slides <a href="/certified_docs/powerpoint_design_better_slides.md"><i>view certificate</i></a>
+</li>
+<li>
+ Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
+</li>
+
+<h3>Statistics</h3>
+<li>
+ Statistics Fundamentals with Python <a href="https://www.datacamp.com/completed/statement-of- 
+accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
+</li>
+
+<h3>Digital Marketing | E-commerce</h3>
+<li>
+ Digital Marketing & E-commerce Specialist <a href="certified_docs/digital_marketing_and_ecommerce_specialist.md"><i>view certificate</i></a>
+</li>
+<li>
+ Fundamentals of Digital Marketing <a href="certified_docs/fundamentals_of_digital_marketing.md"><i>view certificate</i></a>
 </li>
 
 <h3>Google Docs</h3>
