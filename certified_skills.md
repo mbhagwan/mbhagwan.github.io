@@ -14,7 +14,7 @@
 ---
 <h3>Data Engineering</h3>
 <li>
- Junior Data Engineer Bootcamp <a href="images/jde-certificate-of-completion.jpeg" style="width:400px; height:400px;"><i>view certificate</i></a>
+ Junior Data Engineer Bootcamp <a href="images/jde-certificate-of-completion.jpeg" style="width:200px; height:200px;"><i>view certificate</i></a>
 </li>
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
