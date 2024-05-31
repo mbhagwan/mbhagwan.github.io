@@ -64,30 +64,30 @@ certificate</i></a>
  Advanced Excel - Top Excel Tips & Formulas <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Data Analysis with Excel Pivot Tables <a href="/certified_docs/data_analysis_with_excel_pivot_tables.md"><i>view certificate</i></a>
+ Data Analysis with Excel Pivot Tables <a href="images/data_analysis_with_excel_pivot_tables.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Data Analysis Essentials Using Excel <a href="/certified_docs/data_analysis_essentials_using_excel.md"><i>view certificate</i></a>
+ Data Analysis Essentials Using Excel <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Power Query</h3>
 <li>
- Excel Power Query Beginner to Advanced (including M) <a href="/certified_docs/excel_power_query_beginner_to_advanced.md"> 
+ Excel Power Query Beginner to Advanced (including M) <a href="images/excel_power_query_beginner_to_advanced.jpeg"> 
 <i>view certificate</i></a>
 </li>
 
 <h3>Google Analytics | Tag Manager | Data Studio</h3>
 <li>
- Advanced Google Analytics <a href="certified_docs/advanced_google_analytics.md"><i>view certificate</i></a>
+ Advanced Google Analytics <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Introduction to Data Studio <a href="certified_docs/introduction_to_data_studio.md"><i>view certificate</i></a>
+ Introduction to Data Studio <a href="images/introduction_to_data_studio.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Tag Manager Fundamentals <a href="certified_docs/google_tag_manager_fundamentals.md"><i>view certificate</i></a>
+ Google Tag Manager Fundamentals <a href="images/google_tag_manager_fundamentals.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Analytics for Beginners <a href="certified_docs/google_analytics_for_beginners.md"><i>view certificate</i></a>
+ Google Analytics for Beginners <a href="images/google_analytics_for_beginners.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Statistics</h3>
