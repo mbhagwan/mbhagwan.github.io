@@ -36,12 +36,12 @@
 </li>
 <li>
  Microsoft Power BI Desktop for Business Intelligence <a 
-href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i>view certificate</i></a>
+href="images/microsoft_powerbi_desktop_for_business_intelligence.jpeg"><i>view certificate</i></a>
 </li>
 
 <h3>Data Analysis Expressions (DAX) | Power Pivot</h3>
 <li>
- DAX Power Pivot - Intermediate <a href="images/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.jpeg" style="width:400px;"><i>view 
+ DAX Power Pivot - Intermediate <a href="images/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.jpeg"><i>view 
 certificate</i></a>
 </li>
 <li>
@@ -61,7 +61,7 @@ certificate</i></a>
 
 <h3>Excel</h3>
 <li>
- Advanced Excel - Top Excel Tips & Formulas <a href="/certified_docs/advanced_excel_top_tips_and_formulas.md"><i>view certificate</i></a>
+ Advanced Excel - Top Excel Tips & Formulas <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a>
 </li>
 <li>
  Data Analysis with Excel Pivot Tables <a href="/certified_docs/data_analysis_with_excel_pivot_tables.md"><i>view certificate</i></a>
