@@ -37,3 +37,6 @@
 * **SQL**
 
   * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
+  
+* **Tableau**
+  * Analysing Customer Churn <a href="https://public.tableau.com/app/profile/bhagwan.murlimal/viz/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis?publish=yes"><i>view on tableau public</i></a>
