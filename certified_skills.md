@@ -45,7 +45,7 @@ href="/certified_docs/microsoft_powerbi_desktop_for_business_intelligence.md"><i
 certificate</i></a>
 </li>
 <li>
- DAX Power Pivot - Beginners <a href="images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg"><i>view certificate</i></a>
+ DAX Power Pivot - Beginners <a href="images/DAX_Power_Pivot_10_Easy_Steps_for_Beginners.jpg" style="width:50%;"><i>view certificate</i></a>
 </li>
 
 <h3>Tableau</h3>
