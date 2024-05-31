@@ -97,10 +97,10 @@ certificate</i></a>
 
 <h3>PowerPoint</h3>
 <li>
- PowerPoint: Designing Better Slides <a href="/certified_docs/powerpoint_design_better_slides.md"><i>view certificate</i></a>
+ PowerPoint: Designing Better Slides <a href="images/powerpoint_design_better_slides.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Powerpoint: Essential Training <a href="/certified_docs/powerpoint_essential_training.md"><i>view certificate</i></a>
+ Powerpoint: Essential Training <a href="images/powerpoint_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Digital Marketing | E-commerce</h3>
@@ -108,26 +108,26 @@ certificate</i></a>
  Digital Marketing & E-commerce Specialist <a href="certified_docs/digital_marketing_and_ecommerce_specialist.md"><i>view certificate</i></a>
 </li>
 <li>
- Fundamentals of Digital Marketing <a href="certified_docs/fundamentals_of_digital_marketing.md"><i>view certificate</i></a>
+ Fundamentals of Digital Marketing <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Google Docs</h3>
 <li>
- Google Drive Essential Training <a href="certified_docs/google_drive_essential_training.md"><i>view certificate</i></a>
+ Google Drive Essential Training <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Docs Essential Training <a href="certified_docs/google_docs_essential_training.md"><i>view certificate</i></a>
+ Google Docs Essential Training <a href="images/google_docs_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Sheets Essential Training <a href="certified_docs/google_sheets_essential_training.md"><i>view certificate</i></a>
+ Google Sheets Essential Training <a href="images/google_sheets_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Slides Essential Training <a href="certified_docs/google_slides_essential_training.md"><i>view certificate</i></a>
+ Google Slides Essential Training <a href="images/google_slides_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Unix Shell</h3>
 <li>
- Unix Essential Training <a href="unix_essential_training.md"><i>view certificate</i></a>
+ Unix Essential Training <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <hr>
