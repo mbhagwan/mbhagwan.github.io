@@ -105,7 +105,7 @@ certificate</i></a>
 
 <h3>Digital Marketing | E-commerce</h3>
 <li>
- Digital Marketing & E-commerce Specialist <a href="certified_docs/digital_marketing_and_ecommerce_specialist.md"><i>view certificate</i></a>
+ Digital Marketing & E-commerce Specialist <a href="images/digital_marketing_and_ecommerce_specialist_cert_0001.jpg"><i>view certificate</i></a>
 </li>
 <li>
  Fundamentals of Digital Marketing <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
