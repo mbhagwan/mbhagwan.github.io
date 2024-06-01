@@ -25,7 +25,7 @@
  Python Fundamentals <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
 </li>
 <li>
- Data Analysis with Pandas and Python <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view credential</i></a>
+ Data Analysis with Pandas and Python <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Structured Query Language (SQL)</h3>
