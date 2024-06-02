@@ -53,13 +53,7 @@ certificate</i></a>
 
 <h3>Tableau</h3>
 <li>
- Creating Dashboards in Tableau <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5527086a90888a9f46a6a2d13ad28ce5732835fd"><i>view credential</i></a>
-</li>
-<li>
- Analyzing Data in Tableau <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fae2ccda4ec108944ba108625c628e6a662e5641"><i>view credential</i></a>
-</li>
-<li>
- Introduction to Tableau <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/987bd48bb3961b8738a51465860577e1c12b8183"><i>view credential</i></a>
+ Tableau Fundamentals <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view credential</i></a>
 </li>
 
 <h3>Excel</h3>
