@@ -4,11 +4,11 @@
 
 > [Home](index.md)
 >
-> [Certified IT Skills](certified_skills.md)
+> [Technical Skills](certified_skills.md)
 >
 > [Other IT Skills](other_skills.md)
 >
-> [Case Studies](portfolio.md)
+> [Project Work](portfolio.md)
 > 
 > [Useful Links](links.md)
 
