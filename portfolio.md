@@ -39,6 +39,6 @@
   * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
   
 * **Tableau**
-  * Analysing Customer Churn <a href="https://public.tableau.com/app/profile/bhagwan.murlimal/viz/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis"><i>view on tableau public</i></a>
-  * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">view on tableau public</a>
+  * Analysing Customer Churn <a href="https://public.tableau.com/views/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
+  * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   
