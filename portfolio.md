@@ -44,5 +44,5 @@
   
 * **Excel**
   * Visualizing Disaggregated Sales Data with PivotCharts <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
-  * Visualizing Sales Data with Advanced Excel Charts <a href=""><i>view pdf</i></a>
-  * Visualizing Sales Data with Excel Charts <a href=""><i>view pdf</i></a>
+  * Visualizing Sales Data with Advanced Excel Charts <a href="https://github.com/mbhagwan/portfolio/blob/main/advanced-excel-charts.pdf"><i>view pdf</i></a>
+  * Visualizing Sales Data with Excel Charts <a href="https://github.com/mbhagwan/portfolio/blob/main/basic-excel-charts.pdf"><i>view pdf</i></a>
