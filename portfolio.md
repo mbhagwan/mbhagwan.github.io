@@ -42,3 +42,5 @@
   * Analysing Customer Churn <a href="https://public.tableau.com/views/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   
+* **Excel**
+  * Sales Dashboard <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
