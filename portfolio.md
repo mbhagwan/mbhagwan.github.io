@@ -43,4 +43,4 @@
   * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   
 * **Excel**
-  * Sales Dashboard <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
+  * Visualizing Disaggregated Sales Data with PivotCharts <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
