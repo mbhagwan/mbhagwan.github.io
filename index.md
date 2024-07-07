@@ -2,12 +2,10 @@
 
 ---
 
-> [Case Studies](portfolio.md)
->
 > [Technical Skills](certified_skills.md)
->
-> [Other IT Skills](other_skills.md)
->
+> 
+> [Case Studies](portfolio.md)
+> 
 > [LinkedIn Profile](https://www.linkedin.com/in/mbhagwan)
 > 
 > [Useful Links](links.md)
