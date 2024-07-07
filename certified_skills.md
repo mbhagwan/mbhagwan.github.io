@@ -70,7 +70,7 @@ certificate</i></a>
  Data Analysis Essentials Using Excel <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Excel Skills for Data Analytics and Visualization Specialization (audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course</i></i></a>
+ Excel Skills for Data Analytics and Visualization Specialization (audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course</i></a>
 </li>
 <li>
  Excel Skills for Business Specialization (audited) <a href="https://www.coursera.org/specializations/excel"><i>view course</i></a>
