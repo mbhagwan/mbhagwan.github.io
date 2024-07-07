@@ -3,13 +3,11 @@
 
 ---
 
-> [Index](index.md)
->
-> [Other IT Skills](other_skills.md)
->
 > [Case Studies](portfolio.md)
 > 
 > [Useful Links](links.md)
+>
+> [Index](index.md)
 
 ---
 <h3>Data Engineering</h3>
