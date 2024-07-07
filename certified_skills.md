@@ -58,6 +58,9 @@ certificate</i></a>
 
 <h3>Excel</h3>
 <li>
+ Excel Fundamentals <a href="[images/advanced_excel_tips_formulas.jpg](https://www.datacamp.com/completed/statement-of-accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66)"><i>view credential</i></a>
+</li>
+<li>
  Advanced Excel - Top Excel Tips & Formulas <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a>
 </li>
 <li>
