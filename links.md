@@ -8,7 +8,7 @@
 > 
 > [Other IT Skills](other_skills.md)
 > 
-> [Project Work](portfolio.md)
+> [Case Studies](portfolio.md)
 
 ---
 
