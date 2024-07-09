@@ -12,7 +12,7 @@
 ---
 <h3>Data Engineering</h3>
 <li>
- Junior Data Engineer <a href="images/jde-certificate-of-completion.jpeg"><i>view certificate</i></a>
+ Junior Data Engineer (Generation SG | Temasek Polytechnic) <a href="images/jde-certificate-of-completion.jpeg"><i>view certificate</i></a>
 </li>
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
