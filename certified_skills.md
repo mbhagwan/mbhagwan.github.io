@@ -17,26 +17,26 @@
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <li>
- Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
+ Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view certificate</i></a>
 </li>
 <li>
- Python Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
+ Python Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view certificate</i></a>
 </li>
 <li>
- Data Analysis with Pandas and Python <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
+ Data Analysis with Pandas and Python (Udemy) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Structured Query Language (SQL)</h3>
 <li>
- SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view credential</i></a>
+ SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view certificate</i></a>
 </li>
 
 <h3>Microsoft Power BI</h3>
 <li>
- Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view credential</i></a>
+ Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view certificate</i></a>
 </li>
 <li>
- Microsoft Power BI Desktop for Business Intelligence (Maven Analytics) <a 
+ Microsoft Power BI Desktop for Business Intelligence (Udemy) <a 
 href="images/microsoft_powerbi_desktop_for_business_intelligence.jpeg"><i>view certificate</i></a>
 </li>
 
@@ -51,12 +51,12 @@ certificate</i></a>
 
 <h3>Tableau</h3>
 <li>
- Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view credential</i></a>
+ Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view certificate</i></a>
 </li>
 
 <h3>Excel</h3>
 <li>
- Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66"><i>view credential</i></a>
+ Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66"><i>view certificate</i></a>
 </li>
 <li>
  Advanced Excel - Top Excel Tips & Formulas (Udemy) <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a>
@@ -68,10 +68,10 @@ certificate</i></a>
  Data Analysis Essentials Using Excel (Udemy) <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Excel Skills for Data Analytics and Visualization Specialization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course</i></a>
+ Excel Skills for Data Analytics and Visualization Specialization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course info</i></a>
 </li>
 <li>
- Excel Skills for Business Specialization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel"><i>view course</i></a>
+ Excel Skills for Business Specialization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel"><i>view course info</i></a>
 </li>
 
 <h3>Power Query</h3>
@@ -82,29 +82,29 @@ certificate</i></a>
 
 <h3>Google Analytics | Tag Manager | Data Studio</h3>
 <li>
- Advanced Google Analytics (Google) <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
+ Advanced Google Analytics (Google Analytics Academy) <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Introduction to Data Studio (Google) <a href="images/introduction_to_data_studio.jpg"><i>view certificate</i></a>
+ Introduction to Data Studio (Google Analytics Academy) <a href="images/introduction_to_data_studio.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Tag Manager Fundamentals (Google) <a href="images/google_tag_manager_fundamentals.jpg"><i>view certificate</i></a>
+ Google Tag Manager Fundamentals (Google Analytics Academy) <a href="images/google_tag_manager_fundamentals.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Analytics for Beginners (Google) <a href="images/google_analytics_for_beginners.jpg"><i>view certificate</i></a>
+ Google Analytics for Beginners (Google Analytics Academy) <a href="images/google_analytics_for_beginners.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Statistics</h3>
 <li>
- Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view credential</i></a>
+ Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view certificate</i></a>
 </li>
 
 <h3>PowerPoint</h3>
 <li>
- PowerPoint: Designing Better Slides <a href="images/powerpoint_design_better_slides.jpg"><i>view certificate</i></a>
+ PowerPoint: Designing Better Slides (LinkedIn Learning) <a href="images/powerpoint_design_better_slides.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Powerpoint: Essential Training <a href="images/powerpoint_essential_training.jpg"><i>view certificate</i></a>
+ Powerpoint: Essential Training (LinkedIn Learning) <a href="images/powerpoint_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Digital Marketing | E-commerce</h3>
@@ -112,26 +112,26 @@ certificate</i></a>
  Digital Marketing & E-commerce Specialist (NTUC Learning Hub) <a href="images/digital_marketing_and_ecommerce_specialist_cert_0001.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Fundamentals of Digital Marketing <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
+ Fundamentals of Digital Marketing (Google Digital Garage) <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Google Docs</h3>
 <li>
- Google Drive Essential Training <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
+ Google Drive Essential Training (LinkedIn Learning) <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Docs Essential Training <a href="images/google_docs_essential_training.jpg"><i>view certificate</i></a>
+ Google Docs Essential Training (LinkedIn Learning) <a href="images/google_docs_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Sheets Essential Training <a href="images/google_sheets_essential_training.jpg"><i>view certificate</i></a>
+ Google Sheets Essential Training (LinkedIn Learning) <a href="images/google_sheets_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Slides Essential Training <a href="images/google_slides_essential_training.jpg"><i>view certificate</i></a>
+ Google Slides Essential Training (LinkedIn Learning) <a href="images/google_slides_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Unix Shell</h3>
 <li>
- Unix Essential Training <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
+ Unix Essential Training (LinkedIn Learning) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <hr>
