@@ -17,7 +17,7 @@
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <li>
- Data Analyst with Python <a href="https://www.datacamp.com/completed/statement-of- accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
+ Data Analyst with Python <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view credential</i></a>
 </li>
 <li>
  Python Fundamentals <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view credential</i></a>
