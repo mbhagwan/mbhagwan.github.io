@@ -68,10 +68,10 @@ certificate</i></a>
  Data Analysis Essentials Using Excel (Udemy) <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Excel for Data Analytics and Visualization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course info</i></a>
+ Excel for Data Analytics and Visualization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course page</i></a>
 </li>
 <li>
- Excel Skills for Business (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel"><i>view course info</i></a>
+ Excel Skills for Business (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel"><i>view course page</i></a>
 </li>
 
 <h3>Power Query</h3>
