@@ -18,8 +18,7 @@
   * _[Python: Visualizing the History of Nobel Prize Winners](https://github.com/mbhagwan/portfolio/tree/main/python-visualizing-the-history-of-nobel-prize-winners)_
   * _[Python: Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/mbhagwan/portfolio/tree/main/python-hypothesis-testing-with-men's-and-women's-soccer-matches)_
 
- 
-* **Power BI / DAX / Power Query / Power Pivot**
+<h3>Power BI | DAX | Power Query | Power Pivot</h3>
 
   * Power BI: Sales Report <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi"><i>view on pbi service</i></a>
 
@@ -27,17 +26,17 @@
 
   * Power BI: Sales Dashboard <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/a210db48-19bf-46c0-b13c-d17761fce271/ReportSection?experience=power-bi"><i>view on pbi service</i></a>
 
-* **SQL**
+<h3>SQL</h3>
 
   * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
-  
-* **Tableau**
+
+<h3>Tableau</h3>
   
   * HR Analytics Dashboard <a href="https://public.tableau.com/views/atlas-labs-hr-dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   * Analysing Customer Churn <a href="https://public.tableau.com/views/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   
-* **Excel**
+<h3>Excel</h3>
   
   * Analyzing Customer Churn in Excel <a href="https://github.com/mbhagwan/portfolio/blob/main/customer-churn-analysis-in-excel.pdf"><i>view pdf</i></a>
   * Visualizing Disaggregated Sales Data with PivotCharts <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
