@@ -1,6 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links</span>
-
----
+<!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links</span> -->
 
 > [Index](index.md)
 >
@@ -8,11 +6,9 @@
 > 
 > [Case Studies](portfolio.md)
 
----
+<!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links:</span> -->
 
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links:</span>
-
-<h5 style='color:SlateGray;'><i>A list of useful reference links:</i></h5>
+<!-- <h5 style='color:SlateGray;'><i>A list of useful reference links:</i></h5> -->
 
 ### Data Science
 
