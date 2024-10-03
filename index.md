@@ -2,9 +2,9 @@
 
 --- -->
 
-> [IT Skill Set](certified_skills.md)
+> [IT Skills | Certificates](certified_skills.md)
 > 
-> [Case Studies](portfolio.md)
+> [Analytics Showcase](portfolio.md)
 > 
 > [LinkedIn Profile](https://www.linkedin.com/in/mbhagwan)
 > 
