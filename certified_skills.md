@@ -1,7 +1,5 @@
-<!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>-->
-<h2>IT Skill Set</h2>
-
----
+<!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>
+<h2>IT Skill Set</h2> -->
 
 > [Case Studies](portfolio.md)
 > 
@@ -9,7 +7,6 @@
 >
 > [Index](index.md)
 
----
 <h3>Data Engineering</h3>
 <li>
  Junior Data Engineer (Generation SG | Temasek Polytechnic) <a href="images/jde-certificate-of-completion.jpeg"><i>view certificate</i></a>
