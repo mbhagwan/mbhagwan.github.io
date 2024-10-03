@@ -1,6 +1,6 @@
 <!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Case Studies</span> -->
 
-> [IT Skills | Certificates](certified_skills.md)
+> [Certified Courses](certified_skills.md)
 > 
 > [Useful Links](links.md)
 >
