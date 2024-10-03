@@ -2,9 +2,9 @@
 
 > [Index](index.md)
 >
-> [IT Skill Set](certified_skills.md)
+> [IT Skills | Certificates](certified_skills.md)
 > 
-> [Case Studies](portfolio.md)
+> [Analytics Showcase](portfolio.md)
 
 <!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Useful Links:</span> -->
 
