@@ -26,7 +26,7 @@
  Data Analysis with Pandas and Python (Udemy) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Data Analytics Essentials (Cisco) <a href="images/data_analytics_essentials.pdf"><i>view certificate</i></a>
+ Data Analytics Essentials (Cisco) <a href="images/data_analytics_essentials.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Structured Query Language (SQL)</h3>
@@ -134,13 +134,13 @@ certificate</i></a>
 
 <h3>Cybersecurity | Networking | Unix | Java</h3>
 <li>
- Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.pdf"><i>view certificate</i></a>
+ Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Networking Basics (LinkedIn) <a href="images/networking-basics.pdf"><i>view certificate</i></a>
+ Networking Basics (LinkedIn) <a href="images/networking_basics.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Practice it: Java (LinkedIn) <a href="images/practice-java.pdf"><i>view certificate</i></a>
+ Practice it: Java (LinkedIn) <a href="images/practice_java.jpg"><i>view certificate</i></a>
 </li>
 <li>
  Unix Essential Training (LinkedIn) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
