@@ -2,7 +2,7 @@
 
 --- -->
 
-> [IT Skills | Certificates](certified_skills.md)
+> [IT Skills \| Certificates](certified_skills.md)
 > 
 > [Analytics Showcase](portfolio.md)
 > 
