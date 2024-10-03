@@ -26,7 +26,7 @@
  Data Analysis with Pandas and Python (Udemy) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Data Analytics Essentials (Cisco) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a>
+ Data Analytics Essentials (Cisco) <a href="images/data_analytics_essentials.pdf"><i>view certificate</i></a>
 </li>
 
 <h3>Structured Query Language (SQL)</h3>
