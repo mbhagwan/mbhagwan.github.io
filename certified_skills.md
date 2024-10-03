@@ -1,5 +1,5 @@
 <!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>-->
-<h2>IT Proficiency</h2>
+<h2>IT Skill Set</h2>
 
 ---
 
