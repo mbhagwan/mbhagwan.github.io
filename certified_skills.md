@@ -1,7 +1,7 @@
 <!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>
 <h2>IT Skill Set</h2> -->
 
-> [Case Studies](portfolio.md)
+> [Analytics Showcase](portfolio.md)
 > 
 > [Useful Links](links.md)
 >
