@@ -4,7 +4,7 @@
 
 > [Index](index.md)
 >
-> [Technical Skills](certified_skills.md)
+> [IT Proficiency](certified_skills.md)
 > 
 > [Case Studies](portfolio.md)
 
