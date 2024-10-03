@@ -1,6 +1,4 @@
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Case Studies</span>
-
----
+<!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Case Studies</span> -->
 
 > [IT Skill](certified_skills.md)
 > 
@@ -8,9 +6,7 @@
 >
 > [Index](index.md)
 
----
-
-<h5 style='color:SlateGray;'><i>Case Studies:</i></h5>
+<!-- <h5 style='color:SlateGray;'><i>Case Studies:</i></h5> -->
 
 * **Python**
 
