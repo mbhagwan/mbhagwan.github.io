@@ -134,7 +134,7 @@ certificate</i></a>
 
 <h3>Cybersecurity | Networking | Unix | Java</h3>
 <li>
- Introduction to Cybersecurity (Cisco) <a href="images/introduction-to-cybersecurity.pdf"><i>view certificate</i></a>
+ Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.pdf"><i>view certificate</i></a>
 </li>
 <li>
  Networking Basics (LinkedIn) <a href="images/networking-basics.pdf"><i>view certificate</i></a>
