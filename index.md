@@ -2,7 +2,7 @@
 
 ---
 
-> [IT Proficiency](certified_skills.md)
+> [IT Skill Set](certified_skills.md)
 > 
 > [Case Studies](portfolio.md)
 > 
