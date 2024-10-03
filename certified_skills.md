@@ -140,7 +140,7 @@ certificate</i></a>
  Networking Basics (LinkedIn) <a href="images/networking_basics.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Practice it: Java (LinkedIn) <a href="images/practice_java.jpg"><i>view certificate</i></a>
+ Practice it: Java (LinkedIn) <a href="images/practice_it_java.jpg"><i>view certificate</i></a>
 </li>
 <li>
  Unix Essential Training (LinkedIn) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
