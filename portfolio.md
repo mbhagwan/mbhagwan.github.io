@@ -2,7 +2,7 @@
 
 ---
 
-> [IT Proficiency](certified_skills.md)
+> [IT Skill](certified_skills.md)
 > 
 > [Useful Links](links.md)
 >
