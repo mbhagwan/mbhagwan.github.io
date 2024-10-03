@@ -8,9 +8,11 @@
 > [Index](index.md)
 
 <h3>Data Engineering</h3>
-<li>
+<ul>
+ <li>
  Junior Data Engineer (Generation SG | Temasek Polytechnic) <a href="images/jde-certificate-of-completion.jpeg"><i>view certificate</i></a>
-</li>
+ </li>
+</ul>
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <li>
