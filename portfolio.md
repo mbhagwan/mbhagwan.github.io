@@ -7,8 +7,8 @@
 > [Index](index.md)
 
 <!-- <h5 style='color:SlateGray;'><i>Case Studies:</i></h5> -->
-
-* **Python**
+<h2 style="color: gray; font-family: 'Oswald', sans-serif;">Analytics Showcase:</h2>
+<h3>Python</h3>
 
   * _[Python: Computing Probabilities](https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb)_
   * _[Python: Extract-Transform-Load](https://github.com/mbhagwan/portfolio/tree/main/python-extract-transform-load)_
