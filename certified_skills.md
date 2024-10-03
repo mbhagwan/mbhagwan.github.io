@@ -85,16 +85,16 @@ certificate</i></a>
 
 <h3>Google Analytics | Tag Manager | Data Studio</h3>
 <li>
- Advanced Google Analytics (Google Analytics Academy) <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
+ Advanced Google Analytics (Google) <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Introduction to Data Studio (Google Analytics Academy) <a href="images/introduction_to_data_studio.jpg"><i>view certificate</i></a>
+ Introduction to Data Studio (Google) <a href="images/introduction_to_data_studio.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Tag Manager Fundamentals (Google Analytics Academy) <a href="images/google_tag_manager_fundamentals.jpg"><i>view certificate</i></a>
+ Google Tag Manager Fundamentals (Google) <a href="images/google_tag_manager_fundamentals.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Analytics for Beginners (Google Analytics Academy) <a href="images/google_analytics_for_beginners.jpg"><i>view certificate</i></a>
+ Google Analytics for Beginners (Google) <a href="images/google_analytics_for_beginners.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Statistics</h3>
@@ -104,10 +104,10 @@ certificate</i></a>
 
 <h3>PowerPoint</h3>
 <li>
- PowerPoint: Designing Better Slides (LinkedIn Learning) <a href="images/powerpoint_design_better_slides.jpg"><i>view certificate</i></a>
+ PowerPoint: Designing Better Slides (LinkedIn) <a href="images/powerpoint_design_better_slides.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Powerpoint: Essential Training (LinkedIn Learning) <a href="images/powerpoint_essential_training.jpg"><i>view certificate</i></a>
+ Powerpoint: Essential Training (LinkedIn) <a href="images/powerpoint_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Digital Marketing | E-commerce</h3>
@@ -115,26 +115,35 @@ certificate</i></a>
  Digital Marketing & E-commerce Specialist (NTUC Learning Hub) <a href="images/digital_marketing_and_ecommerce_specialist_cert_0001.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Fundamentals of Digital Marketing (Google Digital Garage) <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
+ Fundamentals of Digital Marketing (Google) <a href="images/fundamentals_of_digital_marketing.jpg"><i>view certificate</i></a>
 </li>
 
 <h3>Google Docs</h3>
 <li>
- Google Drive Essential Training (LinkedIn Learning) <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
+ Google Drive Essential Training (LinkedIn) <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Docs Essential Training (LinkedIn Learning) <a href="images/google_docs_essential_training.jpg"><i>view certificate</i></a>
+ Google Docs Essential Training (LinkedIn) <a href="images/google_docs_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Sheets Essential Training (LinkedIn Learning) <a href="images/google_sheets_essential_training.jpg"><i>view certificate</i></a>
+ Google Sheets Essential Training (LinkedIn) <a href="images/google_sheets_essential_training.jpg"><i>view certificate</i></a>
 </li>
 <li>
- Google Slides Essential Training (LinkedIn Learning) <a href="images/google_slides_essential_training.jpg"><i>view certificate</i></a>
+ Google Slides Essential Training (LinkedIn) <a href="images/google_slides_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
-<h3>Unix Shell</h3>
+<h3>Cybersecurity | Networking | Unix | Java</h3>
 <li>
- Unix Essential Training (LinkedIn Learning) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
+ Introduction to Cybersecurity (Cisco) <a href="images/introduction-to-cybersecurity.pdf"><i>view certificate</i></a>
+</li>
+<li>
+ Networking Basics (LinkedIn) <a href="images/networking-basics.pdf"><i>view certificate</i></a>
+</li>
+<li>
+ Practice it: Java (LinkedIn) <a href="images/practice-java.pdf"><i>view certificate</i></a>
+</li>
+<li>
+ Unix Essential Training (LinkedIn) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
 </li>
 
 <hr>
