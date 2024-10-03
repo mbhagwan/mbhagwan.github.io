@@ -21,11 +21,11 @@
  
 * **Power BI / DAX / Power Query / Power Pivot**
 
-  * _[Power BI: Data Analysis - AdventureWorks ](https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi)_
+  * _[Power BI: Sales Report ](https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi)_
 
-  * _[Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Power BI: Analyzing Customer Churn](https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/739cf0ec-8b3c-4bf3-a971-f0dd96add519/ReportSection0da0007f61773311eb77?experience=power-bi)_
 
-  * _[Create a Data-driven Story with Power BI reports](https://app.powerbi.com/view?r=eyJrIjoiMGVjZGU1YTAtZDJmNi00ZDhhLTlhYmQtYmUzNjlhOWNiOGQ4IiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
+  * _[Power BI: Sales Dashboard](https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/a210db48-19bf-46c0-b13c-d17761fce271/ReportSection?experience=power-bi)_
 
 
 * **SQL**
