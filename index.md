@@ -1,6 +1,6 @@
-<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Index</span>
+<!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Index</span>
 
----
+--- -->
 
 > [IT Skill Set](certified_skills.md)
 > 
@@ -10,7 +10,7 @@
 > 
 > [Useful Links](links.md)
 
----
+<!-- --- -->
 
 <center>
 <span style="font-family:Papyrus; font-size:1.5em;">
