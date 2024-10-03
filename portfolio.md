@@ -25,7 +25,7 @@
  
 * **Power BI / DAX / Power Query / Power Pivot**
 
-  * _[Power BI: Data Analysis - AdventureWorks ](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-adventureworks)_
+  * _[Power BI: Data Analysis - AdventureWorks ](https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi)_
 
   * _[Visualising Data with Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2ZhMGNlMTctMjAyZC00MmQ3LTlkNDQtYjQzNjc4YTVkZWIyIiwidCI6IjM1OGU0OThhLTUyMzMtNDllYi1hYjc1LTU3MGI0NWRhODQwZiIsImMiOjEwfQ%3D%3D)_
 
