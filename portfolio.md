@@ -33,11 +33,13 @@
   * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
   
 * **Tableau**
+  
   * HR Analytics Dashboard <a href="https://public.tableau.com/views/atlas-labs-hr-dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   * Analysing Customer Churn <a href="https://public.tableau.com/views/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   * Analysing Historical Trip Data <a href="https://public.tableau.com/views/CityBikeTripHistoryfor2018/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><i>view on tableau public</i></a>
   
 * **Excel**
+  
   * Analyzing Customer Churn in Excel <a href="https://github.com/mbhagwan/portfolio/blob/main/customer-churn-analysis-in-excel.pdf"><i>view pdf</i></a>
   * Visualizing Disaggregated Sales Data with PivotCharts <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
   * Visualizing Sales Data with Advanced Excel Charts <a href="https://github.com/mbhagwan/portfolio/blob/main/advanced-excel-charts.pdf"><i>view pdf</i></a>
