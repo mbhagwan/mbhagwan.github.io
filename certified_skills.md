@@ -7,6 +7,7 @@
 >
 > [Index](index.md)
 
+<h2 style="text-align: center; color: blue;">Certified Courses</h2>
 <h3>Data Engineering</h3>
 <ul>
  <li>
