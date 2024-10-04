@@ -1,6 +1,7 @@
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">Certified Courses:</h2>
 
 <h3>Data Engineering</h3>
+
 <ul>
  <li>
  Junior Data Engineer (Generation SG | Temasek Polytechnic) <a href="images/jde-certificate-of-completion.jpeg"><i>view 
@@ -9,6 +10,7 @@
 </ul>
 
 <h3>Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
+
 <ul>
  <li>
  Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
@@ -28,6 +30,7 @@
 </ul>
 
 <h3>Structured Query Language (SQL)</h3>
+
 <ul>
  <li>
  SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
@@ -36,6 +39,7 @@
 </ul>
 
 <h3>Microsoft Power BI</h3>
+
 <ul>
  <li>
  Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-   
@@ -48,6 +52,7 @@
 </ul>
 
 <h3>Data Analysis Expressions (DAX) | Power Pivot</h3>
+
 <ul>
  <li>
  DAX Power Pivot - Intermediate (Udemy) <a href="images/DAX_Power_Pivot_10_Easy_Steps_for_Intermediates.jpeg"><i>view 
@@ -60,6 +65,7 @@
 </ul>
 
 <h3>Tableau</h3>
+
 <ul>
  <li>
  Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
@@ -68,6 +74,7 @@
 </ul>
 
 <h3>Excel</h3>
+
 <ul>
  <li>
  Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
@@ -96,6 +103,7 @@
 </ul>
 
 <h3>Power Query</h3>
+
 <ul>
  <li>
  Excel Power Query Beginner to Advanced (Udemy) <a href="images/excel_power_query_beginner_to_advanced.jpeg"> 
@@ -104,6 +112,7 @@
 </ul>
 
 <h3>Google Analytics | Tag Manager | Data Studio</h3>
+
 <ul>
  <li>
  Advanced Google Analytics (Google) <a href="images/advanced_google_analytics.jpg"><i>view certificate</i></a>
@@ -120,6 +129,7 @@
 </ul>
 
 <h3>Statistics</h3>
+
 <ul>
  <li>
  Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
@@ -128,6 +138,7 @@
 </ul>
 
 <h3>PowerPoint</h3>
+
 <ul>
  <li>
  PowerPoint: Designing Better Slides (LinkedIn) <a href="images/powerpoint_design_better_slides.jpg"><i>view 
@@ -139,6 +150,7 @@
 </ul>
 
 <h3>Digital Marketing | E-commerce</h3>
+
 <ul>
  <li>
  Digital Marketing & E-commerce Specialist (NTUC Learning Hub) <a 
@@ -151,6 +163,7 @@
 </ul>
 
 <h3>Google Docs</h3>
+
 <ul>
  <li>
  Google Drive Essential Training (LinkedIn) <a href="images/google_drive_essential_training.jpg"><i>view certificate</i></a>
@@ -169,6 +182,7 @@
 </ul>
 
 <h3>Cybersecurity | Networking | Unix | Java</h3>
+
 <ul>
  <li>
  Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.jpg"><i>view certificate</i></a>
