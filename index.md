@@ -7,13 +7,11 @@
             <li style="margin: 0 20px;">
                 <a href="#services" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
             <li style="margin: 0 20px;">
-                <a href="#contact" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
+                <a href="certified_skills.md" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
         </ul>
 </nav>
 
 > [Certified Courses](certified_skills.md)
-> 
-> [Analytics Showcase](portfolio.md)
 > 
 > [LinkedIn Profile](https://www.linkedin.com/in/mbhagwan)
 > 
