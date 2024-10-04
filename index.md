@@ -11,15 +11,8 @@
         </ul>
 </nav>
 
-<center>
-<span style="font-family:Papyrus; font-size:1.5em;">
-  <p><q>Persistence guarantees that results are inevitable.</q></p>
-</span>
-</center>
 
-
-
-<div style="background-color: #f9f9f9; padding: 20px; border-left: 5px solid #333; margin: 20px; max-width: 600px;">
+<div style="background-color: #f9f9f9; padding: 18px; border-left: 5px solid #333; margin: 20px; max-width: 600px;">
         <p style="font-size: 24px; font-style: italic; color: #555; text-align: center; line-height: 1.6;">
             “The only way to do great work is to love what you do.”
         </p>
