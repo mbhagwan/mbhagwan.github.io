@@ -1,12 +1,3 @@
-<!-- <span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Case Studies</span> -->
-
-> [Certified Courses](certified_skills.md)
-> 
-> [Useful Links](links.md)
->
-> [Index](index.md)
-
-<!-- <h5 style='color:SlateGray;'><i>Case Studies:</i></h5> -->
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">Analytics Showcase:</h2>
 <h3>Python</h3>
 
