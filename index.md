@@ -12,8 +12,8 @@
 </nav>
 
 
-<div style="background-color: #f9f9f9; padding: 18px; border-left: 5px solid #333; margin: 20px; max-width: 600px;">
-        <p style="font-size: 24px; font-style: italic; color: #555; text-align: center; line-height: 1.6;">
+<div style="background-color: #f9f9f9; padding: 20px; border-left: 5px solid #333; margin: 20px; max-width: 600px;">
+        <p style="font-size: 23px; font-style: italic; color: #555; text-align: center; line-height: 1.6;">
             “The only way to do great work is to love what you do.”
         </p>
         <p style="font-size: 20px; font-weight: bold; text-align: center; color: #333; margin-top: 10px;">
