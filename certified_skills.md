@@ -1,3 +1,16 @@
+<nav style="background-color: #333; padding: 10px;">
+        <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
+            <li style="margin: 0 20px;">
+                <a href="https://github.com/mbhagwan" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">About</a></li>
+            <li style="margin: 0 20px;">
+                <a href="https://mbhagwan.github.io/portfolio.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Analytics Showcase</a></li>
+            <li style="margin: 0 20px;">
+                <a href="https://mbhagwan.github.io/skills.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
+            <li style="margin: 0 20px;">
+                <a href="https://mbhagwan.github.io/certified_skills.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
+        </ul>
+</nav>
+
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">Certified Courses:</h2>
 
 <h3>Data Engineering</h3>
