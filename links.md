@@ -1,7 +1,7 @@
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">IT Skills:</h2>
 
 <ul>
- <li>Languages
+ <li>Languages:
    <ul>
      <li>Python, SQL, Java, HTML, CSS</li>
    </ul>
