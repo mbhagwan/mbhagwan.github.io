@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <nav style="background-color: #333; padding: 10px;">
         <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
             <li style="margin: 0 20px;">
