@@ -7,7 +7,7 @@
             <li style="margin: 0 20px;">
                 <a href="#services" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
             <li style="margin: 0 20px;">
-                <a href="certified_skills.md" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
+                <a href="https://github.com/mbhagwan/mbhagwan.github.io/blob/main/certified_skills.md" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
         </ul>
 </nav>
 
