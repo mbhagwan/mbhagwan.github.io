@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <nav style="background-color: #333; padding: 10px;">
         <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
             <li style="margin: 0 20px;">
@@ -11,7 +10,6 @@
                 <a href="#contact" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
         </ul>
 </nav>
-</html>
 
 > [Certified Courses](certified_skills.md)
 > 
