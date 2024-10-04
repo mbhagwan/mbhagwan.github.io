@@ -12,11 +12,29 @@
 </nav>
 
 
-<div style="background-color: #f9f9f9; padding: 20px; border-left: 5px solid #333; margin: 18px; max-width: 600px;">
+<div style="background-color: #f9f9f9; padding: 20px; border-left: 5px solid #333; margin: 20px; max-width: 600px;">
         <p style="font-size: 24px; font-style: italic; color: #555; text-align: center; line-height: 1.6;">
             “The only way to do great work is to love what you do.”
         </p>
         <p style="font-size: 20px; font-weight: bold; text-align: center; color: #333; margin-top: 10px;">
+            — Steve Jobs
+        </p>
+</div>
+
+
+<!-- Link to Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Raleway:wght@700&display=swap" rel="stylesheet">
+
+
+<div style="background-color: #f9f9f9; padding: 30px; border-left: 5px solid #333; margin: 40px; max-width: 600px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+        <!-- Quote with large symbols and elegant font -->
+        <p style="font-family: 'Playfair Display', serif; font-size: 30px; font-style: italic; color: #555; text-align: center; line-height: 1.6; position: relative;">
+            <span style="font-size: 60px; color: #bbb; position: absolute; left: -40px; top: -20px;">“</span>
+            The only way to do great work is to love what you do.
+            <span style="font-size: 60px; color: #bbb; position: absolute; right: -40px; bottom: -20px;">”</span>
+        </p>
+        <!-- Author Name with bold and different font -->
+        <p style="font-family: 'Raleway', sans-serif; font-size: 20px; font-weight: bold; text-align: center; color: #333; margin-top: 20px;">
             — Steve Jobs
         </p>
 </div>
