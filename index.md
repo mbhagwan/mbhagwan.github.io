@@ -2,16 +2,16 @@
 <nav style="background-color: #333; padding: 10px;">
         <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
             <li style="margin: 0 20px;">
-                <a href="#home" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Home</a>
+                <a href="#home" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">About</a>
             </li>
             <li style="margin: 0 20px;">
-                <a href="#about" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">About</a>
+                <a href="#about" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Analytics Showcase</a>
             </li>
             <li style="margin: 0 20px;">
-                <a href="#services" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Services</a>
+                <a href="#services" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a>
             </li>
             <li style="margin: 0 20px;">
-                <a href="#contact" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Contact</a>
+                <a href="#contact" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a>
             </li>
         </ul>
 </nav>
