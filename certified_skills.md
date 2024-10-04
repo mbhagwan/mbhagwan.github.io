@@ -1,13 +1,5 @@
-<!--<span style="font-family:Papyrus; font-size:3em; color:SlateGray;">Certified IT Skills</span>
-<h2>IT Skill Set</h2> -->
-
-> [Analytics Showcase](portfolio.md)
-> 
-> [Useful Links](links.md)
->
-> [Index](index.md)
-
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">Certified Courses:</h2>
+
 <h3>Data Engineering</h3>
 <ul>
  <li>
@@ -191,5 +183,3 @@
  Unix Essential Training (LinkedIn) <a href="images/unix_essential_training.jpg"><i>view certificate</i></a>
  </li>
 </ul>
-
-<hr>
