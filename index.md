@@ -5,7 +5,7 @@
             <li style="margin: 0 20px;">
                 <a href="https://mbhagwan.github.io/portfolio.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Analytics Showcase</a></li>
             <li style="margin: 0 20px;">
-                <a href="#services" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
+                <a href="https://mbhagwan.github.io/skills.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
             <li style="margin: 0 20px;">
                 <a href="https://mbhagwan.github.io/certified_skills.html" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Certifications</a></li>
         </ul>
