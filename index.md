@@ -3,7 +3,7 @@
             <li style="margin: 0 20px;">
                 <a href="#home" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">About</a></li>
             <li style="margin: 0 20px;">
-                <a href="#about" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Analytics Showcase</a></li>
+                <a href="porfolio.md" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">Analytics Showcase</a></li>
             <li style="margin: 0 20px;">
                 <a href="#services" target="_blank" style="color: white; text-decoration: none; padding: 14px 20px; display: block;">IT Skills</a></li>
             <li style="margin: 0 20px;">
