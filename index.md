@@ -50,9 +50,9 @@
 <div style="background-color: #f9f9f9; padding: 30px; border-left: 5px solid #333; margin: 40px auto; max-width: 600px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); text-align: center;">
     <!-- Quote with large symbols and elegant font -->
     <p style="font-family: 'Playfair Display', serif; font-size: 30px; font-style: italic; color: #555; line-height: 1.6; position: relative;">
-        <span style="font-size: 60px; color: #bbb;">“</span>
+        <span style="font-size: 50px; color: #bbb;">“</span>
         The only way to do great work is to love what you do.
-        <span style="font-size: 60px; color: #bbb;">”</span>
+        <span style="font-size: 50px; color: #bbb;">”</span>
     </p>
     <!-- Author Name with bold and different font -->
     <p style="font-family: 'Raleway', sans-serif; font-size: 20px; font-weight: bold; text-align: center; color: #333; margin-top: 20px;">
