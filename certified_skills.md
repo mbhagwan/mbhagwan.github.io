@@ -251,10 +251,8 @@ Certified Courses:
 <!-- Python | Matplotlib | Numpy | Pandas | Seaborn Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view certificate</i></a></li>
-    <li>Python Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view certificate</i></a></li>
+    <li>Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view certificate</i></a></li>
+    <li>Python Data Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view certificate</i></a></li>
     <li>Data Analysis with Pandas and Python (Udemy) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a></li>
     <li>Data Analytics Essentials (Cisco) <a href="images/data_analytics_essentials.jpg"><i>view certificate</i></a></li>
 </ul>
