@@ -29,7 +29,9 @@
     </ul>
 </nav>
 
+
 <!-- IT Skills -->
+<!--
 <h2 style="color: gray; font-family: 'Oswald', sans-serif;">IT Skills:</h2>
 
 <ul>
@@ -71,3 +73,38 @@
    </ul>
  </li>
 </ul>
+-->
+
+
+
+<div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <!-- IT Skills Header -->
+    <h2 style="color: #333; font-family: 'Oswald', sans-serif; font-size: 28px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;">
+        IT Skills
+    </h2>
+    <!-- Languages Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Languages:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Python | SQL | Java | HTML | CSS</li>
+    </ul>
+    <!-- Tools Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tools:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Excel | Power BI | DAX | Tableau | PowerPoint | Word</li>
+    </ul>
+    <!-- Databases Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Databases:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>PostgreSQL</li>
+    </ul>
+    <!-- Libraries Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Libraries:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Pandas | NumPy | Jupyter | Matplotlib | Seaborn</li>
+    </ul>
+    <!-- Statistical Analysis Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistical Analysis:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Regression | Hypothesis Testing</li>
+    </ul>
+</div>
