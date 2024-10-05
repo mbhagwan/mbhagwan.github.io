@@ -260,15 +260,13 @@ Certified Courses:
 <!-- SQL Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Structured Query Language (SQL)</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view certificate</i></a></li>
+    <li>SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view certificate</i></a></li>
 </ul>
 
 <!-- Microsoft Power BI Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Microsoft Power BI</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-   
- accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view certificate</i></a></li>
+    <li>Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view certificate</i></a></li>
     <li>Microsoft Power BI Desktop for Business Intelligence (Udemy) <a href="images/microsoft_powerbi_desktop_for_business_intelligence.jpeg"><i>view certificate</i></a></li>
 </ul>
 
@@ -282,15 +280,13 @@ Certified Courses:
 <!-- Tableau Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view certificate</i></a></li>
+    <li>Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view certificate</i></a></li>
 </ul>
 
 <!-- Excel Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Excel</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66"><i>view certificate</i></a></li>
+    <li>Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66"><i>view certificate</i></a></li>
     <li>Advanced Excel - Top Excel Tips & Formulas (Udemy) <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a></li>
     <li>Data Analysis with Excel Pivot Tables (Udemy) <a href="images/data_analysis_with_excel_pivot_tables.jpg"><i>view certificate</i></a></li>
     <li>Data Analysis Essentials Using Excel (Udemy) <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a></li>
@@ -316,8 +312,7 @@ Certified Courses:
 <!-- Statistics Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistics</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
- accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view certificate</i></a></li>
+    <li>Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view certificate</i></a></li>
 </ul>
 
 <!-- PowerPoint Section -->
