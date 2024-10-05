@@ -284,18 +284,20 @@ Certified Courses:
 <!-- Tableau Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Tableau Fundamentals (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>Tableau Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/207fcad7a800c96dd6f4fc885c2f7aad91ac882e"><i>view certificate</i></a></li>
 </ul>
 
 <!-- Excel Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Excel</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Excel Fundamentals (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>Excel Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/86cf67f059b53c6d8ba1b7d82d6c76b2dc0b0f66"><i>view certificate</i></a></li>
     <li>Advanced Excel - Top Excel Tips & Formulas (Udemy) <a href="images/advanced_excel_tips_formulas.jpg"><i>view certificate</i></a></li>
     <li>Data Analysis with Excel Pivot Tables (Udemy) <a href="images/data_analysis_with_excel_pivot_tables.jpg"><i>view certificate</i></a></li>
     <li>Data Analysis Essentials Using Excel (Udemy) <a href="images/data_analysis_essentials_using_excel.jpg"><i>view certificate</i></a></li>
-    <li>Excel for Data Analytics and Visualization (Macquarie University - audited) <a href="(link unavailable)"><i>view course page</i></a></li>
-    <li>Excel Skills for Business (Macquarie University - audited) <a href="(link unavailable)"><i>view course page</i></a></li>
+    <li>Excel for Data Analytics and Visualization (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization"><i>view course page</i></a></li>
+    <li>Excel Skills for Business (Macquarie University - audited) <a href="https://www.coursera.org/specializations/excel"><i>view course page</i></a></li>
 </ul>
 
 <!-- Power Query Section -->
@@ -316,7 +318,8 @@ Certified Courses:
 <!-- Statistics Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistics</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Statistics Fundamentals with Python (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>Statistics Fundamentals with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/5194ee3e181b6e9caa46832d25021915a5b25f25"><i>view certificate</i></a></li>
 </ul>
 
 <!-- PowerPoint Section -->
