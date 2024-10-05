@@ -27,6 +27,11 @@
             </a>
         </li>
         <li style="margin: 0 10px;">
+            <a href="https://mbhagwan.github.io/portfolio.html" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                Analytics Showcase
+            </a>
+        </li>
+        <li style="margin: 0 10px;">
             <a href="https://github.com/mbhagwan?tab=repositories" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
                 GitHub Repositories
             </a>
