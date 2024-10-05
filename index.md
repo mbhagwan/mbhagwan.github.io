@@ -63,3 +63,38 @@
     </ul>
 </nav>
 
+
+
+
+
+<nav style="background-color: #333; padding: 10px;">
+    <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; max-width: 100%;">
+        <li style="margin: 5px;">
+            <a href="https://github.com/mbhagwan" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                About
+            </a>
+        </li>
+        <li style="margin: 5px;">
+            <a href="https://mbhagwan.github.io/portfolio.html" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                Analytics Showcase
+            </a>
+        </li>
+        <li style="margin: 5px;">
+            <a href="https://mbhagwan.github.io/portfolio.html" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                GitHub Repositories
+            </a>
+        </li>
+        <li style="margin: 5px;">
+            <a href="https://mbhagwan.github.io/skills.html" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                IT Skills
+            </a>
+        </li>
+        <li style="margin: 5px;">
+            <a href="https://mbhagwan.github.io/certified_skills.html" target="_blank" style="color: white; text-decoration: none; padding: 10px 15px; background-color: #555; border-radius: 5px; text-align: center; display: block; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                Certifications
+            </a>
+        </li>
+    </ul>
+</nav>
+
+
