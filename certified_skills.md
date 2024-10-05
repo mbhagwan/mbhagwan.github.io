@@ -251,8 +251,10 @@ Certified Courses:
 <!-- Python | Matplotlib | Numpy | Pandas | Seaborn Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Python | Matplotlib | Numpy | Pandas | Seaborn</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Data Analyst with Python (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
-    <li>Python Fundamentals (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>Data Analyst with Python (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/a6a9996f6edd240809caf4ae364a4b2eed0144a7"><i>view certificate</i></a></li>
+    <li>Python Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/d156317e7f74b317f3f2f85b9fb9125e7cbcdd4d"><i>view certificate</i></a></li>
     <li>Data Analysis with Pandas and Python (Udemy) <a href="images/Data_analysis_with_pandas_and_python.jpg"><i>view certificate</i></a></li>
     <li>Data Analytics Essentials (Cisco) <a href="images/data_analytics_essentials.jpg"><i>view certificate</i></a></li>
 </ul>
@@ -260,13 +262,15 @@ Certified Courses:
 <!-- SQL Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Structured Query Language (SQL)</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>SQL Fundamentals (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>SQL Fundamentals (DataCamp) <a href="https://www.datacamp.com/completed/statement-of- 
+ accomplishment/track/e41a418c6e4c20aeaf305e19fd63594e9c55e089"><i>view certificate</i></a></li>
 </ul>
 
 <!-- Microsoft Power BI Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Microsoft Power BI</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Data Analyst in Power BI (DataCamp) <a href="(link unavailable)"><i>view certificate</i></a></li>
+    <li>Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-   
+ accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028"><i>view certificate</i></a></li>
     <li>Microsoft Power BI Desktop for Business Intelligence (Udemy) <a href="images/microsoft_powerbi_desktop_for_business_intelligence.jpeg"><i>view certificate</i></a></li>
 </ul>
 
