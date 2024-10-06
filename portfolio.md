@@ -173,7 +173,7 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Python</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Python: Computing Probabilities - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Extract-Transform-Load - <a href="python-extract-transform-load/notebook.ipynb" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Extract-Transform-Load - <a href="portfolio/python-extract-transform-load/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Python: Webscraping with Beautiful Soup - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Python: Investigating Netflix Movies - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Python: Analyzing NYC Public School Test Scores - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
