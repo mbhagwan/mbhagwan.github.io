@@ -173,12 +173,12 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Python</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Python: Computing Probabilities - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Extract-Transform-Load - <a href="https://github.com/mbhagwan/portfolio/tree/main/python-extract-transform-load" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/python-webscraping-with-beautifulsoup" style="color: #007bff; text-decoration: none;">Python: Webscraping with Beautiful Soup</a></li>
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/python-investigating-netflix-movies" style="color: #007bff; text-decoration: none;">Python: Investigating Netflix Movies</a></li>
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/python-nyc-public-school-test-scores" style="color: #007bff; text-decoration: none;">Python: Analyzing NYC Public School Test Scores</a></li>
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/python-visualizing-the-history-of-nobel-prize-winners" style="color: #007bff; text-decoration: none;">Python: Visualizing the History of Nobel Prize Winners</a></li>
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/python-hypothesis-testing-with-men's-and-women's-soccer-matches" style="color: #007bff; text-decoration: none;">Python: Hypothesis Testing with Soccer Matches</a></li>
+        <li>Python: Extract-Transform-Load - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Webscraping with Beautiful Soup - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Investigating Netflix Movies - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Analyzing NYC Public School Test Scores - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Visualizing the History of Nobel Prize Winners - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Python: Hypothesis Testing with Soccer Matches - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Power BI Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Power BI | DAX | Power Query | Power Pivot</h3>
@@ -190,7 +190,7 @@
     <!-- SQL Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">SQL</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li><a href="https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health" style="color: #007bff; text-decoration: none;">SQL: Analyzing Students' Mental Health</a></li>
+        <li>SQL: Analyzing Students' Mental Health - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Tableau Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
@@ -208,5 +208,3 @@
         <li>Visualizing Sales Data with Excel Charts - <a href="https://github.com/mbhagwan/portfolio/blob/main/basic-excel-charts.pdf" style="color: #007bff; text-decoration: none;"><i>view pdf</i></a></li>
     </ul>
     </div> 
-
-
