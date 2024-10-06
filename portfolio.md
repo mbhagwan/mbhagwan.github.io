@@ -49,7 +49,7 @@
     <!-- Power BI Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Power BI | DAX | Power Query | Power Pivot</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Power BI: Sales Report - <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi target="_blank" style="color: #007bff; text-decoration: none;"><i>view on pbi service</i></a></li>
+        <li>Power BI: Sales Report - <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/aae4488a-c9d8-4d52-807a-5c13c2efda19/ReportSectionb8d0042411da729a179a?experience=power-bi" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on pbi service</i></a></li>
         <li>Power BI: Analyzing Customer Churn - <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/739cf0ec-8b3c-4bf3-a971-f0dd96add519/ReportSection0da0007f61773311eb77?experience=power-bi" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on pbi service</i></a></li>
         <li>Power BI: Sales Dashboard - <a href="https://app.powerbi.com/groups/7c29e3dc-4ad5-4aec-99d6-80875b671179/reports/a210db48-19bf-46c0-b13c-d17761fce271/ReportSection?experience=power-bi" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on pbi service</i></a></li>
     </ul>
