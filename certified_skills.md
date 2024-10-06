@@ -31,7 +31,7 @@
 
 <!-- Certified Courses -->
 <!--
-<h2 style="color: gray; font-family: 'Oswald', sans-serif;">Course Certificates:</h2>
+<h2 style="color: gray; font-family: 'Oswald', sans-serif;">Certified Courses:</h2>
 
 <h3>Data Engineering</h3>
 
@@ -240,7 +240,7 @@
 <div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
 <!-- Certified Courses Header -->
 <h2 style="color: #333; font-family: 'Oswald', sans-serif; font-size: 28px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;">
-Certified Courses:
+Course Certificates:
 </h2>
 <!-- Data Engineering Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Data Engineering</h3>
