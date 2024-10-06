@@ -31,7 +31,7 @@
 
 <!-- Certified Courses -->
 <!--
-<h2 style="color: gray; font-family: 'Oswald', sans-serif;">Certified Courses:</h2>
+<h2 style="color: gray; font-family: 'Oswald', sans-serif;">Course Certificates:</h2>
 
 <h3>Data Engineering</h3>
 
