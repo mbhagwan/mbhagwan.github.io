@@ -172,13 +172,13 @@
     <!-- Python Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Python</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Python: Computing Probabilities - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Extract-Transform-Load - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-extract-transform-load/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Webscraping with Beautiful Soup - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-webscraping-with-beautifulsoup/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Investigating Netflix Movies - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Analyzing NYC Public School Test Scores - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Visualizing the History of Nobel Prize Winners - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
-        <li>Python: Hypothesis Testing with Soccer Matches - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Computing Probabilities - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Extract-Transform-Load - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-extract-transform-load/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Webscraping with Beautiful Soup - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-webscraping-with-beautifulsoup/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Investigating Netflix Movies - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-investigating-netflix-movies/notebook.ipynb" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Analyzing NYC Public School Test Scores - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-nyc-public-school-test-scores/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Visualizing the History of Nobel Prize Winners - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-visualizing-the-history-of-nobel-prize-winners/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Hypothesis Testing with Soccer Matches - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-hypothesis-testing-with-men's-and-women's-soccer-matches/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Power BI Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Power BI | DAX | Power Query | Power Pivot</h3>
@@ -190,7 +190,7 @@
     <!-- SQL Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">SQL</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>SQL: Analyzing Students' Mental Health - <a href="" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>SQL: Analyzing Students' Mental Health - <a href="https://github.com/mbhagwan/portfolio/blob/main/sql-analyzing-students'-mental-health/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Tableau Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
