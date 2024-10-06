@@ -191,6 +191,7 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">SQL</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Analyzing Students' Mental Health - <a href="https://github.com/mbhagwan/portfolio/blob/main/sql-analyzing-students'-mental-health/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Analyzing Students' Mental Health - <a href="/portfolio/sql-analyzing-students'-mental-health/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Tableau Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
