@@ -341,7 +341,7 @@ Certified Courses:
 <!-- Cybersecurity | Networking | Unix | Java Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Cybersecurity | Networking | Unix | Java</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.jpg"><i>view certificate</i></a></li>
+    <li>Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.jpg" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Networking Basics (LinkedIn) <a href="images/networking_basics.jpg" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Practice it: Java (LinkedIn) <a href="images/practice_it_java.jpg" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Unix Essential Training (LinkedIn) <a href="images/unix_essential_training.jpg" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
