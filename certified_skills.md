@@ -267,7 +267,7 @@ Course Certificates:
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Microsoft Power BI</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
     <li>Data Analyst in Power BI (DataCamp) <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/2e68a585ccb47ae7d3145b72f64aef4cfcb1b028" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
-    <li>Microsoft Power BI for Data Analysts<a href="images/power-bi-for-data-analysts.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
+    <li>Microsoft Power BI for Data Analysts (LinkedIn) <a href="images/power-bi-for-data-analysts.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Microsoft Power BI Desktop for Business Intelligence (Udemy) <a href="images/microsoft_powerbi_desktop_for_business_intelligence.jpeg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
 </ul>
 
