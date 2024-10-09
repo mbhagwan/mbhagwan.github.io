@@ -136,7 +136,7 @@ Course Certificates:
 <!-- Miscellaneous Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Miscellaneous</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>ChatGPT for Data Analytics<a href="images/chatgpt-for-data-analytics.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
+    <li>ChatGPT for Data Analytics <a href="images/chatgpt-for-data-analytics.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Introduction to Cybersecurity (Cisco) <a href="images/introduction_to_cybersecurity.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Networking Basics (LinkedIn) <a href="images/networking_basics.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
     <li>Practice it: Java (LinkedIn) <a href="images/practice_it_java.jpg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
