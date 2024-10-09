@@ -90,8 +90,8 @@
     <!-- Tools Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tools:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Excel | Power Pivot | Power Query | DAX</li>
-        <li>Power BI | Tableau</li>
+        <li>Excel | Power Pivot | Power Query</li>
+        <li>DAX | Power BI | Tableau</li>
         <li>PowerPoint | Word</li>
     </ul>
     <!-- Databases Section -->
