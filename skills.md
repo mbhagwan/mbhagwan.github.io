@@ -85,7 +85,8 @@
     <!-- Languages Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Languages:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Python | SQL | Java | HTML | CSS</li>
+        <li>Java | Python | SQL</li>
+        <li>HTML | CSS</li>
     </ul>
     <!-- Tools Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tools:</h3>
@@ -102,7 +103,8 @@
     <!-- Libraries Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Libraries:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Pandas | NumPy | Jupyter | Matplotlib | Seaborn</li>
+        <li>NumPy | Pandas | Jupyter</li>
+        <li>Matplotlib | Seaborn</li>
     </ul>
     <!-- Statistical Analysis Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistical Analysis:</h3>
