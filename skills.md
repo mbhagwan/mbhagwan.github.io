@@ -70,7 +70,8 @@
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Bachelor of Commerce in Finance and Marketing<br> Curtin University, Singapore | 2012</li>
         <li>Diploma in Sales and Marketing<br> Marketing Institute of Singapore | 2008</li>
-    </ul> </div> -->
+    </ul> -->
+<!-- </div> -->
 
 <div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     <!-- Education & Technical Skills Header -->
