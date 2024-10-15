@@ -47,15 +47,14 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Software Tools:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Microsoft Excel (Advanced) | Power Pivot | Power Query</li>
-        <li>DAX | Power BI | Tableau</li>
+        <li>DAX | Power BI</li>
+        <li>Tableau</li>
         <li>Microsoft PowerPoint | Word</li>
     </ul>
     <!-- Development Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Development Tools:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>Git</li>
-        <li>Jupyter</li>
-        <li>VSCode</li>
+        <li>Git | Jupyter | VSCode</li>
     </ul>
     <!-- Databases Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Databases:</h3>
