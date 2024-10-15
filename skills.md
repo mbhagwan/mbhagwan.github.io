@@ -64,6 +64,7 @@
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Regression | Hypothesis Testing</li>
     </ul>
+    <hr>
     <!-- Education Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Education:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
