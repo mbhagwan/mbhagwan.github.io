@@ -65,7 +65,7 @@
     <!-- Libraries Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Data Analysis Libraries:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>NumPy | Pandas </li>
+        <li>NumPy | Pandas | SciPy</li>
         <li>Matplotlib | Seaborn</li>
     </ul>
     <!-- Statistical Analysis Section -->
