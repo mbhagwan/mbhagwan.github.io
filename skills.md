@@ -29,7 +29,7 @@
     </ul>
 </nav>
 
-
+<!--old version
 <div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     <!-- Education | IT Skills Header -->
     <h2 style="color: #333; font-family: 'Oswald', sans-serif; font-size: 28px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;">
@@ -69,6 +69,50 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Education:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Bachelor of Commerce in Finance and Marketing<br> Curtin University, Singapore | 2012</li>
+        <li>Diploma in Sales and Marketing<br> Marketing Institute of Singapore | 2008</li>
+    </ul> </div> -->
+
+<div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <!-- Education & Technical Skills Header -->
+    <h2 style="color: #333; font-family: 'Oswald', sans-serif; font-size: 28px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;">
+        Education and Technical Skills
+    </h2>
+    <!-- Languages Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Programming Languages:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Python</li>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>HTML | CSS</li>
+    </ul>
+    <!-- Tools Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Software Tools:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Microsoft Excel (Advanced) | Power Pivot | Power Query</li>
+        <li>DAX | Power BI | Tableau</li>
+        <li>Microsoft PowerPoint | Word</li>
+    </ul>
+    <!-- Databases Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Databases:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>PostgreSQL</li>
+    </ul>
+    <!-- Libraries Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Data Analysis Libraries:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>NumPy | Pandas | Jupyter</li>
+        <li>Matplotlib | Seaborn</li>
+    </ul>
+    <!-- Statistical Analysis Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistical Methods:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Regression Analysis | Hypothesis Testing</li>
+    </ul>
+    <hr>
+    <!-- Education Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Education:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Bachelor of Commerce, Finance & Marketing<br> Curtin University, Singapore | 2012</li>
         <li>Diploma in Sales and Marketing<br> Marketing Institute of Singapore | 2008</li>
     </ul>
 </div>
