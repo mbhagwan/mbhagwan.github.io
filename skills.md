@@ -30,57 +30,10 @@
 </nav>
 
 
-<!-- IT Skills -->
-<!--
-<h2 style="color: gray; font-family: 'Oswald', sans-serif;">IT Skills:</h2>
-
-<ul>
- <li>Languages:
-   <ul>
-     <li>Python | SQL | Java | HTML | CSS</li>
-   </ul>
- </li>
-</ul>
-
-<ul>
- <li>Tools:
-   <ul>
-     <li>Excel | Power BI | DAX | Tableau | PowerPoint | Word</li>
-   </ul>
- </li>
-</ul>
-
-<ul>
- <li>Databases:
-   <ul>
-     <li>PostgreSQL</li>
-   </ul>
- </li>
-</ul>
-
-<ul>
- <li>Libraries:
-   <ul>
-     <li>Pandas | NumPy | Jupyter | Matplotlib | Seaborn</li>
-   </ul>
- </li>
-</ul>
-
-<ul>
- <li>Statistical Analysis:
-   <ul>
-     <li>Regression | Hypothesis Testing</li>
-   </ul>
- </li>
-</ul>
--->
-
-
-
 <div style="background-color: #f4f4f4; padding: 40px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    <!-- IT Skills Header -->
+    <!-- Education | IT Skills Header -->
     <h2 style="color: #333; font-family: 'Oswald', sans-serif; font-size: 28px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;">
-        IT Skills
+        Education | IT Skills
     </h2>
     <!-- Languages Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Languages:</h3>
@@ -110,5 +63,10 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Statistical Analysis:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Regression | Hypothesis Testing</li>
+    </ul>
+    <!-- Education Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Education:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Bachelor of Commerce in Finance and Marketing<br> Curtin University, Singapore | 2012</li>
     </ul>
 </div>
