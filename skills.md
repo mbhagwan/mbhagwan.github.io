@@ -77,6 +77,6 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Education:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>Bachelor of Commerce, Finance & Marketing<br> Curtin University, Singapore (Graduated 2012)</li>
-        <li>Diploma, Sales and Marketing<br> Marketing Institute of Singapore (Graduated 2008)</li>
+        <li>Diploma in Sales and Marketing<br>Marketing Institute of Singapore (Graduated 2008)</li>
     </ul>
 </div>
