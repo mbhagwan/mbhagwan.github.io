@@ -50,6 +50,13 @@
         <li>DAX | Power BI | Tableau</li>
         <li>Microsoft PowerPoint | Word</li>
     </ul>
+    <!-- Development Section -->
+    <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Development Tools:</h3>
+    <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>Git</li>
+        <li>Jupyter</li>
+        <li>VSCode</li>
+    </ul>
     <!-- Databases Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Databases:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
@@ -58,7 +65,7 @@
     <!-- Libraries Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Data Analysis Libraries:</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>NumPy | Pandas | Jupyter</li>
+        <li>NumPy | Pandas </li>
         <li>Matplotlib | Seaborn</li>
     </ul>
     <!-- Statistical Analysis Section -->
