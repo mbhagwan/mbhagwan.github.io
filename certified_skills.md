@@ -39,7 +39,7 @@ Course Certificates:
 <!-- Data Engineering Section -->
 <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Data Engineering</h3>
 <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-    <li>Junior Data Engineer (Generation SG | Temasek Polytechnic) <a href="images/jde-certificate-of-completion.jpeg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
+    <li>Junior Data Engineer  <a href="images/jde-certificate-of-completion.jpeg" target="_blank" style="color: #007bff; text-decoration: none;"><i>view certificate</i></a></li>
 </ul>
 
 <!-- Python | Matplotlib | Numpy | Pandas | Seaborn Section -->
