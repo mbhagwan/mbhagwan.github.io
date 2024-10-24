@@ -44,6 +44,7 @@
         <li>Investigating Netflix Movies - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-investigating-netflix-movies/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Exploring NYC Public School Test Scores - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-nyc-public-school-test-scores/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Visualizing the History of Nobel Prize Winners - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-visualizing-the-history-of-nobel-prize-winners/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
+        <li>Analyzing Crime in Los Angeles - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-analyzing-crime-in-los-angeles/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
         <li>Hypothesis Testing with Soccer Matches - <a href="https://github.com/mbhagwan/portfolio/blob/main/python-hypothesis-testing-with-men's-and-women's-soccer-matches/notebook.ipynb" target="_blank" style="color: #007bff; text-decoration: none;"><i>view notebook</i></a></li>
     </ul>
     <!-- Power BI Section -->
