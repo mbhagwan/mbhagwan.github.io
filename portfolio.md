@@ -63,8 +63,8 @@
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Tableau</h3>
     <ul style="color: #444; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>HR Analytics Dashboard - <a href="https://public.tableau.com/views/atlas-labs-hr-dashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on tableau public</i></a></li>
-        <li>Analyzing Customer Churn - <a href="https://public.tableau.com/shared/DX5YGKKHF?:display_count=n&:origin=viz_share_link" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on tableau public</i></a></li>
-        <li>Analyzing Historical Trip Data - <a href="https://public.tableau.com/shared/KJHZ49JS6?:display_count=n&:origin=viz_share_link" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on tableau public</i></a></li>
+        <li>Analyzing Customer Churn - <a href="https://public.tableau.com/app/profile/bhagwan.murlimal/viz/CustomerChurnAnalysis_17171444612550/DatabelTelecomChurnAnalysis" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on tableau public</i></a></li>
+        <li>Analyzing Historical Trip Data - <a href="https://public.tableau.com/app/profile/bhagwan.murlimal/viz/CityBikeTripHistoryfor2018/Dashboard" target="_blank" style="color: #007bff; text-decoration: none;"><i>view on tableau public</i></a></li>
     </ul>
     <!-- Excel Section -->
     <h3 style="color: #555; font-family: 'Oswald', sans-serif; font-size: 22px; margin-bottom: 10px;">Excel</h3>
